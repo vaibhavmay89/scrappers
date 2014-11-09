@@ -25,7 +25,7 @@ dict = {
 f = open('full_list.txt','a')
 
 l = []
-for i in range(0,int(len(urls)): 
+for i in range(0,len(urls)): 
 	urls[i] = urls[i].replace("\n","")
 	page  = requests.get(urls[i])
 	tree = html.fromstring(page.text)
