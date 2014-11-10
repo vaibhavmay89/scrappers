@@ -25,15 +25,16 @@ dict = {
 
 
 f = open('full_list.txt','a', encoding= 'utf8')
-
+full = []
 l = []
 for i in range(0,len(urls)): 
 	urls[i] = urls[i].replace("\n","")
 	page  = requests.get(urls[i])
 	tree = html.fromstring(page.text)
 	for key in dict: 
-		##print(key)
+		print(key)
 		l.append(tree.xpath(dict[key]))
+		full.append
 	try:
 		print(str(l))
 		f.write("'"+str(i)+"',"+str(l)+'\n||||')
