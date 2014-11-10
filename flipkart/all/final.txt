@@ -1,0 +1,990 @@
+name|Price|Raiting|Votes|5|3|Pointer Device|Web Camera|Included Software|HDD Capacity|Keyboard|Brand|Audio I/O Channels|Sales Package|Ideal For|RAID Configurations|
+[]|[]|[]|[]|[]|['Lenovo G50-70 Notebook (4th Gen Ci3/ 4GB/ 500GB/ Free DOS) (59-422412)']|
+[]|['9']|[]|['4']|['4.3']|['Lenovo G50-70 Notebook (4th Gen Ci3/ 4GB/ 500GB/ Win8.1/ 2GB Graph) (59-422406)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['4']|[]|['0']|['3.5']|['Lenovo Ideapad Z Series Intel Core i5  -  15.6 inch, 1 TB HDD, 8 GB DDR3, Windows 8 Laptop']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['10']|['Rs. 36,990                ']|['0']|['4.5']|['Lenovo Ideapad G50 (59-422410) Intel Core i3  -  15.6 inch, 1 TB HDD, 8 GB DDR3, Windows 8 Laptop']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['155']|[]|['73']|['4']|['HP 15-r022TX Notebook (4th Gen Ci5/ 8GB/ 1TB/ Free DOS/ 2GB Graph) (J6M27PA)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['185']|['Rs. 29,490                ']|['79']|['3.9']|['Dell Vostro 14 V3446 Notebook (4th Gen Ci3/ 4GB/ 500GB/ Ubuntu/ 2 GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['88']|[]|['38']|['4']|['HP 15-r014TX Notebook (4th Gen Ci5/ 4GB/ 1TB/ Win8.1/ 2GB Graph) (J2C54PA)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['70']|['Rs. 27,640                ']|['38']|['4']|['HP Compaq 15-s005TX Notebook (4th Gen Ci3/ 4GB/ 500GB/ Free DOS/ 2GB Graph) (J8C09PA)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['100']|[]|['45']|['4.6']|['Apple MD760HN/B MacBook Air (Ci5/ 4GB/ 128GB Flash/ Mac OS X Mavericks)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['24']|['Rs. 34,390                ']|['8']|['3.8']|['Dell Vostro 14 V3446 Notebook (4th Gen Ci3/ 4GB/ 500GB/ Windows 8.1/ 2 GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['87']|[]|['34']|['3.9']|['Lenovo Flex 2-14D Notebook (APU Quad Core A6/ 4GB/ 500GB 8GB SSD/ Win8.1) (59-427873)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['56']|['Rs. 43,499                ']|['24']|['4.2']|['Dell Vostro 14 V3446 Notebook (4th Gen Ci5/ 4GB/ 500GB/ Windows 8.1/ 2 GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['48']|['Rs. 33,890                ']|['18']|['3.1']|['Dell Inspiron 15 3542 Notebook (4th Gen Ci3/ 4GB/ 500GB/ Win8.1)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['45']|['Rs. 28,490                ']|['18']|['4.2']|['HP Compaq 15-s009TU Notebook (4th Gen Ci3/ 4GB/ 500GB/ Window 8.1) (J8C08PA)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['46']|['Rs. 33,310                ']|['25']|['4.2']|['HP 15-r007TU Notebook (4th Gen Ci3/ 4GB/ 500GB/ Win8.1) (G8D27PA)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['60']|['Rs. 30,190                ']|['23']|['3.5']|['Lenovo B50-70 Notebook (4th Gen Ci3/ 4GB/ 1TB/ Free DOS/ 1GB Graph) (59-427748)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['64']|['Rs. 37,990                ']|['33']|['3.9']|['Dell Vostro 14 V3446 Notebook (4th Gen Ci5/ 4GB/ 500GB/ Ubuntu/ 2 GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['57']|['Rs. 35,590                ']|['30']|['3.8']|['HP (i5/ 4GB/ 1TB/ DOS)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['40']|['Rs. 31,990                ']|['19']|['3.8']|['HP Compaq 15-s006TU Notebook (4th Gen Ci5/ 4GB/ 500GB/ Free DOS) (J8B65PA)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['54']|['Rs. 29,490                ']|['26']|['3.6']|['Asus X551CA-SX014H Laptop (3rd Gen Ci3/ 4GB/ 500GB/ Win8)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['26']|['Rs. 21,010                ']|['11']|['3.5']|['Lenovo B4030 Notebook (4th Gen CDC/ 2GB/ 500GB/ Win8.1) (59-425891)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['25']|['Rs. 20,642                ']|['13']|['2.8']|['Lenovo IdeaPad A10 (59-388639) Slatebook (Quad Core A9/ 1GB/ 16GB eMMC/ Android 4.2/ Touch)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['52']|['Rs. 34,299                ']|['26']|['4.1']|['HP 15-g002AX Notebook (APU Quad Core A8/ 4GB/ 1TB/ Win8.1/ 2 GB Graph) (G8D84PA)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['36']|['Rs. 18,849                ']|['15']|['3.7']|['Asus X551CA-SX021D Laptop (3rd Gen CDC/ 2GB/ 500GB/ DOS)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['57']|['Rs. 22,990                ']|['32']|['4.4']|['Asus X552EA-SX006D Laptop (APU Quad Core A4/ 4GB/ 500GB/ DOS)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['33']|['Rs. 18,999                ']|['19']|['3.7']|['Asus X551CA-SX075D Laptop (3rd Gen CDC/ 2GB/ 500GB/ DOS)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['206']|['Rs. 35,490                ']|['86']|['4.1']|['Dell Inspiron 15 3521 Laptop (3rd Gen Ci3/ 4GB/ 500GB/ Win8)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['47']|['Rs. 22,699                ']|['17']|['4']|['Acer Aspire E E1-510 Notebook (4th Gen PQC/ 2GB/ 500GB/ Linux) (NX.MGRSI.001)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['89']|['Rs. 43,100                ']|['37']|['3.8']|['Lenovo Essential G400s (59-383645) Laptop (3rd Gen Ci5/ 4GB/ 500GB/ Win8/ 2GB Graph/ Touch)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['34']|['Rs. 28,990                ']|['13']|['4.3']|['Dell V3540 Latitude Intel Core i3  -  15.6 inch, 500 GB HDD, 4 GB DDR3, Linux/Ubuntu Laptop']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['50']|[]|['14']|['4.3']|['Apple MD711HN/B MacBook Air (Ci5/ 4GB/ 128GB Flash/ Mac OS X Mavericks)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['20']|['Rs. 28,988                ']|['4']|['4']|['Dell Inspiron 15 3542 Notebook (4th Gen Ci3/ 4GB/ 500GB/ Ubuntu)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['52']|['Rs. 29,250                ']|['19']|['3.9']|['Acer Aspire E1-471 Notebook (3rd Gen Ci3/ 4GB/ 500GB/ Linux) (UN.M0QSI.003)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['26']|['Rs. 30,390                ']|['6']|['4']|['HP 15-G015AU Notebook (APU Quad Core A4/ 4GB/ 500GB/ Win8.1)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['51']|['Rs. 41,550                ']|['24']|['3.8']|['Lenovo Essential G505S (59-380131) Laptop (APU Quad Core A10/ 4GB/ 1TB/ Win8/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['97']|['Rs. 51,490                ']|['42']|['4.1']|['Dell Inspiron 15 Laptop (4th Gen Ci5/ 6GB/ 1TB/ Win8/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['41']|['Rs. 24,990                ']|['23']|['3']|['Sony VAIO Fit 15E SVF15413SNB Laptop (APU Quad Core A8/ 2GB/ 500GB/ Win8)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['8']|['Rs. 35,990                ']|['4']|['3.9']|['HP 240 G2 Notebook (3rd Gen Ci3/ 4GB/ 500GB/ Free DOS) (J7V31PA)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['46']|['Rs. 19,884                ']|['18']|['4.3']|['Asus X200CA-KX072D Netbook (CDC/ 2GB/ 500GB/ DOS)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['17']|['Rs. 42,990                ']|['6']|['4.1']|['Dell Inspiron 15 3542 Notebook (4th Gen Ci5/ 4GB/ 1 TB/ Win8.1)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['40']|['Rs. 26,899                ']|['24']|['3.7']|['Asus X200CA-KX219D VivoBook (3rd Gen ci3/ 4GB/ 500GB/ DOS)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['19']|['Rs. 17,490                ']|['5']|['2.9']|['Asus X200MA-KX140D X Others  -  11.6 inch, 500 GB HDD, 2 GB DDR3, DOS Netbook']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['15']|['Rs. 43,790                ']|['6']|['4.1']|['Dell Inspiron 15 3542 Notebook (4th Gen Ci5/ 4GB/ 1TB/ Win8.1/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['51']|['Rs. 34,490                ']|['29']|['4.7']|['Toshiba Satellite L50D-B 83110 Notebook (APU Quad Core A8/ 8GB/ 1TB/ Win8.1/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['21']|['Rs. 19,990                ']|['10']|['4']|['Asus X551CA-SX043D X Pentium Dual Core  -  15.6 inch, 500 GB HDD, 2 GB DDR3, DOS Laptop']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['153']|['Rs. 34,900                ']|['60']|['4.1']|['Dell Inspiron 15 352134500iBU1 Laptop (3rd Gen Ci3/ 4GB/ 500GB/ Linux)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['7']|['Rs. 27,490                ']|['4']|['3.9']|['Dell Inspiron 15 3542 Notebook (4th Gen PDC/ 4GB/ 500GB/ Win8.1)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['13']|['Rs. 20,600                ']|['6']|['4.2']|['Dell Vostro 14 3445 Notebook (APU Dual Core E1/ 4GB/ 500GB/ Ubuntu)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['75']|['Rs. 49,999                ']|['37']|['4.5']|['HP Pavilion 15-p077TX Notebook (4th Gen Ci5/ 8GB/ 1TB/ Win8.1/ 2GB Graph) (J6M42PA)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['36']|['Rs. 23,650                ']|['13']|['4.1']|['Lenovo Essential G505 (59-379446) Laptop (APU Dual Core/ 2GB/ 500GB/ DOS)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['14']|['Rs. 21,000                ']|['7']|['3.4']|['Toshiba Satellite C50A-E0110 Notebook (4th CDC/ 2GB/ 500GB/ Win8.1)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['7']|['Rs. 20,600                ']|['4']|['3.6']|['Lenovo G405(59-415701) G APU Quad Core  -  14 inch, 500 GB HDD, 2 GB DDR3, DOS Laptop']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['23']|['Rs. 44,490                ']|['8']|['3.3']|['Lenovo B50-70 Notebook (4th Gen Ci5/ 8GB/ 1TB/ Win8/ 2GB Graph) (59-427747)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['6']|['Rs. 30,380                ']|['1']|['4.7']|['HP 250 G2 Notebook (3rd Gen Ci3/ 4GB/ 500GB/ Free DOS) (G8Z71PA)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['4']|['Rs. 24,199                ']|['1']|['4']|['Dell Vostro 14 3445 Notebook (APU Dual Core E1/ 4GB/ 500GB/ Win8.1)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['8']|['Rs. 24,990                ']|['3']|['4.6']|['Dell Inspiron 15 3542 Notebook (4th Gen PDC/ 4GB/ 500GB/ Ubuntu)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['87']|[]|['35']|['4']|['Apple MD101HN/A Macbook Pro MD101HN/A Intel Core i5  -  13 inch, 500 GB HDD, 4 GB DDR3, Mac OS Laptop']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['45']|['Rs. 29,599                ']|['18']|['4.2']|['Lenovo Essential G500 (59-380860) Laptop (3rd Gen Ci3/ 2GB/ 500GB/ DOS)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['26']|[]|['13']|['4']|['Apple MD761HN/B MacBook Air (Ci5/ 4GB/ 256GB Flash/ Mac OS X Mavericks)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['32']|[]|['14']|['4.4']|['HP Pavilion 15-p028TX Notebook (4th Gen Ci3/ 4GB/ 1TB/ Win8.1/ 2 GB Graph) (J2C47PA)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['30']|['Rs. 38,500                ']|['14']|['4.1']|['Dell Inspiron 15 3521 Laptop (3rd Gen Ci3/ 4GB/ 500GB/ Win8.1/ 1GB Graph/ Touch)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['48']|['Rs. 61,950                ']|['18']|['3.8']|['Lenovo Z50-70 (59-427812) Notebook (4th Gen Ci7/ 8GB/ 1TB/ Win8.1/ 4GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['17']|['Rs. 34,990                ']|['6']|['4.3']|['HP Compaq 15-s007TU Notebook (4th Gen Ci5/ 4GB/ 500GB/ Window 8.1) (J8C02PA)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['18']|['Rs. 35,990                ']|['8']|['3.9']|['Dell Inspiron 15 3537 Laptop (4th Gen Ci3/ 4GB/ 500GB/ Win8.1)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['54']|['Rs. 43,900                ']|['30']|['4.3']|['HP 15-d103tx Notebook (4th Gen Ci5/ 4GB/ 500GB/ Free DOS/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['34']|[]|['19']|['4.4']|['HP Pavilion 15-p045TX Notebook (4th Gen Ci7/ 8GB/ 1TB/ Win8.1/ 2GB Graph) (J2C71PA)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['61']|['Rs. 31,990                ']|['26']|['4.3']|['Dell Inspiron 15 3521 Laptop (3rd Gen Ci3/ 4GB/ 500GB/ Ubuntu)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['28']|['Rs. 19,620                ']|['14']|['4.1']|['Asus X200CA-KX018D Netbook (CDC/ 2GB/ 500GB/ DOS)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['14']|['Rs. 35,270                ']|['4']|['3.4']|['HP 15-r022TU Notebook (4th Gen Ci3/ 4GB/ 1TB/ Win8.1) (J2C55PA)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['13']|['Rs. 42,800                ']|['8']|['3.9']|['Lenovo FLEX 2-14 Notebook (4th Gen Ci3/ 4GB/ 500GB/ Win8.1/ Touch) (59-413529)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['30']|['Rs. 28,500                ']|['19']|['3.7']|['Asus X552CL-SX019D Laptop (3rd Gen Ci3/ 4GB/ 500GB/ DOS/ 1GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['18']|['Rs. 24,430                ']|['13']|['3.2']|['Dell Inspiron 11 3000 Netbook (4th Gen CDC/ 2GB/ 500GB/ Win8/ Touch)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['14']|['Rs. 31,000                ']|['6']|['3.6']|['Dell Vostro 14 V3446 Notebook (4th Gen Ci3/ 4GB/ 500GB/ Ubuntu/ 2 GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['16']|['Rs. 33,890                ']|['6']|['4.1']|['Dell Inspiron 15 3537 Laptop (4th Gen Ci3/ 2GB/ 500GB/ Win8.1/ 1GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['26']|['Rs. 37,500                ']|['10']|['4.5']|['HP Pavilion 15-n205TX Laptop (3rd Gen Ci3 4GB/ 500GB/ Win8.1/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 53,800                ']|[]|['4.5']|['Lenovo Z50-70 Notebook (4th Gen Ci5/ 8GB/ 1TB/ Win8.1/ 4GB Graph) (59-427802)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['52']|['Rs. 62,350                ']|['25']|['4.2']|['Dell Inspiron 15 Laptop (4th Gen Ci7/ 8GB/ 1TB/ Win8/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['31']|['Rs. 43,900                ']|['21']|['4.4']|['Lenovo Z50-70 Notebook (4th Gen Ci5/ 4GB/ 1TB/ Free DOS/ 2GB Graph) (59-419439)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['10']|['Rs. 34,350                ']|['3']|['4.2']|['Lenovo Ideapad S510p (59-398253) Laptop (4th Gen Ci3/ 2GB/ 500GB/ Win8.1)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['16']|['Rs. 40,330                ']|['9']|['4.2']|['Dell Inspiron 15 3542 Notebook (4th Gen Ci5/ 4GB/ 1TB/ Ubuntu/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['39']|['Rs. 34,750                ']|['20']|['4.4']|['Acer Aspire E1-572 Laptop (4th Gen Ci5/ 4GB/ 500GB/ Linux) (NX.M8ESI.002)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['14']|['Rs. 24,400                ']|['7']|['3.9']|['Lenovo G50-45 Notebook (APU Quad Core A6/ 4GB/ 500GB/ Win8.1) (80E300GWIN)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['18']|['Rs. 29,499                ']|['5']|['4.1']|['Asus T100TA-DK002H Transformer Book (Atom/ 2GB/ 32GB/Win 8.1)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['21']|[]|['6']|['4.8']|['HP Pavilion 15-p027TX Notebook (4th Gen Ci3/ 4GB/ 1TB/ Win8.1/ 2GB Graph) (J2C46PA)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['21']|['Rs. 40,170                ']|['14']|['4.3']|['HP 15-r007TX Notebook (4th Gen Ci5/ 4GB/ 1TB/ Free DOS/ 2GB Graph) (G8D31PA)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['16']|['Rs. 41,490                ']|['8']|['3.4']|['Dell Vostro 14 3446 Notebook (4th Gen Ci5/ 4GB/ 500GB/ Win8.1/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['12']|['Rs. 37,490                ']|['3']|['3.8']|['Dell Inspiron 15 3542 Notebook (4th Gen Ci3/ 4GB/ 500GB/ Win8.1/ Touch)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['14']|[]|['9']|['4.5']|['HP 15-P073TX Notebook (4th Gen Ci7/ 8GB/ 1TB/ Win8.1/ 2GB Graph) (J6L90PA)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['5']|[]|['2']|['4.2']|['Dell Vostro 3546 Notebook (4th Gen Ci3/ 4GB/ 1TB/ Ubuntu) (3546341TBiGU)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['16']|[]|['8']|['4.2']|['HP 15-p029TX Notebook (4th Gen Ci3/ 4GB/ 1TB/ Win8.1/ 2GB Graph) (J2C48PA)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['18']|['Rs. 27,460                ']|['7']|['4.3']|['Dell Vostro 14 3445 Notebook (APU Quad Core A6/ 4GB/ 500GB/ Ubuntu/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['29']|['Rs. 32,480                ']|['12']|['4.2']|['Lenovo Essential G500s(59-383022) Laptop (3rd Gen Ci3/ 2GB/ 1TB/ DOS/ 1GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['33']|['Rs. 26,900                ']|['18']|['4.1']|['Asus X550CA-XO702D Laptop (3rd Gen Ci3/ 2GB/ 500GB/ DOS)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['13']|['Rs. 26,490                ']|['6']|['4.3']|['Toshiba Satellite C50-A I001C Laptop (3rd Gen Ci3/ 2GB/ 500GB/ No OS)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['21']|['Rs. 31,499                ']|['9']|['4.6']|['Toshiba Satellite C50-A I2012 Laptop (3rd Gen Ci3/ 4GB/ 500GB/ No OS/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['3']|['Rs. 27,990                ']|['1']|['3.7']|['HP 240 240-F6Q29PA Intel Core i3  -  14 inch, 500 GB HDD, 2 GB DDR3, DOS Laptop']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['27']|['Rs. 38,900                ']|['12']|['4.3']|['HP Pavilion 15-N259TX Notebook (4th Gen Ci3/ 4GB/ 500GB/ Win8.1/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['10']|['Rs. 38,990                ']|['7']|['4.5']|['Lenovo Z50-70 Notebook (4th Gen Ci5/ 4GB/ 1TB/ Free DOS) (59-419432)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['15']|['Rs. 30,699                ']|['8']|['3.8']|['Acer Aspire E1-570 Notebook (3rd Gen Ci3/ 4GB/ 500GB/ Win8) (NX.MEPSI.007)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['9']|['Rs. 24,150                ']|['4']|['3.8']|['Acer E1-522 (NX.M81SI.010) Laptop (APU Quad Core A6/ 4GB/ 500GB/ Linux)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['17']|['Rs. 37,590                ']|['8']|['4.2']|['Dell Inspiron 15 3542 Notebook (4th Gen Ci3/ 4GB/ 500GB/ Win8.1/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['58']|['Rs. 28,999                ']|['25']|['4.3']|['Dell Inspiron 15 3521 Laptop (3rd Gen PDC/ 4GB/ 500GB/ Ubuntu)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['12']|['Rs. 38,990                ']|['6']|['3.2']|['Dell Inspiron 15 3542 Notebook (4th Gen Ci5/ 4GB/ 1TB/ Ubuntu) (3542541TBiSU)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['5']|['Rs. 33,790                ']|['2']|['4.4']|['Dell Inspiron 15 3542 Notebook (4th Gen Ci3/ 4GB/ 500GB/ Win8.1)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['125']|['Rs. 34,900                ']|['59']|['4.2']|['Dell Vostro 2520 Laptop (3rd Gen Ci3/ 4GB/ 500GB/ Win8)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['18']|['Rs. 29,410                ']|['7']|['3.2']|['Lenovo Essential G500 (59-383037) Laptop (3rd Gen Ci3/ 2GB/ 500GB/ Win8)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['7']|['Rs. 32,999                ']|['2']|['4.7']|['Lenovo Essential B490 (59-413237) Notebook (3rd Gen Ci3/ 4GB/ 500GB/ Free DOS/ 1GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['9']|['Rs. 45,490                ']|['5']|['3.2']|['Dell Inspiron 15 3537 Laptop (4th Gen Ci5/ 4GB/ 500GB/ Win8/ 1GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['14']|['Rs. 58,890                ']|['6']|['4.5']|['Dell Inspiron 15 3542 Notebook (4th Gen Ci7/ 8GB/ 1TB/ Win8.1/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['4']|['Rs. 26,989                ']|['2']|['3.5']|['Toshiba Satellite C50-A I001A Laptop (3rd Gen Ci3/ 2GB/ 500GB/ No OS)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['7']|['Rs. 28,700                ']|['3']|['3.7']|['Dell Inspiron 15 3521 Laptop (CDC/ 4GB/ 500GB/ Win8)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['8']|['Rs. 23,900                ']|['3']|['4.2']|['Toshiba Satellite C50-B P0010 Notebook (4th Gen PQC/ 2GB/ 500GB/ No OS)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['5']|['Rs. 32,899                ']|['2']|['3.8']|['Dell Inspiron 15 3521 Laptop (3rd Gen Ci3/ 2GB/ 500GB/ Win8)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['8']|[]|['4']|['4.1']|['HP Pavilion 15-p018TU Notebook (4th Gen Ci3/ 4GB/ 1TB/ Win8.1) (J2C45PA)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['4']|['Rs. 19,700                ']|['0']|['4.8']|['Acer Gateway 4250S Notebook (APU Dual Core A4/ 2GB/ 320GB/ Linux) (UN.Y2ASI.113']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['6']|['Rs. 28,500                ']|['2']|['3.3']|['Dell Inspiron 15 3537 Laptop (4th Gen CDC/ 2GB/ 500GB/ Win8.1)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['28']|['Rs. 22,499                ']|['13']|['3.4']|['Lenovo Ideapad S210 T (59-379266) Netbook (CDC/ 2GB/ 500GB/ Win8/ Touch)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['14']|[]|['2']|['3.9']|['Lenovo Essential G400s (59-383679) Laptop (3rd Gen Ci3/ 4GB/ 500GB/ Win8/ 2GB Graph/ Touch)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['9']|['Rs. 19,599                ']|['3']|['4.1']|['Asus X200MA-KX141H X Others  -  11.6 inch, 500 GB HDD, 2 GB DDR3, DOS Netbook']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['9']|['Rs. 30,990                ']|['2']|['4.1']|['Dell Inspiron 15 3537 Laptop (4th Gen Ci3/ 2GB/ 500GB/ Ubuntu/ 1GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['6']|['Rs. 28,220                ']|['4']|['3.5']|['Dell Inspiron 14 344234500iBU Notebook (4th Gen Ci3/ 4GB/ 500GB/ Ubuntu)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['4']|['Rs. 21,100                ']|['1']|['4']|['Asus X551MA-SX101D X Pentium Quad Core  -  15.6 inch, 500 GB HDD, 2 GB DDR3, DOS Laptop']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['7']|[]|['2']|['3.7']|['HP 14-v015TU Notebook (4th Gen Ci3/ 4GB/ 1TB/ Win8.1) (J3Z65PA)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['5']|['Rs. 40,040                ']|['3']|['3.2']|['Lenovo Essential G400s (59-383670) Laptop (3rd Gen Ci5/ 4GB/ 500GB/ Win8/ Touch)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['24']|[]|['14']|['4']|['Asus X550LD (XX082D) Notebook (4th Gen Ci7/ 8GB/ 1TB/ Free DOS)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['7']|['Rs. 26,990                ']|['3']|['4']|['HP 240 G1 Notebook (3rd Gen Ci3/ 2GB/ 500GB/ Free DOS) (F6Q29PA)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['17']|['Rs. 29,990                ']|['7']|['4.2']|['HP 15-D017TU Laptop (3rd Gen Ci3/ 2GB/ 500GB/ Ubuntu)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['3']|['Rs. 20,020                ']|['1']|['3']|['Asus X200MA-KX371B X Others  -  11.6 inch, 500 GB HDD, 2 GB DDR3, Windows 8 Netbook']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['3']|['Rs. 17,990                ']|['2']|['5']|['Asus X200MA-KX234D X Series Others  -  11.6 inch, 500 GB HDD, 2 GB DDR3, DOS Laptop']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['9']|['Rs. 34,990                ']|['5']|['4.1']|['Lenovo G50-70 59-413724 Notebook (4th Gen Ci3/ 4GB/ 500GB/ Win8.1)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['4']|['Rs. 35,330                ']|['3']|['4.2']|['Dell Vostro 14 V3446 Notebook (4th Gen Ci3/ 4GB/ 500GB/ Windows 8.1/ 2 GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['73']|['Rs. 24,990                ']|['28']|['3.2']|['HP 14-Q001TU Chromebook (4th Gen CDC/ 4GB/ 16GB SSD/ Chrome OS)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['2']|['Rs. 34,300                ']|['1']|['2.5']|['Dell Inspiron 3442 Notebook (4th Gen Ci3/ 4GB/ 500GB/ Win8.1)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['52']|['Rs. 48,800                ']|['22']|['4.6']|['Lenovo Ideapad Z500 (59-380463) Laptop (3rd Gen Ci5/ 6GB/ 1TB/ Win8/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['7']|['Rs. 61,950                ']|['1']|['4.1']|['Lenovo Z50-70 Notebook (4th Gen Ci7/ 8GB/ 1TB/ Win8.1) (59-427812)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['8']|['Rs. 58,690                ']|['3']|['5']|['Dell Inspiron 15 3542 Notebook (4th Gen Ci7/ 8GB/ 1TB/ Win8.1/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['2']|['Rs. 34,990                ']|['1']|['4.5']|['Dell Inspiron 3542 Notebook (4th Gen Ci3/ 4GB/ 1TB/ Win8.1) (3542341TBiS)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['5']|['Rs. 25,120                ']|['1']|['5']|['Asus X102BA-DF039H Netbook (APU Dual Core A4/ 2GB/ 500GB/ Win8)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['15']|['Rs. 26,429                ']|['8']|['3.5']|['Acer Aspire E1-570 Notebook (3rd Gen Ci3/ 2GB/ 500GB/ Linux) (NX.MEPSI.001)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['8']|['Rs. 54,990                ']|['5']|['3.1']|['Lenovo Z50-70 Notebook (4th Gen Ci5/ 8GB/ 1TB/ Win8.1/ 2GB Graph) (59-427805)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['1']|['Rs. 26,000                ']|['0']|['5']|['Asus X550CA (XX545D) Notebook (3rd Gen Ci3/ 2GB/ 500GB/ Free DOS)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['3']|['Rs. 41,090                ']|['2']|['3.7']|['Dell Vostro 3546 Notebook (4th Gen Ci5/ 4GB/ 1TB/ Win8.1) (3546541TBiG)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['13']|['Rs. 38,990                ']|['9']|['4.3']|['Lenovo G50(59-413719) G Intel Core i3  -  15.6 inch, 1 TB HDD, 8 GB DDR3, Windows 8 Laptop']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['6']|['Rs. 28,540                ']|['0']|['3.7']|['HP Pavilion Touchsmart 10-e007AU Netbook (APU Dual Core A4/ 2GB/ 500GB/ Win8.1/ Touch)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['10']|['Rs. 35,990                ']|['2']|['3.8']|['Lenovo B590/59-409293 Notebook (3rd Gen Ci5/ 4GB/ 500GB/ Free DOS/ 1GB Graph) (59-409293)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['35']|['Rs. 66,000                ']|['18']|['4.2']|['Dell Inspiron 15R Laptop (4th Gen Ci7/ 8GB/ 1TB/ Win8/ 2GB Graph/Touch)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['5']|['Rs. 18,500                ']|['3']|['3.2']|['Lenovo G50-45 Notebook (APU E1/ 2GB/ 500GB/ Win8.1) (80E3005RIN)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['5']|['Rs. 33,499                ']|['2']|['3.2']|['Dell Inspiron 3542 Notebook (4th Gen Ci3/ 4GB/ 500GB/ Ubuntu/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['17']|[]|['9']|['3.7']|['Asus X550LD-XX064D X Intel Core i5  -  15.6 inch, 1 TB HDD, 4 GB DDR3, DOS Laptop']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['1']|['Rs. 21,500                ']|['0']|['5']|['Asus F200MA-KX235H F Pentium Quad Core  -  11.6 inch, 500 GB HDD, 2 GB DDR3, Windows 8 Netbook']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['10']|['Rs. 36,600                ']|['5']|['3.6']|['Lenovo Essential B490 (59-384796) Laptop (3rd Gen Ci5/ 2GB/ 500GB/ DOS)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['1']|['Rs. 42,540                ']|['1']|['5']|['Dell Vostro 3546 Notebook (4th Gen Ci5/ 8GB/ 1TB/ Ubuntu/ 2GB Graph) (3564581TB2GU)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['74']|['Rs. 67,900                ']|['20']|['4.5']|['Apple MD711HN/A MacBook Air (4th Gen Ci5/ 4GB/ 128GB Flash/ Mac OS X Mountain Lion)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['8']|['Rs. 32,999                ']|['6']|['3.1']|['Toshiba Satellite C50-A I0111 Laptop (3rd Gen Ci3/ 4GB/ 500GB/ Win8.1)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|[]|[]|[]|['Dell Vostro 3546 Notebook (4th Gen Ci3/ 4GB/ 500GB/ Win8.1) (354634500iG)']|
+[]|['7']|['Rs. 46,990                ']|['3']|['4.6']|['Dell Vostro 3546 Notebook (4th Gen Ci5/ 8GB/ 1TB/ Win8.1/ 2GB Graph) (3546581TB2G)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['1']|['Rs. 21,690                ']|['0']|['1']|['Dell Inspiron 3541 Notebook (APU Dual Core E1/ 4GB/ 500GB/ Win8.1)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['5']|['Rs. 26,599                ']|['3']|['3']|['Asus F200MA-KX131H F Pentium Quad Core  -  11.6 inch, 500 GB HDD, 2 GB DDR3, Windows 8 Laptop']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['4']|['Rs. 30,900                ']|['0']|['3.5']|['HP 240 Laptop (3rd Gen Ci3/ 4GB/ 500GB/ DOS)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['23']|['Rs. 29,550                ']|['6']|['4.4']|['Dell Inspiron 15 3521 Laptop (3rd Gen PDC/ 4GB/ 500GB/ Win8)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['10']|['Rs. 54,990                ']|['1']|['4.9']|['Lenovo ThinkPad E431 (62774XQ) Laptop (3rd Gen Ci5/ 4GB/ 500GB/ DOS/ 1GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['8']|['Rs. 26,450                ']|['0']|['4.2']|['Dell Inspiron 15 3521 Laptop (CDC/ 2GB/ 500GB/ Linux)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['38']|['Rs. 77,490                ']|['19']|['4']|['Lenovo Y50-70 Notebook (4th Gen Ci7/ 8GB/ 1TB/ Win8.1/ 2GB Graph) (59-428436)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['51']|['Rs. 34,300                ']|['29']|['3.9']|['Toshiba Satellite C50-A X0012 Laptop (4th Gen Ci5/ 4GB/ 500GB/ No OS)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['3']|['Rs. 23,199                ']|['0']|['5']|['Dell Inspiron 3541 Notebook (APU Dual Core E1/ 4GB/ 500GB/ Ubuntu)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['8']|['Rs. 25,990                ']|['1']|['4.4']|['HP 240 G3 G3 Series Pentium Quad Core  -  14 inch, 500 GB HDD, 4 GB DDR3, Windows 8 Laptop']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['4']|['Rs. 41,900                ']|['1']|['3']|['HP Pro 450G0 Notebook (3rd Gen Ci3/ 4GB/ 750GB/ Free DOS/ 1GB Graph) (G0R66PA)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['1']|['Rs. 22,250                ']|['1']|['1']|['Dell Inspiron 14 3442 Notebook (4th Gen CDC/ 4GB/ 500GB/ Ubuntu)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['3']|['Rs. 29,899                ']|['2']|['3.3']|['Dell Vostro 2520 Laptop (3rd Gen Ci3/ 2GB/ 500GB/ Ubuntu)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['18']|['Rs. 47,479                ']|['9']|['4.3']|['HP 15-P001TX Notebook (4th Gen Ci5/ 4GB/ 1TB/ Win8.1/ 2GB Graph) (G8D90PA)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['9']|['Rs. 31,990                ']|['4']|['4.1']|['Dell Inspiron 15 3537 Laptop (4th Gen Ci3/ 4GB/ 500GB/ Ubuntu)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['2']|['Rs. 22,500                ']|['0']|['4.5']|['Lenovo Ideapad G50-30 (80G0000KIN) Notebook (1st Gen PQC/ 2GB/ 500GB/ Free DOS)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 24,999                ']|[]|[]|['Dell Inspiron 3442 Notebook (4th Gen PDC/ 4GB/ 500GB/ Ubuntu) (3442P4500iBU)']|
+[]|['19']|['Rs. 125,999                ']|['4']|['4.5']|['Apple ME293HN/A MacBook Pro (4th Gen Ci7/ 8GB/ 256 GB/ Mac OS X Mavericks/ Retina Display)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['7']|['Rs. 34,679                ']|['0']|['3.7']|['Dell Vostro 3546 Notebook (4th Gen Ci5/ 4GB/ 500GB/ Ubuntu) (354654500iGU)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['14']|['Rs. 27,690                ']|['4']|['3.9']|['Dell Inspiron 15 3521 Laptop (3rd Gen CDC/ 4GB/ 500GB/ Ubuntu)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['4']|['Rs. 46,990                ']|['2']|['3.2']|['Dell Inspiron 5547 Notebook (4th Gen Ci5/ 4GB/ 1TB/ Win8.1/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['4']|['Rs. 22,725                ']|['2']|['2.8']|['Lenovo Ideapad Flex 10 (59-420157) Netbook (4th Gen CDC/ 2GB/ 500GB/ Win8/ Touch)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['1']|['Rs. 46,390                ']|['1']|['5']|['Dell Inspiron 3542 Notebook (4th Gen Ci5/ 4GB/ 1TB/ Win8.1/ 2GB Graph) (3542541TB2B)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['3']|['Rs. 20,399                ']|['2']|['2.7']|['Toshiba Satellite C50-A E0011 Laptop (4th Gen CDC/ 2GB/ 500GB/ No OS)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['3']|['Rs. 30,990                ']|['2']|['2']|['Acer V5-122P (NX.M8WSI.008) Netbook (APU Dual Core A4/ 2GB/ 500GB/ Win8/ Touch)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['3']|['Rs. 29,810                ']|['1']|['4.3']|['Dell Inspiron 3541 Notebook (APU Quad Core A6/ 4GB/ 500GB/ Win8.1/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['3']|['Rs. 41,290                ']|['2']|['5']|['Dell Vostro 3546 Notebook (4th Gen Ci5/ 4GB/ 1TB/ Ubuntu/ 2GB Graph) (3546541TB2GU)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['5']|['Rs. 27,350                ']|['4']|['4.8']|['Lenovo G50-45 Notebook (APU Quad Core A8/ 4GB/ 500GB/ Free Dos/ 2GB Graph) (80E300GYIN)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['1']|['Rs. 29,000                ']|['0']|['5']|['HP 250 G3 Notebook (4th Gen Ci3/ 4GB/ 500GB/ Free DOS) (J7V52PA)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['12']|['Rs. 49,400                ']|['6']|['4.2']|['Lenovo FLEX 2-14 Notebook (4th Gen Ci5/ 4GB/ 500GB/ Win8.1/ 2GB Graph/ Touch) (59-420166)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['4']|['Rs. 30,590                ']|['1']|['3.2']|['Dell Vostro 3546 Notebook (4th Gen Ci3/ 4GB/ 500GB/ Ubuntu) (354634500iGU)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['28']|['Rs. 32,100                ']|['19']|['4.2']|['Toshiba Satellite C50D-A 60010 Laptop (APU Quad Core A6/ 4GB/ 750GB/ Win8.1/ 512MB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['8']|['Rs. 26,490                ']|['3']|['4.4']|['HP 240 Notebook (4th Gen Ci3/ 4GB/ 500GB/ Free Dos) (K1C59PA)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['3']|['Rs. 28,670                ']|['2']|['5']|['Acer Aspire E E1-570 Notebook (3rd Gen Ci3/ 2GB/ 500GB/ Linux) (NX.MGUSI.003)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['8']|['Rs. 22,900                ']|['4']|['4.1']|['Toshiba Satellite C50D-A M0011 Laptop (APU Dual Core/ 2GB/ 500GB/ No OS)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['4']|['Rs. 24,490                ']|['1']|['4.5']|['Lenovo G40(80FY002MIN) G Others  -  14 inch, 500 GB HDD, 2 GB DDR3, Windows 8 Laptop']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['7']|['Rs. 26,890                ']|['2']|['4.3']|['Lenovo Ideapad G50-70 (59-417086) Notebook (4th Gen Ci3/ 2GB/ 500GB/ Free DOS)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['1']|['Rs. 37,400                ']|['0']|['1']|['Dell Inspiron 14 3442 Notebook (4th Gen Ci3/ 4GB/ 500GB/ Win8.1/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['5']|['Rs. 25,999                ']|['1']|['3.2']|['Acer Aspire E E1-510 Notebook (1st Gen PQC/ 2GB/ 500GB/ Win8.1) (NX.MGRSI.006)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 30,199                ']|[]|[]|['Toshiba Satellite C50-A I0017 Laptop (4th Gen Ci3/ 4GB/ 500GB/ No OS)']|
+[]|['8']|[]|['1']|['2.8']|['Lenovo Ideapad G50-70 (59-413698) Notebook (4th Gen Ci3/ 4GB/ 500GB/ Win8.1/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['5']|['Rs. 37,590                ']|['0']|['3.6']|['Dell Inspiron 5447 Notebook (4th Gen Ci3/ 4GB/ 500GB/ Win8.1) (544734500iS)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['5']|['Rs. 20,990                ']|['0']|['4.6']|['Asus Bing-KX395B X Series Pentium Quad Core  -  11.6 inch, 500 GB HDD, 2 GB DDR3, Windows 8 Laptop']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 34,000                ']|[]|[]|['Acer Aspire E E1-570 Notebook (3rd Gen Ci3/ 4GB/ 500GB/ Win8/ 128MB Graph) (NX.MEPSI.007)']|
+[]|['6']|[]|['4']|['4']|['HP Pavilion 15-p017TU Notebook (4th Gen Ci3/ 4GB/ 1TB/ Win8.1) (J2C44PA)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['3']|['Rs. 26,199                ']|['2']|['3.3']|['Dell Inspiron 3541 Notebook (APU Quad Core A6/ 4GB/ 500GB/ Ubuntu/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['6']|['Rs. 29,990                ']|['1']|['4.3']|['Asus T100TA (Touch) Transformer Series Others  -  10.1 inch, 500 GB HDD, 2 GB DDR3, Windows 8 Laptop']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['172']|['Rs. 17,500                ']|['69']|['4.2']|['Asus 1015E-CY041D Netbook (CDC/ 2GB/ 320GB/ DOS)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['9']|['Rs. 35,500                ']|['1']|['3.7']|['HP (i5/ 4GB RAM/ 1 GB Graphics)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['48']|['Rs. 88,900                ']|['16']|['4.3']|['Apple MD761HN/A MacBook Air (4th Gen Ci5/ 4GB/ 256GB Flash/ Mac OS X Mountain Lion)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['5']|['Rs. 37,130                ']|['2']|['4.6']|['Dell Vostro 14 V3446 Notebook (4th Gen Ci5/ 4GB/ 500GB/ Ubuntu/ 2 GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['8']|['Rs. 22,880                ']|['6']|['3.8']|['Asus F200CA-KX069H F Pentium Dual Core  -  11.6 inch, 500 GB HDD, 2 GB DDR3, Windows 8 Laptop']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['3']|['Rs. 32,799                ']|['2']|['4.7']|['Lenovo ThinkPad E431 (62771F0) Laptop (3rd Gen Ci3/ 2GB/ 500GB/ DOS)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['18']|['Rs. 28,999                ']|['10']|['4.6']|['Lenovo B490 (59-381836) Laptop (3rd Gen Ci3/ 2GB/ 500GB/ DOS)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['11']|[]|['6']|['4.6']|['Apple MGX72HN/A MacBook Pro Notebook (Ci5/ 8GB/ Mac OS X Mavericks)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['1']|['Rs. 31,290                ']|['1']|['1']|['Dell Inspiron 3542 Notebook (4th Gen Ci3/ 4GB/ 1TB/ Ubuntu) (3542341TBiSU)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['19']|[]|['6']|['4.2']|['Apple ME864HN/A MacBook Pro (4th Gen Ci5/ 4GB/ 128GB Flash/ Mac OS X Mavericks)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['13']|['Rs. 29,000                ']|['0']|['4.6']|['HP 10-h005RU X2 Slatebook (Tegra 4/ 2GB/ 64GB eMMC/ Android 4.2 (Jelly Bean)/ Touch)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['4']|['Rs. 31,550                ']|['2']|['1.5']|['Dell Inspiron 3442 Notebook (4th Gen Ci3/ 4GB/ 500GB/ Win8.1) (344234500iB1)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['24']|['Rs. 65,499                ']|['16']|['4.3']|['Dell Inspiron 15R 5537 Laptop (4th Gen Ci7/ 8GB/ 1TB/ Win8/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['24']|['Rs. 40,400                ']|['10']|['4']|['Lenovo Essential G500 (59-370339) Laptop (3rd Gen Ci5/ 4GB/ 500GB/ DOS/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['3']|['Rs. 37,990                ']|['0']|['2.7']|['Dell Inspiron 3542 Notebook (4th Gen Ci3/ 4GB/ 500GB/ Win8.1/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['8']|['Rs. 55,000                ']|['1']|['4.4']|['HP Pavilion 15-p003TX Notebook (4th Gen Ci5/ 4GB/ 1TB/ Win8.1/ 2GB Graph/ Touch) (G8D93PA)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['7']|['Rs. 25,000                ']|['5']|['4.3']|['Acer Aspire V5-572 Laptop (3rd Gen PDC/ 4GB/ 500GB/ Linux) (NX.M9YSI.011)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['52']|['Rs. 39,990                ']|['25']|['4.3']|['HP Pavilion 15-n011TU Laptop (4th Gen Ci5/ 4GB/ 500GB/ Ubuntu)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['2']|['Rs. 48,400                ']|['1']|['5']|['Dell Inspiron 5447 Notebook (4th Gen Ci5/ 4GB/ 500GB/ Win8.1/ 2GB Graph) (5447545002S)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['1']|['Rs. 33,500                ']|['0']|['4']|['Dell Inspiron 3442 Notebook (4th Gen Ci3/ 4GB/ 500GB/ Ubuntu/ 2GB Graph) (3442345002BU)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['17']|['Rs. 46,900                ']|['9']|['4.9']|['Dell Inspiron 5547 Notebook (4th Gen Ci5/ 8GB/ 1TB/ Win8.1/ 2GB Graph) (5547581TB2S)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['4']|['Rs. 42,670                ']|['3']|['3.8']|['Asus X550LC (XX119H) Notebook (4th Gen Ci5/ 4GB/ 750GB/ Windows 8/2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['3']|['Rs. 21,895                ']|['1']|['4.7']|['Lenovo Essentail G505 (59-379528) Laptop (APU Quad Core A4/ 2GB/ 500GB/ DOS)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['33']|['Rs. 84,000                ']|['16']|['4.8']|['Dell Inspiron 15 7537 Laptop (4th Gen Ci7/ 8GB/ 1TB/ Win8/ 2GB Graph/ Touch)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['1']|['Rs. 26,350                ']|['0']|['5']|['Toshiba Satellite C50-A I001B Laptop (3rd Gen Ci3/ 2GB/ 500GB/ No OS)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['7']|['Rs. 57,240                ']|['3']|['3.7']|['Lenovo Yoga 2 13 Notebook (4th Gen Ci5/ 4GB/ 500GB/ Win8.1) (59-411008)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['17']|['Rs. 43,749                ']|['7']|['4.1']|['Lenovo Ideapad Flex 14 (59-395515) Laptop (4th Gen Ci3/ 4GB/ 500GB 8GB SSD/ Win8/ 2GB Graph/ Touch)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 27,040                ']|[]|[]|['Dell Vostro 3445 Notebook (APU Quad Core A4/ 2GB/ 500GB/ Win8.1)']|
+[]|['10']|['Rs. 35,990                ']|['4']|['4.6']|['Dell Inspiron 15 3521 Laptop (3rd Gen Ci3/ 4GB/ 500GB/ Win8/ 1GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['9']|['Rs. 45,000                ']|['4']|['2']|['HP Pavilion Touchsmart 11-H009TU Notebook (4th Gen PDC/ 4GB/ 64GB SSD/ Win8/ Touch)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['8']|['Rs. 46,900                ']|['5']|['4.4']|['HP Pavilion 15-b140tx TouchSmart Laptop (3rd Gen Ci5/ 4GB/ 500GB/ Win8/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['3']|['Rs. 34,840                ']|['0']|['5']|['Acer Aspire E1-470P Notebook (3rd Gen Ci3/ 4GB/ 500GB/ Win8/Touch) (NX.MF8SI.001)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['9']|['Rs. 50,700                ']|['3']|['3.4']|['Lenovo Ideapad Z510 (59-387061) Laptop (4th Gen Ci5/ 4GB/ 1TB/ Win8/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['51']|['Rs. 36,800                ']|['29']|['3.9']|['Toshiba Satellite C50-A X0011 Laptop (4th Gen Ci5/ 4GB/ 500GB/ No OS)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['5']|['Rs. 48,490                ']|['5']|['5']|['HP Pavilion 14-n296tx Notebook (4th Gen Ci5/ 4GB/ 1TB/ Win8.1/ Touch) (J8B57PA)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['19']|['Rs. 22,880                ']|['11']|['3.9']|['Asus F200CA-KX064H Netbook (3rd Gen PDC/ 2GB/ 500GB/ Win8)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['6']|['Rs. 53,890                ']|['3']|['2.7']|['Dell Inspiron 3537 Laptop (4th Gen Ci5/ 6GB/ 500GB/ Win8/ Touch)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 23,340                ']|[]|[]|['Dell Vostro 3445 Notebook (APU Quad Core A4/ 2GB/ 500GB/ Ubuntu)']|
+[]|['51']|[]|['15']|['4.3']|['Apple Macbook Pro Intel Core i7  -  15.4 inch, 512 GB HDD, 16 GB DDR3, Mac OS Laptop']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['1']|['Rs. 24,999                ']|['1']|['4']|['Toshiba Satellite C50D-A 40012 Notebook (APU Quad Core A4/ 4GB/ 500GB/ No OS)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['6']|['Rs. 29,971                ']|['4']|['4.3']|['Asus S200E-CT331H S Pentium Dual Core  -  11.6 inch, 500 GB HDD, 4 GB DDR3, Windows 8 Laptop']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['56']|['Rs. 44,200                ']|['24']|['4.2']|['Dell Vostro 14 V3446 Notebook (4th Gen Ci5/ 4GB/ 500GB/ Windows 8.1/ 2 GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['7']|['Rs. 40,990                ']|['5']|['3.3']|['Dell Inspiron 15 3537 Laptop (4th Gen Ci5/ 4GB/ 500GB/ Ubuntu/ 1GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['9']|['Rs. 32,140                ']|['7']|['4.3']|['Asus X550CC-XO072D Laptop (3rd Gen Ci3/ 4GB/ 500GB/ DOS/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['1']|['Rs. 20,295                ']|['1']|['5']|['Asus F451CA-VX152D Notebook (3rd Gen PDC/ 2GB/ 500GB/ Free DOS) (90NB0333-M03670)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['7']|['Rs. 31,599                ']|['2']|['4']|['HP Pavilion 15-n207AX Laptop (AMD A4-5000 4GB/ 500GB/ Win8.1/ 1GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 35,240                ']|[]|[]|['Dell Vostro 3546 Notebook (4th Gen Ci3/ 4GB/ 1TB/ Ubuntu/ 2GB Graph) (3546341TB2GU)']|
+[]|['4']|[]|['3']|['5']|['Apple MD712HN/B MacBook Air (Ci5/ 4GB/ 256 GB Flash/ Mac OS X Mavericks)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['5']|['Rs. 52,990                ']|['2']|['4.4']|['Dell Inspiron 5547 Notebook (4th Gen Ci5/ 4GB/ 500GB/ Win8.1/ 2GB Graph/ Touch)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['5']|['Rs. 31,490                ']|['2']|['4']|['Asus X550CC-XX922D X Intel Core i3  -  15.6 inch, 500 GB HDD, 4 GB DDR3, DOS Laptop']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 20,800                ']|[]|[]|['Lenovo Ideapad G50-45 (80E3005RIN) APU Dual Core  -  15.6 inch, 500 GB HDD, 2 GB DDR3, Windows 8 Laptop']|
+[]|['7']|['Rs. 23,000                ']|['4']|['4.3']|['HP 10-h006RU X2 Slatebook (Tegra 4/ 2GB/ 64GB eMMC/ Android 4.2 (Jelly Bean)/ Touch)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['3']|['Rs. 28,999                ']|['3']|['3']|['Lenovo Essential B590 (59-390111) Laptop (3rd Gen Ci3/ 2GB/ 500GB/ DOS)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['8']|['Rs. 32,990                ']|['5']|['3.8']|['Dell Inspiron 15 3521 Laptop (3rd Gen Ci3/ 4GB/ 500GB/ Linux/ 1GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['2']|['Rs. 42,490                ']|['1']|['3']|['Dell Vostro 3546 Notebook (4th Gen Ci5/ 4GB/ 1TB/ Win8.1/ 2GB Graph) (3546541TB2G)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['1']|['Rs. 46,800                ']|['0']|['5']|['Dell Vostro 14 V3446 Notebook (4th Gen Ci5/ 4GB/ 500GB/ Windows 8.1 Pro/ 2 GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['78']|['Rs. 43,999                ']|['33']|['4.1']|['Dell Vostro 2520 Laptop (3rd Gen Ci5/ 4GB/ 500GB/ Win8)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['13']|[]|['3']|['4.2']|['HP Envy 15-k005TX Notebook (4th Gen Ci7/ 8GB/ 1TB/ Win8.1/ 4GB Graph) (J2C50PA)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['1']|['Rs. 33,699                ']|['1']|['4']|['Dell Vostro 3446 Notebook (4th Gen Ci3/ 4GB/ 500GB/ Ubuntu/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['2']|['Rs. 36,990                ']|['1']|['5']|['Acer Aspire E E1-570G Notebook (3rd Gen Ci3/ 4GB/ 500GB/ Win8.1/ 2GB Graph) (NX.MESSI.006)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['1']|['Rs. 19,240                ']|['0']|['5']|['Asus X552EA-XX212D X APU Dual Core  -  15.6 inch, 500 GB HDD, 2 GB DDR3, DOS Laptop']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['1']|['Rs. 42,250                ']|['0']|['5']|['Dell Inspiron 3542 Notebook (4th Gen Ci5/ 4GB/ 1TB/ Ubuntu/ 2GB Graph) (3542541TB2BU1)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['1']|['Rs. 40,090                ']|['1']|['5']|['Dell Vostro 3546 Notebook (4th Gen Ci5/ 4GB/ 500GB/ Win8.1) (354654500iG)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 58,650                ']|[]|[]|['Dell Inspiron 3542 Notebook (4th Gen Ci7/ 8GB/ 1TB/ Win8.1/ 2GB Graph) (3542781TB2B)']|
+[]|['17']|['Rs. 37,090                ']|['8']|['4.2']|['Dell Inspiron 3542 Notebook (4th Gen Ci3/ 4GB/ 500GB/ Win8.1/ 2GB Graph) (3542345002S1)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 20,980                ']|[]|[]|['Asus F200MA-KX223H F Others  -  11.6 inch, 500 GB HDD, 2 GB DDR3, Windows 8 Laptop']|
+[]|['14']|['Rs. 63,750                ']|['3']|['3.8']|['Dell Inspiron 5547 Notebook (4th Gen Ci7/ 8GB/ 1TB/ Win8.1/ 2GB Graph/ Touch)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['6']|['Rs. 45,599                ']|['1']|['2.7']|['Lenovo ThinkPad E431(62771L8) Laptop (3rd Gen Ci5/ 4GB/ 500GB/ DOS)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['5']|['Rs. 52,150                ']|['1']|['5']|['Asus X550LC-XX223D X Intel Core i7  -  15.6 inch, 1 TB HDD, 8 GB DDR3, DOS Laptop']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['11']|['Rs. 51,899                ']|['5']|['4.2']|['Asus X550LC X Series Intel Core i7  -  15.6 inch, 1 TB HDD, 8 GB DDR3, DOS Laptop']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['11']|['Rs. 59,990                ']|['2']|['3.7']|['Lenovo Thinkpad E431 Notebook (3rd Gen Ci7/ 4GB/ 500GB/ Win8/ 2GB Graph/ Touch)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['3']|['Rs. 51,720                ']|['1']|['3.7']|['Lenovo ThinkPad E431 (62771L7) Laptop (3rd Gen Ci5/ 4GB/ 500GB/ Win7 Prof)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['13']|['Rs. 80,100                ']|['1']|['4.4']|['HP Envy 15-k006tx Notebook (4th Gen Ci7/ 8GB/ 1TB/ Win8.1/ Touch/ 4GB Graph) (J2C51PA)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['4']|['Rs. 42,850                ']|['3']|['2.5']|['Dell Inspiron 3542 Notebook (4th Gen Ci5/ 4GB/ 1TB/ Win8.1/ 2GB Graph) (3542541TB2S1)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['24']|['Rs. 50,440                ']|['14']|['4']|['Asus X550LD-XX082D X Intel Core i7  -  15.6 inch, 1 TB HDD, 8 GB DDR3, DOS Laptop']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['1']|['Rs. 33,890                ']|['1']|['5']|['Dell Inspiron 3542 Notebook (4th Gen Ci3/ 4GB/ 500GB/ Win8.1) (354234500iB1)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['2']|['Rs. 27,990                ']|['0']|['4.5']|['Toshiba Satellite C50D-A 60011 Notebook (APU Quad Core A6/ 4GB/ 750GB/ Win8.1)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['9']|['Rs. 46,799                ']|['7']|['4.4']|['Dell Inspiron 15R 5521 Laptop (3rd Gen Ci3/ 6GB/ 500GB/ Win8/ Touch)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['16']|['Rs. 42,500                ']|['7']|['3.9']|['Dell Vostro 3560 Laptop (3rd Gen Ci5/ 4GB/ 500GB/ Win8)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['1']|['Rs. 21,999                ']|['0']|['1']|['Asus X451CA (VX032D) Notebook (3rd Gen PDC/ 2GB/ 500GB/ Free DOS)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['1']|['Rs. 35,490                ']|['1']|['4']|['Dell Vostro 3546 Notebook (4th Gen Ci5/ 4GB/ 1TB/ Ubuntu) (3546541TBiGU)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['7']|['Rs. 71,990                ']|['6']|['4']|['HP Envy Touch Smart 14-k102tx Ultrabook (4th Gen Ci5/ 8GB/ 1TB/ Win8.1/ 2GB Graph) (F7P50PA)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['10']|['Rs. 37,999                ']|['4']|['4.9']|['Dell Inspiron 15 3521 Laptop (3rd Gen Ci3/ 4GB/ 500GB/ Ubuntu/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['52']|['Rs. 20,499                ']|['18']|['2.9']|['Acer C720 Chromebook (4th Gen CDC/ 2GB/ 16GB SSD/ Chrome OS) (NX.SHESI.001)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['3']|['Rs. 38,999                ']|['0']|['4']|['Lenovo Essential G510 (59-398438) Laptop (4th Gen Ci3/ 4GB/ 500GB/ DOS/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['9']|['Rs. 31,810                ']|['5']|['4.1']|['Lenovo Ideapad G50-70 (59-417110) Notebook (4th Gen Ci3/ 2GB/ 1TB/ Free DOS/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['37']|['Rs. 36,500                ']|['16']|['4.1']|['Asus X550CA-XX110D Laptop (3rd Gen Ci5/ 4GB/ 750 GB/ DOS)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 19,990                ']|[]|[]|['Toshiba Satellite C50D-B M0010 Notebook (APU Daul Core E1/ 2GB/ 500GB/ No OS)']|
+[]|[]|['Rs. 26,040                ']|[]|[]|['Dell Inspiron 3542 Notebook (4th Gen PDC/ 4GB/ 500GB/ Win8.1) (3542P4500iB1)']|
+[]|[]|['Rs. 23,490                ']|[]|[]|['Asus X451CA-VX032D X Pentium Dual Core  -  14.1 inch, 500 GB HDD, 2 GB DDR3, DOS Laptop']|
+[]|['1']|['Rs. 52,990                ']|['0']|['5']|['Toshiba Satellite L50-A X0110 Notebook (4th Gen Ci5/ 4GB/ 750GB/ Win8.1)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 38,210                ']|[]|[]|['HP 15-r013tu Notebook (4th Gen Ci3/ 4GB/ 500GB/ Win8.1/ Touch) (G8D89PA)']|
+[]|['1']|['Rs. 34,990                ']|['1']|['2']|['Toshiba Satellite C50-A I0116 Laptop (3rd Gen Ci3/ 4GB/ 500GB/ Win8.1)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['9']|['Rs. 42,990                ']|['6']|['4.3']|['Lenovo Z50-70 Notebook (4th Gen Ci5/ 4GB/ 1TB/ Free DOS/ 2GB Graph) (59-420313)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 29,710                ']|[]|[]|['Acer Aspire E E1-570 Notebook (3rd Gen Ci3/ 4GB/ 500GB/ Linux) (NX.MHASI.001)']|
+[]|['2']|['Rs. 23,999                ']|['0']|['1']|['Dell Vostro 3445 Notebook (APU Dual Core E1/ 4GB/ 500GB/ Ubuntu)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 25,499                ']|[]|[]|['Lenovo B590(59-390110) B Pentium Dual Core  -  15.6 inch, 500 GB HDD, 2 GB DDR3, DOS Laptop']|
+[]|['3']|['Rs. 34,399                ']|['3']|['4.3']|['Lenovo Essential G510 (59-398411) Laptop (4th Gen Ci3/ 2GB/ 500GB/ DOS/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['1']|['Rs. 33,800                ']|['1']|['5']|['Acer Aspire V5-572 Laptop (3rd Gen Ci3/ 4GB/ 500GB/ Win8) (NX.M9YSI.012)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['3']|['Rs. 26,400                ']|['1']|['4.7']|['Asus X550CA-XX703D X Intel Core i3  -  15.6 inch, 500 GB HDD, 2 GB DDR3, DOS Laptop']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['1']|['Rs. 45,499                ']|['1']|['1']|['Asus S300CA-C1048H Laptop (3rd Gen Ci5/ 4GB/ 500GB/ Win8/ Touch)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 22,790                ']|[]|[]|['Acer Aspire E E1-431 Notebook (2nd Gen PDC/ 2GB/ 320GB/ Linux) (NX.M0RSI.016)']|
+[]|['7']|['Rs. 50,000                ']|['4']|['4']|['Acer Aspire V5-573G Laptop (4th Gen Ci5/ 6GB/ 1TB/ Win8/ 2GB Graph) (NX.MCGSI.002)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 35,250                ']|[]|[]|['Dell Vostro 3546 Notebook (4th Gen Ci3/ 4GB/ 500GB/ Win8.1/ 2GB Graph) (3546345002G)']|
+[]|['2']|['Rs. 38,540                ']|['1']|['4.5']|['Dell Vostro 3546 Notebook (4th Gen Ci3/ 4GB/ 1TB/ Win8.1/ 2GB Graph) (3546341TB2G)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 44,000                ']|[]|[]|['Acer Aspire E E1-572G Notebook (4th Gen Ci5/ 4GB/ 1TB/ Win8.1/ 2GB Graph) (NX.MJNSi.001)']|
+[]|[]|['Rs. 28,400                ']|[]|[]|['Dell Vostro 3445 Notebook (APU Dual Core E1/ 4GB/ 500GB/ Win8.1) (3445E14500iR)']|
+[]|['9']|['Rs. 57,900                ']|['2']|['3.9']|['HP Envy 15-k004TX Notebook (4th Gen Ci5/ 8GB/ 1TB/ Win8.1) (J2C49PA)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['9']|['Rs. 48,999                ']|['3']|['4.4']|['Lenovo Ideapad U510 (59-389403) Laptop (3rd Gen Ci5/ 4GB/ 1TB/ Win8/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['8']|['Rs. 36,490                ']|['2']|['3.8']|['Dell Inspiron 15 3521 Laptop (3rd Gen Ci3/ 4GB/ 500GB/ Win8/ 1GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['6']|['Rs. 44,890                ']|['4']|['3.5']|['Dell Inspiron 3542 Notebook (4th Gen Ci5/ 4GB/ 1TB/ Win8.1/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['3']|['Rs. 40,290                ']|['0']|['2.7']|['Dell Vostro 3546 Notebook (4th Gen Ci5/ 4GB/ 500GB/ Ubuntu/ 2GB Graph) (3546545002GU)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['1']|['Rs. 29,640                ']|['0']|['1']|['Dell Inspiron 3542 Notebook (4th Gen Ci3/ 4GB/ 500GB/ Ubuntu) (354234500iBU)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['3']|['Rs. 20,750                ']|['0']|['4.7']|['Asus F200MA-KX223H F Others  -  11.6 inch, 500 GB HDD, 2 GB DDR3, Windows 8 Netbook']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['5']|['Rs. 34,490                ']|['2']|['4.2']|['Asus X550CC-XX876H X Intel Core i3  -  15.6 inch, 750 GB HDD, 4 GB DDR3, Windows 8 Laptop']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['9']|['Rs. 42,990                ']|['4']|['4.3']|['Dell Inspiron 14 3437 Laptop (4th Gen Ci5/ 4GB/ 500GB/ Ubuntu/ 1GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['1']|['Rs. 33,900                ']|['1']|['1']|['Acer Aspire V5-472 Notebook (3rd Gen Ci3/ 4GB/ 500GB/ Win8) (NX.MB4SI.003)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['18']|['Rs. 39,900                ']|['2']|['4.3']|['HP 4540s ProBook (3rd Gen Ci5/ 2GB/ 750GB/ DOS)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['3']|['Rs. 32,500                ']|['1']|['4.3']|['Acer Aspire V5-572 Notebook (3rd Gen Ci3/ 4GB/ 500GB/ Linux) (NX.MA4SI.003)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['2']|['Rs. 25,490                ']|['0']|['4.5']|['Asus F451CA-VX153D F Series Intel Core i3  -  14 inch, 500 GB HDD, 2 GB DDR3, DOS Laptop']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['1']|['Rs. 33,790                ']|['0']|['5']|['Dell Vostro 3546 Notebook (4th Gen Ci3/ 4GB/ 500GB/ Ubuntu/ 2GB Graph) (3546345002GU)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['3']|['Rs. 31,400                ']|['2']|['4']|['Dell Inspiron 3542 Notebook (4th Gen Ci3/ 4GB/ 500GB/ Ubuntu) (354234500iRU)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['3']|['Rs. 36,490                ']|['1']|['4.7']|['Dell Inspiron 15 3521 Laptop (3rd Gen Ci3/ 4GB/ 500GB/ Win8/ 1GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['20']|['Rs. 32,990                ']|['7']|['3.8']|['Dell Inspiron 15 3521 Laptop (3rd Gen Ci3/ 4GB/ 500GB/ Ubuntu/ 1GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 20,500                ']|[]|[]|['Toshiba Satellite C50-B E0010 Notebook (1st Gen CDC/ 2GB/ 500GB/ No OS)']|
+[]|[]|['Rs. 30,590                ']|[]|[]|['Dell Inspiron 3542 Notebook (4th Gen Ci3/ 4GB/ 500GB/ Ubuntu) (354234500iSU1)']|
+[]|['10']|['Rs. 45,900                ']|['7']|['4.6']|['Dell Inspiron 3542 Notebook (4th Gen Ci5/ 4GB/ 1TB/ Win8.1/ 2GB Graph/ Touch) (3542541TB2BT)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 41,990                ']|[]|[]|['Lenovo Ideapad Flex 2-14 Notebook (4th Gen Ci3/ 4GB/ 500GB/ Win8.1/ Touch) (59-429524)']|
+[]|['11']|[]|['0']|['4.5']|['Apple MGXA2HN/A MacBook Pro Notebook (Ci7/ 16GB/ Mac OS X Mavericks)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 34,990                ']|[]|[]|['HP 4540s Probook Intel Core i3  -  15.6 inch, 500 GB HDD, 4 GB DDR3, DOS Laptop']|
+[]|['1']|['Rs. 28,999                ']|['1']|['4']|['Lenovo B490(59-381836) B Intel Core i3  -  14 inch, 500 GB HDD, 2 GB DDR3, DOS Laptop']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['7']|['Rs. 59,990                ']|['1']|['4.1']|['Lenovo Ideapad Z Series Intel Core i7  -  15.6 inch, 1 TB HDD, 8 GB DDR3, Windows 8 Laptop']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['13']|['Rs. 63,990                ']|['3']|['3.5']|['Sony VAIO Fit 15 SVF15A13SNB Laptop (3rd Gen Ci5/ 4GB/ 750GB/ Win8/ 2GB Graph/ Touch)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['10']|['Rs. 69,420                ']|['4']|['4.2']|['Toshiba Satellite P50-A Y3110 Laptop (4th Gen Ci7/ 8GB/ 1TB/ Win8.1/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['1']|['Rs. 55,199                ']|['0']|['3']|['Asus S400CA-CA165H S Intel Core i7  -  14 inch, 500 GB HDD, 4 GB DDR3, Windows 8 Laptop']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['3']|['Rs. 27,040                ']|['2']|['4.7']|['Toshiba Satellite C50-A I0016 Laptop (3rd Gen Ci3/ 2GB/ 500GB/ No OS)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 32,200                ']|[]|[]|['Lenovo Essential G Series Intel Core i3  -  15.6 inch, 500 GB HDD, 4 GB DDR3, Windows 8 Laptop']|
+[]|['33']|['Rs. 138,990                ']|['7']|['4.4']|['MSI GS60 2PE Ghost Pro Notebook (4th Gen Ci7/ 16GB/ 1TB/ Win8.1/ 3GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 32,960                ']|[]|[]|['Dell Inspiron 3542 Notebook (4th Gen Ci3/ 4GB/ 500GB/ Win8.1) (354234500iBL1)']|
+[]|['3']|['Rs. 24,240                ']|['2']|['3.7']|['Dell Inspiron 3542 Notebook (4th Gen PDC/ 4GB/ 500GB/ Ubuntu) (3542P4500iBU1)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['3']|['Rs. 55,990                ']|['1']|['4.3']|['Lenovo Yoga 2 Notebook (4th Gen Ci5/ 4GB/ 500GB/ Win8.1/ Touch) (59-428504)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 27,995                ']|[]|[]|['Dell Vostro 3442C4500iB Notebook (4th Gen CDC/ 4GB/ 500GB/ Win8.1)']|
+[]|[]|['Rs. 46,700                ']|[]|[]|['Lenovo ThinkPad E431(62771Q5) Laptop (3rd Gen Ci3/ 4GB/ 500GB/ Win8)']|
+[]|['2']|['Rs. 21,640                ']|['0']|['3']|['Acer Aspire E 15 Notebook (PQC/ 2GB/ 500GB/ Linux) (NX.MNYSI.002)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 30,370                ']|[]|[]|['HP 15-r062tu Notebook (4th Gen Ci3/ 4GB/ 500GB/ Ubuntu) (J8B76PA)']|
+[]|['2']|['Rs. 36,070                ']|['2']|['5']|['Dell Inspiron 3542 Notebook (4th Gen Ci3/ 4GB/ 500GB/ Win8.1/ 2GB Graph) (3542345002B1)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['1']|['Rs. 35,880                ']|['0']|['5']|['Toshiba Satellite L50-B I3010 Notebook (4th Gen Ci3/ 4GB/ 500GB/ No OS/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['4']|[]|['2']|['3.8']|['HP 15-r032TX Notebook (4th Gen Ci3/ 4GB/ 500GB/ Win8.1/ 2GB Graph) (J8B78PA)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 35,280                ']|[]|[]|['Toshiba Satellite L50-B I0111 Notebook (3rd Gen Ci3/ 4GB/ 500GB/ Win8.1)']|
+[]|['16']|['Rs. 117,990                ']|['0']|['4.7']|['MSI GS60 2PC Ghost Notebook (4th Gen Ci7/ 16GB/ 1TB/ Win8.1/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['3']|['Rs. 35,990                ']|['0']|['4.7']|['Dell Inspiron 15 3521 Laptop (3rd Gen Ci3/ 4GB/ 500GB/ Win8)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['1']|['Rs. 41,870                ']|['0']|['1']|['Toshiba Satellite L50-B X0110 Notebook (4th Gen Ci5/ 4GB/ 500GB/ Win8.1)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['2']|['Rs. 49,390                ']|['2']|['4.5']|['Lenovo Ideapad Flex 2-14 Notebook (4th Gen Ci5/ 4GB/ 500GB/ Win8.1/ Touch/ 2GB Graph) (59-429516)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 41,700                ']|[]|[]|['Lenovo Ideapad Flex 2-14 Notebook (4th Gen Ci3/ 4GB/ 500GB/ Win8.1/ Touch) (59-429518)']|
+[]|['1']|['Rs. 33,890                ']|['1']|['4']|['Asus CT013H (Touch Screen) F Series Intel Core i3  -  11.6 inch, 500 GB HDD, 4 GB DDR3, Windows 8 Laptop']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['2']|['Rs. 59,990                ']|['0']|['3']|['HP Pavilion 11h115TU X2 Laptop (4th Gen Ci5/ 4GB/ 128GB SSD/ Win8.1/ Touch)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['3']|['Rs. 53,999                ']|['0']|['5']|['Lenovo ThinkPad L440 Notebook (4th Gen Ci5/ 4GB/ 500GB/ Free DOS)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['6']|['Rs. 38,470                ']|['2']|['3']|['Fujitsu Lifebook A544 Notebook (4th Gen Ci5/ 4GB/ 500GB/ Free DOS)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['10']|['Rs. 55,999                ']|['6']|['3.4']|['Acer Aspire S3-391 Ultrabook (3rd Gen Ci5/ 4GB/ 500GB 20GB SSD/ Win8) (NX.M1FSI.017)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['3']|['Rs. 57,990                ']|['0']|['4.3']|['HP E5H31PA 430 Intel Core i5  -  13.3 inch, 500 GB HDD, 4 GB DDR3, Windows 8 Pro Laptop']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 43,590                ']|[]|[]|['Dell Vostro 3546 Notebook (4th Gen Ci5/ 4GB/ 500GB/ Win8.1/ 2GB Graph) (3546545002G)']|
+[]|[]|['Rs. 31,999                ']|[]|[]|['Asus X550CA-XO096H X Intel Core i3  -  15.6 inch, 500 GB HDD, 4 GB DDR3, Windows 8 Laptop']|
+[]|[]|[]|[]|[]|['Apple MGX82HN/A MacBook Pro Notebook (Ci5/ 8GB/ Mac OS X Mavericks)']|
+[]|['13']|[]|['2']|['4.1']|['Apple MGXC2HN/A MacBook Pro Notebook (Ci7/ 16GB/ Mac OS X Mavericks/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['1']|['Rs. 33,899                ']|['0']|['1']|['Acer Aspire E1-570(NX.MEPSI.008) Laptop (3rd Gen Ci3/ 4GB/ 1TB/Win8.1)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['2']|['Rs. 34,000                ']|['1']|['3']|['Dell 3560 Vostro Intel Core i3  -  15.6 inch, 500 GB HDD, 4 GB DDR3, Linux/Ubuntu Laptop']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['8']|['Rs. 82,990                ']|['5']|['4']|['Lenovo ThinkPad X230 (2325Y97) Laptop (3rd Gen Ci5/ 4GB/ 500GB/ Win7 Prof)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['1']|['Rs. 33,990                ']|['1']|['3']|['Asus X550CA-XO096H X Intel Core i3  -  15.6 inch, 500 GB HDD, 4 GB DDR3, Windows 8 Laptop']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['16']|['Rs. 48,200                ']|['5']|['3.9']|['Lenovo Ideapad U510 (59-349348) Ultrabook (3rd Gen Ci5/ 4GB/ 1TB 24GB SSD/ Win8/ 1GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['10']|['Rs. 69,990                ']|['2']|['4.5']|['Apple MD712HN/A MacBook Air (4th Gen Ci5/ 4GB/ 256GB Flash/ Mac OS X Mountain Lion)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['2']|['Rs. 54,990                ']|['1']|['3']|['Toshiba U840W-X0310 Satellite U840W-X0310 Intel Core i5  -  14.4 inch, 500 GB HDD, 6 GB DDR3, Windows 7 Laptop']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['9']|['Rs. 59,499                ']|['7']|['3.1']|['HP Split 13-m009TU X2 Laptop (3rd Gen Ci3/ 4GB/ 500GB 64GB SSD/ Win8/ Touch)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['3']|['Rs. 38,500                ']|['3']|['5']|['Dell 3440 Latitude Intel Core i3  -  14 inch, 500 GB HDD, 4 GB DDR3, Linux/Ubuntu Laptop']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 34,950                ']|[]|[]|['HP 248 G1 Notebook (4th Gen Ci3/ 4GB/ 500GB/ Free DOS) (G3J88PA)']|
+[]|['1']|['Rs. 27,599                ']|['0']|['5']|['Toshiba Satellite C50A-I0014 Notebook (3rd Gen Ci3/ 2GB/ 500GB/ No OS)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['15']|['Rs. 113,030                ']|['4']|['3.1']|['Dell Alienware AW14787501A Notebook (4th Gen Ci7/ 8GB/ 750GB/ Win8/ 1GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['2']|['Rs. 37,990                ']|['1']|['3']|['Acer Aspire E E1-570G Notebook (3rd Gen Ci3/ 4GB/ 1TB/ Win8.1/ 2GB Graph) (NX.MESSI.005)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 43,999                ']|[]|[]|['HP ProBook G1 Series Intel Core i5  -  14 inch, 500 GB HDD, 4 GB DDR3, DOS Laptop']|
+[]|['3']|['Rs. 41,250                ']|['0']|['5']|['Asus X550CC-CJ650H VivoBook (3rd Gen Ci3/ 4GB/ 500GB/ Win8/ 2GB Graph/ Touch)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['2']|['Rs. 48,120                ']|['0']|['3']|['Asus S301LA-C1079H S Intel Core i5  -  13.3 inch, 500 GB HDD, 4 GB DDR3, Windows 8 Laptop']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['4']|['Rs. 30,990                ']|['2']|['5']|['Dell Inspiron 3542 Notebook (4th Gen Ci3/ 4GB/ 1TB/ Ubuntu) (3542341TBiSU1)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 35,280                ']|[]|[]|['Toshiba Satellite L50-B I0110 Notebook (3rd Gen Ci3/ 4GB/ 500GB/ Win8.1)']|
+[]|[]|['Rs. 48,490                ']|[]|[]|['Asus F550CC-CJ671H Notebook (4th Gen Ci5/ 4GB/ 750GB/ Win8/ 2GB Graph/ Touch) (90NB00W9-M04730)']|
+[]|['2']|['Rs. 31,390                ']|['0']|['2']|['Dell Inspiron 3542 Notebook (4th Gen Ci3/ 4GB/ 1TB/ Ubuntu) (3542341TBiBU1)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['17']|['Rs. 48,500                ']|['3']|['4.2']|['HP Envy X2 11-G004TU Laptop (2nd Gen ADC/ 2GB/ 64GB eMMC/ Win8/Touch)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['4']|['Rs. 128,650                ']|['0']|['3']|['Dell Alienware AW17781TB2A1 Notebook (4th Gen Ci7/ 8GB/ 1TB/ Win8.1/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 25,500                ']|[]|[]|['Lenovo 20392 B Series Pentium Dual Core  -  14 inch, 500 GB HDD, 2 GB DDR3, DOS Laptop']|
+[]|['1']|['Rs. 26,990                ']|['1']|['4']|['Toshiba Satellite C50-A I0015 Laptop (3rd Gen Ci3/ 2GB/ 500GB/ No OS)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 22,990                ']|[]|[]|['Lenovo Ideapad Flex Series Others  -  10.1 inch, 500 GB HDD, 2 GB DDR3, Windows 8 Laptop']|
+[]|['1']|['Rs. 43,500                ']|['0']|['1']|['Lenovo S510p Notebook (4th Gen Ci5/ 4GB/ 500GB/ Win8.1/ 2GB Graph) (59-411377)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 31,598                ']|[]|[]|['Dell Inspiron 3542 Notebook (4th Gen Ci3/ 4GB/ 500GB/ Ubuntu) (354234500iBLU)']|
+[]|[]|['Rs. 41,950                ']|[]|[]|['HP Probook G1 248 Intel Core i5  -  14 inch, 500 GB HDD, 4 GB DDR3, DOS Laptop']|
+[]|['6']|[]|['0']|['4.3']|['Apple MGX92HN/A MacBook Pro Notebook (Ci5/ 8GB/ Mac OS X Mavericks)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 38,500                ']|[]|[]|['Dell Inspiron 5547 Notebook (4th Gen Ci3/ 4GB/ 500GB/ Win8.1) (554734500iS)']|
+[]|['1']|['Rs. 31,500                ']|['0']|['4']|['HP 15-r015tu Notebook (4th Gen Ci3/ 4GB/ 1TB/ Free DOS) (G8D95PA)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 24,990                ']|[]|[]|['Lenovo B40-70 B Series Pentium Dual Core  -  14.1 inch, 500 GB HDD, 2 GB DDR3, DOS Laptop']|
+[]|['2']|['Rs. 34,490                ']|['0']|['5']|['HP ProBook S-Series Intel Core i3  -  14.1 inch, 500 GB HDD, 4 GB DDR3, DOS Laptop']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['1']|['Rs. 52,680                ']|['1']|['1']|['Dell 3440 Latitude Intel Core i5  -  14 inch, 500 GB HDD, 4 GB DDR3, Linux/Ubuntu Laptop']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['1']|['Rs. 77,790                ']|['0']|['5']|['Lenovo Thinkpad X240 (20AMA0JXIG) Intel Core i5  -  12.5 inch, 500 GB HDD, 4 GB DDR3, Windows 8 Pro Laptop']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 60,599                ']|[]|[]|['Dell Inspiron 3542 Notebook (4th Gen Ci7/ 8GB/ 1TB/ Win8.1/ 2GB Graph) (3542781TB2BL)']|
+[]|[]|['Rs. 39,080                ']|[]|[]|['Toshiba Satellite L50-B I3110 Notebook (4th Gen Ci3/ 4GB/ 500GB/ Win8.1/ 2GB Graph)']|
+[]|[]|['Rs. 30,160                ']|[]|[]|['Toshiba Satellite L50-B I0012 Notebook (3rd Gen Ci3/ 2GB/ 500GB/ No OS)']|
+[]|['1']|['Rs. 37,650                ']|['0']|['2']|['Dell Inspiron 14 3442 Notebook (4th Gen Ci3/ 4GB/ 500GB/ Win8.1/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 47,100                ']|[]|[]|['Dell 3440 Latitude Intel Core i3  -  14 inch, 500 GB HDD, 4 GB DDR3, Windows 8 Laptop']|
+[]|['1']|['Rs. 41,968                ']|['0']|['5']|['Dell 3440 Latitude Intel Core i3  -  14 inch, 500 GB HDD, 4 GB DDR3, Linux/Ubuntu Laptop']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['4']|['Rs. 31,600                ']|['1']|['5']|['Dell Vostro 2520 Laptop (2nd Gen Ci3/ 2GB/ 500GB/ Win8)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['13']|['Rs. 26,110                ']|['6']|['3.9']|['Toshiba Satellite C50-A I0013 Laptop (3rd Gen Ci3/ 2GB/ 500GB/ No OS)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['4']|['Rs. 29,899                ']|['0']|['3.8']|['Dell Vostro 2520 Laptop (2nd Gen Ci3/ 2GB/ 500GB/ Linux)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['29']|['Rs. 69,990                ']|['11']|['4.7']|['Dell Inspiron 15R 5521 Laptop (3rd Gen Ci7/ 8GB/ 1TB/ Win8/ 2GB Graph/ Touch)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 64,690                ']|[]|[]|['Dell 3440 Latitude Intel Core i5  -  14 inch, 500 GB HDD, 4 GB DDR3, Windows 8 Laptop']|
+[]|['1']|['Rs. 37,350                ']|['1']|['1']|['Acer Aspire E E1-572 Notebook (4th Gen Ci5/ 4GB/ 500GB/ Linux/ 128MB Graph) (NX.M8ESI.009)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['8']|['Rs. 94,560                ']|['2']|['4']|['Acer Aspire S7-392 Ultrabook (4th Gen Ci5/ 4GB/ 256GB SSD/ Win8/ Touch) (NX.MBKSI.005)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['2']|['Rs. 46,799                ']|['1']|['3.5']|['Lenovo ThinkPad L440 Notebook (4th Gen Ci3/ 4GB/ 500GB/ Free DOS)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 34,000                ']|[]|[]|['Acer Aspire E E1-570G Notebook (3rd Gen Ci3/ 4GB/ 1TB/ Linux/ 2GB Graph) (NX.MESSI.004)']|
+[]|['4']|['Rs. 55,599                ']|['0']|['4']|['Dell 15 R Inspiron Intel Core i5  -  15.6 inch, 500 GB HDD, 4 GB DDR3, Windows 8 Laptop']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['8']|['Rs. 40,100                ']|['2']|['4.9']|['Lenovo Ideapad Z580 (59-370239) Laptop (3rd Gen Ci3/ 4GB/ 500GB/ Win8/ 1GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 36,500                ']|[]|[]|['Acer Aspire E E1-570G Notebook (3rd Gen Ci3/ 4GB/ 500GB/ Windows 8/ 2GB Graph) (NX.MESSI.002)']|
+[]|['1']|['Rs. 36,990                ']|['0']|['4']|['HP 4540s ProBook (D5J93PA) Laptop (3rd Gen Ci3/ 2GB/ 750GB/1GB Grp/ DOS)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['2']|['Rs. 23,199                ']|['0']|['4.5']|['Asus X550CA-XO259D X Pentium Dual Core  -  15.6 inch, 500 GB HDD, 2 GB DDR3, DOS Laptop']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['3']|['Rs. 49,490                ']|['1']|['3.7']|['Asus X550LC-XX015H X Intel Core i7  -  15.6 inch, 750 GB HDD, 4 GB DDR3, Windows 8 Laptop']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['3']|['Rs. 52,500                ']|['0']|['3.7']|['Dell Inspiron 15R Laptop (4th Gen Ci5/ 4GB/ 750GB/ Win8/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 43,000                ']|[]|[]|['HP 4440s Probook Intel Core i5  -  14 inch, 750 GB HDD, 2 GB DDR3, DOS Laptop']|
+[]|['37']|['Rs. 34,500                ']|['15']|['4.5']|['Asus K55VD-SX314D Laptop (2nd Gen Ci3/ 4GB/ 500GB/ DOS/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 39,855                ']|[]|[]|['Dell INSPIRON 3000 SERIES  -  15.6 inch, 1 TB HDD, 4 GB DDR3 Laptop']|
+[]|['5']|['Rs. 21,890                ']|['0']|['3.4']|['Wipro WNB0FHH4710C-0002 ego Pentium Dual Core  -  14 inch, 500 GB HDD, 2 GB DDR3, Linux/Ubuntu Laptop']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 20,950                ']|[]|[]|['Asus X553MA-XX067D X Series  -  15.6 INCH, 500 GB HDD, 2 GB DDR3 Laptop']|
+[]|[]|['Rs. 51,300                ']|[]|[]|['HP 248 G1 G1 Series Intel Core i5  -  14.1 inch, 1 TB HDD, 4 GB DDR3, Windows 8 Pro Laptop']|
+[]|[]|['Rs. 71,990                ']|[]|[]|['HP Pro Book G2 Series  -  13.3 inch, 500 GB HDD, 4 GB DDR3 Laptop']|
+[]|[]|['Rs. 39,825                ']|[]|[]|['HP 240 G3 G3 Series Intel Core i3  -  14 inch, 500 GB HDD, 4 GB DDR3, Windows 8 Pro Laptop']|
+[]|[]|['Rs. 35,990                ']|[]|[]|['HP 4540s Probook Intel Core i3  -  15.6 inch, 640 GB HDD, 2 GB DDR3, Windows 8 Laptop']|
+[]|['1']|['Rs. 29,490                ']|['1']|['3']|['Lenovo B590(59-390111) B Intel Core i3  -  15.6 inch, 500 GB HDD, 2 GB DDR3, DOS Laptop']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['2']|['Rs. 26,499                ']|['0']|['4']|['Asus X450CA-WX137D Laptop (3rd Gen Ci3/ 2GB/ 500GB/ DOS)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 34,800                ']|[]|[]|['Dell Vostro 2520  -  15.6 inch, 500 GB HDD, 4 GB DDR3 Laptop']|
+[]|[]|['Rs. 34,990                ']|[]|[]|['Lenovo G50-70 G Series  -  15.6 inch, 500 GB HDD, 4 GB DDR3 Laptop']|
+[]|[]|['Rs. 55,990                ']|[]|[]|['Lenovo Thinkpad Thinkpad  -  14.1 inch, 500 GB HDD, 4 GB DDR3 Laptop']|
+[]|[]|['Rs. 26,459                ']|[]|[]|['Asus KX034D F Series  -  11.6 inch, 500 GB HDD, 4 GB DDR3 Laptop']|
+[]|[]|['Rs. 22,990                ']|[]|[]|['HP 245 G2 Series  -  14 inch, 500 GB HDD, 2 GB DDR3 Laptop']|
+[]|['1']|['Rs. 28,499                ']|['0']|['4']|['Asus X550CA-XO347D X Intel Core i3  -  15.6 inch, 500 GB HDD, 2 GB DDR3, DOS Laptop']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 46,990                ']|[]|[]|['HP Elite Book 8460p Series  -  14 inch, 320 GB HDD, 4 GB DDR3 Laptop']|
+[]|[]|['Rs. 59,990                ']|[]|[]|['HP ProBook ProBook - S Series Intel Core i5  -  13.3 inch, 500 GB HDD, 4 GB DDR3, Windows 8 Pro Laptop']|
+[]|[]|['Rs. 92,000                ']|[]|[]|['Asus TX201LA - CQ003P Transformer Intel Core i7  -  11.6 inch, 500 GB HDD, 4 GB DDR3, Windows 8 Pro Laptop']|
+[]|['2']|['Rs. 44,690                ']|['0']|['4']|['Toshiba L40-A X0110 Satellite Intel Core i5  -  14 inch, 750 GB HDD, 4 GB DDR3, Windows 8 Laptop']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['2']|['Rs. 29,900                ']|['1']|['3']|['Asus S200E-CT162H S Pentium Dual Core  -  11.6 inch, 500 GB HDD, 4 GB DDR3, Windows 8 Laptop']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 45,325                ']|[]|[]|['HP Pro Book G2 Series  -  14 inch, 500 GB HDD, 4 GB DDR3 Laptop']|
+[]|[]|['Rs. 29,900                ']|[]|[]|['HP 240 G3 G3 Series Intel Core i3  -  14 inch, 500 GB HDD, 4 GB DDR3, DOS Laptop']|
+[]|[]|['Rs. 32,490                ']|[]|[]|['HP Pavilion R Series  -  14 inch, 500 GB HDD, 4 GB DDR3 Laptop']|
+[]|['3']|['Rs. 32,685                ']|['2']|['4']|['Asus X550CC-XX072D X Intel Core i3  -  15.6 inch, 500 GB HDD, 4 GB DDR3, DOS Laptop']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 33,490                ']|[]|[]|['HP Pro Book 440 G1 Series  -  14 inch, 500 GB HDD, 4 GB DDR3 Laptop']|
+[]|['6']|['Rs. 46,199                ']|['4']|['3.7']|['Acer Aspire E1-572G Notebook (4th Gen Ci5/ 4GB/ 750GB/ Win8/ 2GB Graph) (NX.M8JSI.002)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 41,979                ']|[]|[]|['Dell Inspiron 3542 Notebook (4th Gen Ci5/ 4GB/ 1TB/ Ubuntu/ 2GB Graph) (3542541TB2BU)']|
+[]|[]|['Rs. 42,149                ']|[]|[]|['Dell Inspiron 5547 Notebook (4th Gen Ci3/ 4GB/ 500GB/ Win8.1/ 2GB Graph) (5547345002S)']|
+[]|[]|['Rs. 29,690                ']|[]|[]|['Dell Inspiron 3542 Notebook (4th Gen PDC/ 4GB/ 500GB/ Ubuntu) (3542P4500iBLU)']|
+[]|['1']|['Rs. 29,760                ']|['1']|['4']|['Dell Inspiron 3542 Notebook (4th Gen Ci3/ 4GB/ 500GB/ Ubuntu) (354234500iBU1)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['1']|['Rs. 49,490                ']|['0']|['5']|['Dell Inspirion 3542 Notebook (4th Gen Ci5/ 8GB/ 1TB/ Win8.1/ 2GB Graph) (3542581TB2R)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['1']|['Rs. 27,190                ']|['0']|['1']|['Lenovo G50-45 Notebook (APU Quad Core A8/ 4GB/ 500GB/ Free DOS/ 2GB Graph) (80300GYIN)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|[]|[]|[]|['Dell Inspiron 3542 Notebook (4th Gen Ci3/ 4GB/ 1TB/ Ubuntu) (3542341TBiBU)']|
+[]|[]|['Rs. 30,000                ']|[]|[]|['Lenovo G50-70 Notebook (4th Gen Ci3/ 4GB/ 500GB/ Free DOS) (59-413711)']|
+[]|[]|['Rs. 45,500                ']|[]|[]|['Dell Inspiron 3442 Notebook (4th Gen Ci5/ 4GB/ 500GB/ Win8.1/ 2GB Graph) (3442545002B)']|
+[]|[]|['Rs. 34,000                ']|[]|[]|['Dell Inspiron 3147 Notebook (1st Gen CDC/ 4GB/ 500GB/ Win8.1/ Touch) (3147C4500iS)']|
+[]|[]|['Rs. 25,900                ']|[]|[]|['Dell Inspiron 3442 Notebook (4th Gen PDC/ 4GB/ 500GB/ Win8.1) (3442P4500iB1)']|
+[]|['1']|['Rs. 32,500                ']|['0']|['4']|['Lenovo G50-70 Notebook (4th Gen Ci3/ 2GB/ 1TB/ Free DOS/ 2GB Graph) (59-422432)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['1']|['Rs. 35,411                ']|['1']|['4']|['Dell Inspirion 3147 2-in-1 Laptop (PQC/ 4GB/ 500GB/ Win8.1/ Touch) (3147P4500iST1)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['8']|['Rs. 114,990                ']|['1']|['3.5']|['Dell XPS 12 Ultrabook (3rd Gen Ci7/ 8GB/ 256GB SSD/ Win8/ Touch)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 33,990                ']|[]|[]|['Acer Aspire E5-571 Notebook (4th Gen Ci3/ 4GB/ 500GB/ Win8.1) (NX.MPSSI.004)']|
+[]|[]|['Rs. 39,270                ']|[]|[]|['Dell Inspirion 3542 Notebook (4th Gen Ci5/ 4GB/ 500GB/ Win8.1) (354254500iB)']|
+[]|[]|['Rs. 23,290                ']|[]|[]|['Toshiba Satellite C50A-P0015 Notebook (PQC/ 2GB/ 500GB/ No OS)']|
+[]|['1']|['Rs. 123,900                ']|['0']|['5']|['Dell Alienware 14 Notebook (4th Gen Ci7/ 8GB/ 1TB/ Win8.1/ 2GB Graph) (AW14781TB2A2)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 41,700                ']|[]|[]|['Lenovo Ideapad Flex 2-14 Notebook (4th Gen Ci3/ 4GB/ 500GB/ Win8.1/ Touch) (59-429522)']|
+[]|[]|['Rs. 34,899                ']|[]|[]|['Dell Inspiron 3542 Notebook (4th Gen Ci3/ 4GB/ 500GB/ Ubuntu/ 2GB) (3542345002BU1)']|
+[]|[]|['Rs. 35,670                ']|[]|[]|['Dell Inspiron 3542 Notebook (4th Gen Ci3/ 4GB/ 500GB/ Win8.1/ 2GB Graph) (3542345002R)']|
+[]|[]|['Rs. 33,800                ']|[]|[]|['Dell Inspiron 3542 Notebook (4th Gen Ci3/ 4GB/ 1TB/ Ubuntu) (3542341TBiBLU)']|
+[]|[]|['Rs. 24,000                ']|[]|[]|['Toshiba Satellite L50-B P0010 Notebook (PQC/ 2GB/ 500GB) (PSKTWG-00900H)']|
+[]|['5']|['Rs. 92,490                ']|['0']|['5']|['MSI GE60 2PG Apache (623IN) Notebook (4th Gen Ci7/ 8GB/ 1TB/ Win8.1/ 2GB Graph) (GE60 2 PG)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 39,400                ']|[]|[]|['HP Pavilion 13-b102TU Notebook (4th Gen Ci3/ 4GB/ 1TB/ Win8.1) (J8C29PA)']|
+[]|[]|['Rs. 45,020                ']|[]|[]|['Dell Inspiron 3542 Notebook (4th Gen Ci5/ 4GB/ 1TB/ Win8.1/ 2GB Graph) (3542541TB2BT1)']|
+[]|['2']|['Rs. 51,000                ']|['0']|['4.5']|['Lenovo Z50-70 Notebook (4th Gen Ci5/ 8GB/ 1TB/ Win8.1/ 2GB Graph) (59-430541)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['1']|['Rs. 40,990                ']|['0']|['5']|['Dell Inspirion 3542 Notebook (4th Gen Ci5/ 4GB/ 500GB/ Win8.1) (354254500iBL)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 34,290                ']|[]|[]|['HP 15-r065TU Notebook (4th Gen Ci3/ 4GB/ 1TB/ Win8.1) (J8B81PA)']|
+[]|[]|['Rs. 51,000                ']|[]|[]|['Dell Inspiron 5547 Notebook (4th Gen Ci5/ 4GB/ 500GB/ Win8.1/ Touch/ 2GB Graph) (5547545002ST1)']|
+[]|['5']|['Rs. 41,890                ']|['3']|['5']|['Lenovo Z50 Notebook (4th Gen Ci5/ 4GB/ 1TB/ Free DOS/ 2GB Graph) (59-429623)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['1']|['Rs. 27,990                ']|['0']|['4']|['Toshiba Satellite Pro B40-A I0033 (3rd Gen Ci3/ 4GB/ 500GB/ No OS) (PSM4VG-004003)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['1']|['Rs. 20,990                ']|['0']|['1']|['Lenovo G405 Notebook (APU Dual Core E1/ 2GB/ 500GB/ Win8.1) (59-412293)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['4']|['Rs. 102,300                ']|['2']|['5']|['MSI GE60 2PF Apache Pro (622IN) Notebook (4th Gen Ci7/ 8GB/ 1TB/ Win8.1/ 2GB Graph) (GE60 2 PF)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['6']|['Rs. 112,290                ']|['3']|['4']|['MSI GE60 2PE Apache Pro (621IN) Notebook (4th Gen Ci7/ 8GB/ 1TB/ Win8.1/ 2GB Graph) (GE60 2PF)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 38,990                ']|[]|[]|['Dell Inspiron 3542 Notebook (4th Gen PDC/ 4GB/ 500GB/ Ubuntu) (3542P4500iRU)']|
+[]|['1']|['Rs. 40,390                ']|['1']|['5']|['Dell Inspirion 3542 Notebook (4th Gen Ci5/ 4GB/ 500GB/ Win8.1) (354254500iS)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['2']|['Rs. 99,590                ']|['0']|['1.5']|['Dell XPS 12 Ultrabook (3rd Gen Ci5/ 4GB/ 128GB SSD/ Win8/ Touch)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['2']|['Rs. 48,000                ']|['0']|['4.5']|['Dell Inspirion 3542 Notebook (4th Gen Ci5/ 8GB/ 1TB/ Win8.1/ 2GB Graph) (3542581TB2B)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['1']|['Rs. 24,800                ']|['1']|['1']|['Acer Aspire E1-522A Laptop (APU Quad Core A4/ 2GB/ 500GB/ Linux) (NX.M81SI.009)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 37,990                ']|[]|[]|['Dell Inspiron 3542 Notebook (4th Gen Ci3/ 4GB/ 500GB/ Ubuntu/ 2GB Graph) (3542345002RU)']|
+[]|[]|['Rs. 35,600                ']|[]|[]|['Dell Inspiron 3542 Notebook (4th Gen Ci3/ 4GB/ 500GB/ Win8.1) (354234500iBT1)']|
+[]|[]|['Rs. 36,500                ']|[]|[]|['Dell Inspiron 3442 Notebook (4th Gen Ci3/ 4GB/ 500GB/ Win8.1) (344234500iR)']|
+[]|['3']|['Rs. 53,299                ']|['0']|['3.7']|['Toshiba Satellite S40-B X3110 Notebook (4th Gen Ci5/ 4GB/ 1TB/ Win8.1/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['2']|['Rs. 38,990                ']|['0']|['3.5']|['Asus F550CC-CJ979H Notebook (3rd Gen Ci3/ 4GB/ 500GB/ Win8/ 2GB Graph/ Touch) (90NB00W9-M21400)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 38,470                ']|[]|[]|['Toshiba Satellite L50-B X0011 Notebook (4th Gen Ci5/ 4GB/ 500GB/ No OS)']|
+[]|[]|['Rs. 34,100                ']|[]|[]|['Dell Inspiron 15 352132500iBU Notebook (3rd Gen Ci3/ 4GB/ 500GB/ Ubuntu)']|
+[]|[]|['Rs. 122,990                ']|[]|[]|['Dell Alienware AW14781TB2A1 Notebook (4th Gen Ci7/ 8GB/ 1TB/ Win8.1/ 2GB Graph)']|
+[]|['1']|['Rs. 63,799                ']|['0']|['5']|['Toshiba Satellite L50-B Y3110 Notebook (4th Gen Ci7/ 8GB/ 1TB/ Win8.1/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['3']|['Rs. 68,990                ']|['0']|['1']|['Dell Inspiron 5537 Notebook (4th Gen Ci7/ 8GB/ 1TB/ Win8/ 2GB Graph) (3537561tb2b)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['1']|['Rs. 18,599                ']|['0']|['4']|['Asus X200MA Netbook (1st Gen CQC/ 2GB/ 500GB/ Free DOS) (KX233D)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 23,100                ']|[]|[]|['Toshiba Satellite C50A-P0014 Notebook (1st Gen PQC/ 2GB/ 500GB/ No OS)']|
+[]|[]|['Rs. 30,160                ']|[]|[]|['Toshiba Satellite L50-B I0010 Notebook (3rd Gen Ci3/ 2GB/ 500GB/ No OS)']|
+[]|['1']|['Rs. 34,163                ']|['0']|['5']|['Dell Inspiron 3542 Notebook (4th Gen Ci3/ 4GB/ 500GB/ Ubuntu/ 2GB Graph) (3542345002BU)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 30,160                ']|[]|[]|['Toshiba Satellite L50-B I0011 Notebook (3rd Gen Ci3/ 2GB/ 500GB/ No OS)']|
+[]|[]|['Rs. 28,500                ']|[]|[]|['Toshiba Satellite C50-B I0010 Notebook (3rd Gen Ci3/ 2GB/ 500GB/ No OS)']|
+[]|[]|['Rs. 42,250                ']|[]|[]|['Dell Inspiron 3442 Notebook (4th Gen Ci5/ 4GB/ 1TB/ Ubuntu/ 2GB Graph) (3442541TB2BU)']|
+[]|['13']|['Rs. 111,990                ']|['3']|['3.8']|['MSI GS60 2PL Ghost Notebook (4th Gen Ci7/ 8GB/ 1TB/ Win8.1/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['10']|['Rs. 67,990                ']|['2']|['4.1']|['Dell Inspiron 15R 5521 Laptop (3rd Gen Ci7/ 8GB/ 1TB/ Win8/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['1']|['Rs. 29,985                ']|['1']|['2']|['Acer Aspire V5-571 Laptop (2nd Gen Ci3/ 4GB/ 500GB/ Linux) (NX.M2DSI.012)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['2']|['Rs. 36,400                ']|['2']|['3']|['Lenovo Z50-70 Notebook (4th Gen Ci5/ 4GB/ 1TB/ Free DOS) (59-420310)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['7']|['Rs. 37,450                ']|['4']|['3.9']|['Dell Inspirion 3148 2-in-1 Laptop (4th Gen Ci3/ 4GB/ 500GB/ Win8.1/ Touch) (314834500iST)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 24,990                ']|[]|[]|['HCL AE1V3113-I ME  -  14.1 Inch, 320 GB HDD, 2 GB DDR3 Laptop']|
+[]|[]|['Rs. 17,990                ']|[]|[]|['HCL AE2V0164-I ME  -  11.6 Inch, 500 GB HDD, 2 GB DDR3 Laptop']|
+[]|['3']|['Rs. 20,550                ']|['0']|['4.7']|['Asus XX063D X Series Pentium Quad Core  -  15.6 inch, 500 GB HDD, 2 GB DDR3, DOS Laptop']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 34,865                ']|[]|[]|['HP ProBook G2 Series Intel Core i3  -  14 inch, 500 GB HDD, 4 GB DDR3, DOS Laptop']|
+[]|['2']|['Rs. 32,850                ']|['2']|['5']|['HP Pavilion R Series Intel Core i3  -  15.6 inch, 500 GB HDD, 4 GB DDR3, DOS Laptop']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['1']|['Rs. 26,285                ']|['0']|['5']|['Asus F451C F Series Intel Core i3  -  14 inch, 500 GB HDD, 4 GB DDR3, DOS Laptop']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 32,599                ']|[]|[]|['Acer Aspire E5-571 Notebook (4th Gen Ci3/ 4GB/ 500GB/ Linux) (NX.MPTSI.002)']|
+[]|[]|['Rs. 48,990                ']|[]|[]|['Lenovo Z50-70 Notebook (4th Gen Ci5/ 4GB/ 1TB/ Win8.1/ 2GB Graph) (59-436412)']|
+[]|[]|['Rs. 33,799                ']|[]|[]|['Acer Aspire E5-571 Notebook (4th Gen Ci3/ 4GB/ 1TB/ Linux) (NX.MLTSI.003)']|
+[]|[]|['Rs. 35,650                ']|[]|[]|['Acer Aspire E5-571 Notebook (4th Gen Ci3/ 4GB/ 1TB/ Win8.1) (NX.MLTSI.004)']|
+[]|[]|['Rs. 37,699                ']|[]|[]|['Dell Inspirion 3542 Notebook (4th Gen Ci5/ 4GB/ 500GB/ Ubuntu) (354254500iRU)']|
+[]|['2']|['Rs. 53,750                ']|['0']|['5']|['Lenovo Z50-70 Notebook (4th Gen Ci5/ 8GB/ 1TB/ Win8.1/ 4GB Graph) (59-428432)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 20,990                ']|[]|[]|['Lenovo G50-45 Notebook (APU Dual Core E1/ 2GB/ 500GB/ Win8.1) (803005RIN)']|
+[]|['2']|['Rs. 80,350                ']|['0']|['5']|['Asus G551JK-DM053H ROG Series  -  15.6 inch, 1 TB HDD, 8 GB DDR3 Laptop']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 33,540                ']|[]|[]|['Lenovo G 50-70 Notebook (4th Gen Ci3/ 4GB/ 500GB/ Win8.1) (59-436419)']|
+[]|[]|['Rs. 26,990                ']|[]|[]|['Lenovo Ideapad G50-30 Notebook (1st Gen PQC/ 4GB/ 1TB/ Win8.1) (80G000EPIN)']|
+[]|[]|['Rs. 44,349                ']|[]|[]|['HP Pro Book G2 Series  -  14 inch, 500 GB HDD, 4 GB DDR3 Laptop']|
+[]|[]|['Rs. 39,400                ']|[]|[]|['Dell Inspiron 3542 Notebook (4th Gen Ci3/ 4GB/ 500GB/ Win8.1/ 2GB Graph) (3542345002BL1)']|
+[]|['9']|['Rs. 53,990                ']|['0']|['4.4']|['HP ProBook G2 Series Intel Core i5  -  14 inch, 500 GB HDD, 4 GB DDR3, Windows 8 Pro Laptop']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 19,500                ']|[]|[]|['Asus X553MA-XX233D X Series  -  15.6 inch, 500 GB HDD, 2 GB DDR3 Laptop']|
+[]|['1']|['Rs. 38,570                ']|['0']|['5']|['Lenovo Ideapad Flex 2-14 Notebook (4th Gen Ci3/ 4GB/ 500GB/ Win8.1/ Touch) (59-428487)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 40,899                ']|[]|[]|['Dell Inspirion 3542 Notebook (4th Gen Ci5/ 4GB/ 500GB/ Win8.1) (354254500iR)']|
+[]|['6']|['Rs. 89,990                ']|['2']|['5']|['Acer Aspire R7-572G (NX.M95SI.001) Laptop (4th Gen Ci5/ 8GB/ 1TB/ Win8/ 2GB Graph/ Touch)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 34,320                ']|[]|[]|['Acer Aspire E1-470P Notebook (3rd Gen Ci3/ 4GB/ 500GB/ Win8.1/ Touch) (NX.MF8SI.004)']|
+[]|[]|['Rs. 18,500                ']|[]|[]|['Asus X200MA-KX238D X Series  -  11.6 inch, 500 GB HDD, 2 GB DDR3 Laptop']|
+[]|['3']|['Rs. 39,788                ']|['0']|['5']|['Asus X550LC-XX325D X Intel Core i5  -  15.6 inch, 750 GB HDD, 4 GB DDR3, DOS Laptop']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 43,950                ']|[]|[]|['Asus Transformer Book Flip Transformer Series  -  15.6 inch, 1 TB HDD, 4 GB DDR3 Laptop']|
+[]|[]|['Rs. 18,990                ']|[]|[]|['Asus X553MA-XX233D X Series  -  15.6 inch, 500 GB HDD, 2 GB DDR3 Laptop']|
+[]|['1']|['Rs. 35,990                ']|['0']|['5']|['Lenovo G50-45 Notebook (APU Quad Core A8/ 8GB/ 1TB/ Win8.1/ 2GB Graph) (80E300FSIN)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 23,290                ']|[]|[]|['Lenovo Flex 10 Notebook (1st Gen CDC/ 2GB/ 500GB/ Win8.1/ Touch) (59-430551)']|
+[]|[]|['Rs. 16,490                ']|[]|[]|['HCL AE2V0164-I L 1011  -  11.6 inch, 500 GB HDD, 2 GB DDR3 Netbook']|
+[]|['3']|['Rs. 46,580                ']|['0']|['3.3']|['Dell Inspiron 3542 Notebook (4th Gen Ci5/ 4GB/ 1TB/ Win8.1/ 2GB Graph) (3542541TB2BL)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|[]|[]|[]|['Lenovo G50-70 59-417092 Notebook (4th Gen Ci3/ 2GB/ 500GB/ Win8.1)']|
+[]|['27']|['Rs. 76,880                ']|['11']|['4.7']|['Lenovo Y50-70 Notebook (4th Gen Ci7/ 8GB/ 1TB/ Win8.1/ 4GB Graph) (59-431090)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 37,090                ']|[]|[]|['Dell Inspirion 3542 Notebook (4th Gen Ci5/ 4GB/ 500GB/ Ubuntu) (354254500iSU)']|
+[]|['1']|['Rs. 25,140                ']|['1']|['4']|['Lenovo Ideapad G50-45 (80E3005WIN) APU Dual Core  -  15.6 inch, 500 GB HDD, 4 GB DDR3, Windows 8 Laptop']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['62']|['Rs. 49,449                ']|['15']|['4.4']|['Samsung NP300V5A-S0CIN Laptop (2nd Gen Ci7/ 6GB/ 1TB/ Win7 HP/ 1GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['1']|['Rs. 32,830                ']|['0']|['5']|['Dell Inspiron 3542 Notebook (4th Gen Ci3/ 4GB/ 500GB/ Ubuntu/ 2GB Graph) (3542345002SU1)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 28,500                ']|[]|[]|['Acer Aspire E5-571 Notebook (4th Gen Ci3/ 2GB/ 500GB/ Linux) (NX.ML8SI.005)']|
+[]|[]|['Rs. 81,490                ']|[]|[]|['HP Envy 15-k111TX Notebook (4th Gen Ci7/ 8GB/ 1TB/ Win8.1/ Touch/ 4GB Graph) (K2N89PA)']|
+[]|['8']|['Rs. 45,800                ']|['3']|['4']|['Lenovo Flex 2-14 Notebook (4th Gen Ci5/ 4GB/ 500GB/ Win8.1/ Touch/ 2GB Graph) (59-429729)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['1']|[]|['0']|['4']|['Lenovo Ideapad Flex 2-14 Notebook (4th Gen Ci3/ 4GB/ 500GB/ Win8.1/ Touch) (59-429728)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|[]|[]|[]|['Ooops! Something went wrong.']|
+[]|[]|['Rs. 39,990                ']|[]|[]|['HP 14 v021tu Notebook (4th Gen Ci3/ 4GB/ 1TB/ Win8.1) (J6M18PA)']|
+[]|['1']|['Rs. 39,999                ']|['1']|['4']|['HP Pavilion TS 14-n242tu Notebook (4th Gen Ci3/ 4GB/ 1TB/ Win8.1/ Touch) (J8B56PA)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 27,299                ']|[]|[]|['HP 14-r059tu Notebook (4th Gen Ci3/ 2GB/ 500GB/ Free DOS) (J8C51PA)']|
+[]|[]|['Rs. 33,310                ']|[]|[]|['HP 15-r063tu Notebook (4th Gen Ci3/ 4GB/ 500GB/ Win8.1) (J8B77PA)']|
+[]|['4']|['Rs. 19,490                ']|['2']|['4.5']|['Asus X553MA-XX063D Notebook (PQC/ 2GB/ 500GB/ Free DOS)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['6']|[]|['3']|['4']|['Lenovo Z50-70 Notebook (4th Gen Ci5/ 4GB/ 1TB/ Free DOS) (59-429601)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['4']|['Rs. 38,990                ']|['1']|['5']|['Lenovo S510p Notebook (4th Gen Ci5/ 4GB/ 500GB/ Free DOS/ 2GB Graph) (59-411376)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 72,890                ']|[]|[]|['HP Envy 15-k112TX Notebook (4th Gen Ci7/ 8GB/ 1TB/ Win8.1/ 4GB Graph) (K2N90PA)']|
+[]|['11']|['Rs. 66,440                ']|['4']|['4.3']|['MSI GP60 2PE Leopard (424IN) Notebook (4th Gen Ci5/ 4GB/ 750GB/ Win8.1/ 2GB Graph) (GP60 2PE Pro)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['3']|['Rs. 19,990                ']|['0']|['4.7']|['Asus X553MA-BING-XX289B Notebook (4th Gen Celeron Quad Core/ 2GB/ 500GB/ Win8.1) (90NB04X1-M05170)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['3']|['Rs. 31,690                ']|['3']|['3.3']|['Lenovo G50-70 Notebook (4th Gen Ci3/ 4GB/ 500GB/ Win8.1) (59-422405)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 39,000                ']|[]|[]|['HP Pavilion 11-n032tu x360 Netbook (1st Gen PQC/ 4GB/ 500GB/ Win8.1) (J8B99PA)']|
+[]|[]|['Rs. 31,990                ']|[]|[]|['HP Pavilion R Series  -  15.6 inch, 500 GB HDD, 4 GB DDR3 Laptop']|
+[]|['18']|['Rs. 54,600                ']|['7']|['3.8']|['Asus N55SL-S1050V Laptop (2nd Gen Ci7/ 8GB/ 750GB/ Win7 HP/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 20,850                ']|[]|[]|['Asus X553MA-XX064D X Series  -  15.6 inch, 500 GB HDD, 2 GB DDR3 Laptop']|
+[]|[]|['Rs. 36,890                ']|[]|[]|['Dell Inspirion 3542 Notebook (4th Gen Ci5/ 4GB/ 500GB/ Ubuntu) (354254500iBU)']|
+[]|[]|['Rs. 25,990                ']|[]|[]|['Dell Inspiron 3442 Notebook (4th Gen PDC/ 4GB/ 500GB/ Ubuntu) (3442P4500iBU1)']|
+[]|['23']|['Rs. 25,499                ']|['13']|['4.4']|['HP 15-r078TU Notebook (PQC/ 4GB/ 1TB/ Win8.1) (K5B35PA)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['2']|['Rs. 49,990                ']|['1']|['4']|['Dell Inspiron 5547 Notebook (4th Gen Ci5/ 4GB/ 500GB/ Win8.1/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['1']|['Rs. 57,990                ']|['0']|['5']|['Dell Inspiron 7437 Notebook (4th Gen Ci5/ 6GB/ 500GB/ Win8.1/ Touch) (743756500iST1)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 17,990                ']|[]|[]|['Asus X200MA-KX238D Netbook (1st Gen CDC/ 2GB/ 500GB/ Free DOS) (90NB04U2-M06400)']|
+[]|[]|['Rs. 45,690                ']|[]|[]|['Dell Inspiron 3542 Notebook (4th Gen Ci5/ 4GB/ 1TB/ Win8.1/ 2GB Graph) (3542541TB2B1)']|
+[]|['9']|[]|['4']|['4.6']|['Lenovo Z50-70 Notebook (4th Gen Ci7/ 8GB/ 1TB/ Win8.1/ 4GB Graph) (59-429602)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 19,490                ']|[]|[]|['Lenovo S20-30 Netbook (4th Gen CDC/ 2GB/ 500GB/ Win8.1) (59-436662)']|
+[]|['15']|['Rs. 28,135                ']|['3']|['4.4']|['HP 15-r074TU Notebook (4th Gen Ci3/ 4GB/ 1TB/ Free DOS) (J8B82PA)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['6']|['Rs. 52,000                ']|['2']|['4.8']|['Lenovo Z50 Notebook (4th Gen Ci5/ 8GB/ 1TB/ Win8.1/ 4GB Graph) (59-429607)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['17']|['Rs. 42,990                ']|['7']|['4.4']|['Dell Inspiron 5447 Notebook (4th Gen Ci5/ 4GB/ 1TB/ Win8.1/ 2GB Graph) (5447541TB2S)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['4']|['Rs. 24,150                ']|['2']|['3.8']|['Lenovo G50 - 30 Notebook (PQC/ 4GB/ 500GB/ Win8.1) (80G0015HIN)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['13']|['Rs. 22,290                ']|['5']|['3.6']|['Dell Inspiron 3541 Notebook (APU Dual Core E1/ 4GB/ 500GB/ Win8.1) (3541E14500iB1)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['4']|['Rs. 35,090                ']|['1']|['5']|['Dell Inspiron 3542 Notebook (4th Gen Ci3/ 4GB/ 1TB/ Win8.1) (3542341TBiS1)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['4']|['Rs. 35,090                ']|['1']|['5']|['Dell Inspiron 3542 Notebook (4th Gen Ci3/ 4GB/ 1TB/ Win8.1) (3542341TBiS1)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['2']|[]|['1']|['4.5']|['HP 14-r053TU Notebook (4th Gen Ci3/ 4GB/ 500GB/ Win8.1) (J8B87PA)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 21,200                ']|[]|[]|['Asus X200MA-Bing-KX495B X Series  -  11.6 inch, 500 GB HDD, 2 GB DDR3 Netbook']|
+[]|['4']|['Rs. 48,390                ']|['3']|['3.8']|['Dell Inspirion 3542 Notebook (4th Gen Ci5/ 8GB/ 1TB/ Win8.1/ 2GB Graph) (3542581TB2S)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['4']|['Rs. 48,260                ']|['2']|['3']|['Lenovo Z50 Notebook (4th Gen Ci5/ 8GB/ 1TB/ Win8.1/ 2GB Graph) (59-429611)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['8']|[]|['5']|['5']|['Lenovo B50-70 Notebook (4th Gen Ci7/ 8GB/ 1TB/ Win8/ 2GB Graph) (59-434775)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['109']|['Rs. 24,490                ']|['63']|['4']|['HP 15-g049AU Notebook (APU Quad Core A8/ 4GB/ 500GB/ Win8.1) (K5B45PA)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 21,450                ']|[]|[]|['Acer Aspire E3  -  11.6 inch, 500 GB HDD, 2 GB DDR3 Laptop']|
+[]|['1']|['Rs. 25,150                ']|['0']|['5']|['Lenovo G50-45 Notebook (APU Quad Core A6/ 4GB/ 500GB/ Win8.1) (80300GWIN)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 24,000                ']|[]|[]|['Acer Aspire E5  -  15.6 inch, 500 GB HDD, 2 GB DDR3 Laptop']|
+[]|['3']|[]|['0']|['5']|['HP 15-p036TU Notebook (4th Gen Ci5/ 4GB/ 1TB/ Win8.1) (G8D91PA)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['18']|['Rs. 17,550                ']|['11']|['3.7']|['HP (A4/ 2GB RAM/ DOS)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['175']|['Rs. 26,260                ']|['77']|['4']|['HP Compaq 15-s001TU Notebook (4th Gen Ci3/ 4GB/ 500GB/ Free DOS) (G8D87PA)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['172']|['Rs. 26,750                ']|['83']|['4']|['HP 15-r036TU Notebook (PQC/ 4GB/ 500GB/ Win8.1) (J6L69PA)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['170']|['Rs. 28,990                ']|['85']|['4.1']|['HP 15-g009AX Notebook (APU Quad Core A8/ 4GB/ 1TB/ Free DOS/ 2GB Graph) (G8D85PA)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['382']|['Rs. 20,731                ']|['191']|['4.2']|['Dell Vostro 2520 Laptop (3rd Gen Ci3/ 4GB/ 500GB/ Ubuntu)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['64']|['Rs. 32,605                ']|['27']|['4.4']|['Lenovo Essential G505 (59-379534) Laptop (APU Quad Core A4/ 4GB/ 1TB/ Win8/ 1 GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['92']|['Rs. 30,620                ']|['39']|['4.3']|['HP 15-D005TU Laptop (3rd Gen Ci3/ 4GB/ 500GB/ Win8.1)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['84']|['Rs. 38,560                ']|['38']|['4']|['HP Pavilion 15-n201ax Laptop (APU Quad Core A10/ 8GB/ 1TB/ Win8.1/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['21']|['Rs. 43,650                ']|['10']|['3.6']|['Sony VAIO Fit 15E SVF15318SNW Laptop (4th Gen Ci5/ 4GB/ 500GB/ Win8/ 1GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['32']|['Rs. 35,299                ']|['13']|['4.2']|['HP 15-r005TX Notebook (4th Gen Ci3/ 4GB/ 500GB/ Win8.1/ 2GB Graph) (G8D29PA)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['76']|['Rs. 33,680                ']|['35']|['4']|['Lenovo Essential G505s (59-379987) Laptop (APU Quad Core A8/ 4GB/ 1TB/ Win8/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['40']|['Rs. 29,340                ']|['21']|['4.3']|['HP 15-r006tu Notebook (4th Gen Ci3/ 4GB/ 500GB/ Free DOS) (G8D26PA)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['88']|['Rs. 29,380                ']|['44']|['4']|['HP Pavilion 15-n020AX Laptop (APU Quad Core A4/ 4GB/ 1TB/ Ubuntu/ 1GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['54']|['Rs. 48,000                ']|['31']|['3.9']|['Lenovo Ideapad Z510 (59-405848) Notebook (4th Gen Ci5/ 4GB/ 1TB 8GB SSD/ Win8.1/ 1GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['42']|['Rs. 37,800                ']|['18']|['4']|['Lenovo Ideapad S510p(59-383309) Laptop (4th Gen Ci5/ 4GB/ 500GB/ DOS)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['43']|['Rs. 30,799                ']|['24']|['3.2']|['Sony VAIO Fit 14E SVF14212SNB Laptop (3rd Gen Ci3/ 2GB/ 500GB/ Win8)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['163']|['Rs. 74,950                ']|['87']|['4.3']|['Lenovo Ideapad Y510 (59-390016) Laptop (4th Gen Ci7/ 8GB/ 1TB/ Win8/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['16']|['Rs. 30,440                ']|['7']|['3.3']|['Dell Vostro 14 3445 Notebook (APU Quad Core A6/ 4GB/ 500GB/ Win8.1/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['16']|['Rs. 26,290                ']|['8']|['2.8']|['HP Pavilion 15-g004AU Laptop (APU Dual Core/ 2GB/ 500GB/ Win 8.1)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['180']|['Rs. 35,697                ']|['75']|['4.3']|['Dell Vostro 2520 Laptop (3rd Gen Ci5/ 4GB/ 500GB/ Linux)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['14']|['Rs. 31,410                ']|['8']|['4.2']|['Sony VAIO Fit 14326 Notebook (4th Gen Ci3/ 2GB/ 500GB/ Win8.1/ Touch) (F14326SNP)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['20']|['Rs. 27,940                ']|['8']|['3.8']|['Sony VAIO SVF1521ASNB Laptop (3rd Gen Ci3/ 2GB/ 500GB/ Win8)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['100']|['Rs. 42,999                ']|['49']|['4.4']|['HP Pavilion 15-n208TX Laptop (4th Gen Ci5/ 4GB/ 1TB/ Win8.1/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['82']|['Rs. 58,125                ']|['39']|['4.6']|['Lenovo Ideapad Y510P (59-389687) Laptop (4th Gen Ci5/ 8GB/ 1TB/ Win8/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['85']|['Rs. 58,000                ']|['48']|['4.3']|['Lenovo IdeaPad Z510 (59-398016) Laptop (4th Gen Ci7/ 8GB/ 1TB 8GB SSD/ Win8.1/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['25']|['Rs. 35,000                ']|['8']|['3.7']|['HP 450 Laptop (3rd Gen Ci5/ 4GB/ 500GB/ DOS)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['7']|['Rs. 21,499                ']|['3']|['3.3']|['Asus F200MA-KX235H Netbook (PQC/ 2GB/ 500GB/ Win8.1)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['9']|['Rs. 32,290                ']|['6']|['3.9']|['HP 14-r004TU Notebook (4th Gen Ci3/ 4GB/ 500GB/ Win8.1) (G8D25PA)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['34']|['Rs. 36,820                ']|['9']|['4.2']|['HP Pavilion 15-N260TX Notebook (4th Gen Ci3/ 4GB/ 500GB/ Win8.1/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['40']|['Rs. 37,000                ']|['13']|['4']|['Dell Inspiron 15 3521 Laptop (3rd Gen Ci3/ 4GB/ 500GB/ Win8/ Touch)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['51']|['Rs. 44,220                ']|['23']|['4.5']|['HP Pavilion 15-n209TX Laptop (4th Gen Ci5/ 4GB/ 1TB/ Win8.1/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['34']|['Rs. 27,040                ']|['15']|['3.6']|['Dell Vostro 2520 Laptop (3rd Gen PDC/ 2GB/ 500GB/ Win8)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['24']|['Rs. 25,740                ']|['8']|['3.4']|['HP 15-D008TU Laptop (4th Gen PQC/ 2GB/ 500GB/ Win8.1)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['182']|['Rs. 24,990                ']|['87']|['4.5']|['Dell Vostro 2520 Laptop (3rd Gen PDC/ 2GB/ 500GB/ Ubuntu)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['39']|['Rs. 31,699                ']|['22']|['4.2']|['Lenovo Essential B490 (59-381813) Laptop (3rd Gen Ci3/ 4GB/ 500GB/ DOS)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['28']|['Rs. 27,550                ']|['9']|['4.1']|['Dell Vostro 2420 Laptop (2nd Gen Ci3/ 2GB/ 500GB/ Linux)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['10']|['Rs. 30,610                ']|['4']|['4.3']|['HP 15-d002TU Notebook (3rd Gen Ci3/ 4GB/ 500GB/ Win8.1/ Touch)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['34']|['Rs. 31,820                ']|['16']|['4']|['Sony VAIO Fit 15E SVF15213SNB Laptop (3rd Gen Ci3/ 4GB/ 500GB/ Win8/ 1GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['17']|['Rs. 32,650                ']|['7']|['4.5']|['HP 15-r006TX Notebook (4th Gen Ci3/ 4GB/ 500GB/ Free DOS/ 2GB Graph) (G8D30PA)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['18']|['Rs. 49,990                ']|['7']|['4.3']|['Lenovo Ideapad Flex 14 (59-411866) Notebook (4th Gen Ci5/ 4GB/ 500GB 8GB SSD/ Windows 8.1/ 2GB Graph/ Touch)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['11']|['Rs. 33,890                ']|['6']|['3.7']|['HP Pavilion 15-n225TU Laptop (4th Gen Ci3/ 4GB/ 500GB/ Win8.1)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['11']|['Rs. 31,200                ']|['4']|['2.6']|['Dell Vostro 2420 Laptop (2nd Gen Ci3/ 2GB/ 500GB/ Win8)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['5']|['Rs. 24,440                ']|['1']|['4.2']|['Lenovo G Series 59-415703 Laptop (APU Dual Core A4/ 4 GB DDR/ 500 GB/ Windows 8.1)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['5']|['Rs. 33,900                ']|['4']|['5']|['HP Pavilion 15-n226TU Laptop (4th Gen Ci3/ 4GB/ 500GB/ Win8.1)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['39']|['Rs. 45,800                ']|['17']|['4.5']|['Dell Inspiron 15 Laptop (4th Gen Ci5/ 6GB/ 1TB/ Ubuntu/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['149']|['Rs. 65,899                ']|['73']|['4.5']|['Apple MD760HN/A MacBook Air (4th Gen Ci5/ 4GB/ 128GB Flash/ Mac OS X Mountain Lion)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['9']|['Rs. 27,300                ']|['7']|['4']|['HP 15-D017TU Laptop (3rd Gen Ci3/ 2GB/ 500GB/ Ubuntu)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['43']|['Rs. 74,990                ']|['22']|['4.2']|['HP Envy 15-j111TX Laptop (4th Gen Ci7/ 8GB/ 1 TB/ Win8.1/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['26']|['Rs. 32,800                ']|['19']|['4']|['HP Pavilion 15-D002TX Laptop (3rd Gen Ci3 4GB/ 500GB/ DOS/ 1GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['18']|['Rs. 24,500                ']|['11']|['4.5']|['Lenovo Essential B590 (59-390110) Laptop (3rd Gen PDC/ 2GB/ 500GB/ DOS)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['7']|['Rs. 36,190                ']|['3']|['4.1']|['HP Pavilion x360 11-n016TU Netbook (1st Gen PQC/ 4GB/ 500GB/ Win8.1/ Touch)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['2']|['Rs. 19,240                ']|['0']|['4']|['Asus X552EA-SX009D Laptop (APU Dual Core/ 2GB/ 500GB/ DOS)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['17']|['Rs. 40,990                ']|['5']|['3']|['Sony Vaio E14 Series SVE1413XPNB(core I5 3rd gen, 4GB, 500GB, Win8 pro)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['13']|['Rs. 32,490                ']|['5']|['4.3']|['HP 15-d004TU Notebook (3rd Gen Ci3/ 4GB/ 500GB/ Win8.1)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['5']|['Rs. 27,990                ']|['1']|['2.4']|['HP Pavilion 15 Series Intel Core i3  -  15.6 inch, 500 GB HDD, 2 GB DDR3, DOS Laptop']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['24']|['Rs. 33,333                ']|['10']|['4.2']|['Dell Inspiron 15 3521 Laptop (3rd Gen Ci3/ 4GB/ 500GB/ Win8/ Touch)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['14']|['Rs. 20,490                ']|['6']|['3.1']|['HP 15-D009TU Laptop (4th Gen PQC/ 2GB/ 500GB/ Ubuntu)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['14']|['Rs. 47,510                ']|['6']|['3.9']|['Lenovo Ideapad Z510 (59-405838) Notebook (4th Gen Ci5/ 6GB/ 1TB 8GB SSD/ Win8.1/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['36']|['Rs. 31,670                ']|['18']|['4.4']|['Sony VAIO Fit 15E SVF15213SNW Laptop (3rd Gen Ci3/ 4GB/ 500GB/ Win8/ 1GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['4']|['Rs. 24,440                ']|['1']|['3.8']|['Dell Inspiron 14 3442 Notebook (4th Gen PDC/ 4GB/ 500GB/ Win8.1)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['6']|['Rs. 41,999                ']|['4']|['5']|['Asus X550LD-XX301H X Series Intel Core i5  -  15.6 inch, 1 TB HDD, 8 GB DDR3, Windows 8 Laptop']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['15']|['Rs. 19,990                ']|['9']|['2.8']|['Samsung XE303C12-A01IN Chromebook(Samsung Exynos 5 Dual/ 2GB/ 16 GB eMMC/ Chrome OS)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['7']|['Rs. 21,400                ']|['4']|['3.6']|['HP Pavilion 15-G003AU Laptop (APU Dual Core/ 2GB/ 500GB/ Ubuntu)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['16']|['Rs. 48,599                ']|['7']|['4']|['Sony VAIO SVE1413YPNB Laptop (3rd Gen Ci7/ 4GB/ 500GB/ Win 8 Pro/ 1 GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['7']|['Rs. 28,700                ']|['0']|['4.1']|['HP 250-E8D87PA Laptop (3rd Gen Ci3/ 4GB/ 500GB/ DOS)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['12']|['Rs. 33,999                ']|['8']|['3.3']|['Dell Inspiron 14 3421 Laptop (3rd Gen Ci3/ 2GB/ 500GB/ Win8/ 1GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['3']|['Rs. 41,400                ']|['1']|['3']|['Dell Inspiron 14 3442 Notebook (4th Gen Ci5/ 4GB/ 1TB/ Win8.1/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['3']|['Rs. 19,500                ']|['1']|['4.7']|['Acer Aspire V5-123 Netbook (APU Dual Core/ 2GB/ 500GB/ Linux) (NX.MFRSI.002)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['21']|['Rs. 44,790                ']|['11']|['4.3']|['HP Pavilion 14-n201TX Laptop (4th Gen Ci5/ 4GB/ 1TB/ Win8.1/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['5']|['Rs. 37,890                ']|['3']|['4.8']|['Dell Inspiron 15R 5537 Notebook (4th Gen Ci3/ 4GB/ 500GB/ Win8.1)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['5']|['Rs. 22,560                ']|['2']|['2.4']|['Lenovo G500(59-412737) G Pentium Dual Core  -  15.6 inch, 1 TB HDD, 2 GB DDR3, Windows 8 Laptop']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['8']|['Rs. 23,990                ']|['1']|['4.4']|['HP 240 G3 Notebook (PQC/ 4GB/ 500GB/ Win8.1) (K1V41PA)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['2']|['Rs. 29,620                ']|['1']|['4.5']|['HP Pavilion 14-n232TU Laptop (4th Gen Ci3/ 4GB/ 500GB/ Win8.1)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['32']|['Rs. 42,222                ']|['11']|['4.6']|['Lenovo Essential G510 (59-398452) Laptop (4th Gen Ci5/ 4GB/ 500GB/ Win8/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['31']|['Rs. 92,999                ']|['12']|['4.7']|['Apple ME865HN/A Macbook Pro Intel Core i5  -  13.3 inch, 8 GB DDR3, Mac OS Laptop']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['20']|['Rs. 34,500                ']|['14']|['4.2']|['HP Pavilion 15-n210TX Laptop (3rd Gen Ci3/ 4GB/ 500GB/ Win 8.1/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['6']|['Rs. 41,300                ']|['3']|['4.8']|['Lenovo Essentail G510(59-398474) Laptop (4th Gen Ci5/ 4GB/ 500GB/ Win8)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['33']|['Rs. 74,750                ']|['20']|['4.3']|['HP Envy Touchsmart 15-j109TX Laptop (4th Gen Ci7/ 8GB/ 1TB 8GB NAND/ Win8.1/ 2GB Graph/ Touch)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['47']|['Rs. 38,990                ']|['25']|['4.3']|['Lenovo Essential G510 (59-382826) Laptop (4th Gen Ci5/ 4GB/ 500GB/ Win8)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['38']|['Rs. 36,300                ']|['23']|['4']|['Dell Vostro 2420 Laptop (3rd Gen Ci5/ 4GB/ 500GB/ Linux)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['4']|['Rs. 23,500                ']|['2']|['3']|['HP 240-E8D80PA Laptop (PDC/ 2GB/ 500GB/ DOS)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['12']|['Rs. 33,400                ']|['5']|['4.6']|['Acer Aspire V5-472 Notebook (3rd Gen Ci3/ 4GB/ 500GB/ Win8) (NX.MB2SI.008)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['11']|['Rs. 58,980                ']|['4']|['3']|['Acer E1-572G (NX.MJNSI.004) Laptop (4th Gen Ci7/ 8GB/ 1TB/ Win8.1/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['19']|['Rs. 66,990                ']|['7']|['4.1']|['HP Envy Touchsmart 15-j120TX Laptop (4th Gen Ci5/ 8GB/ 1TB 8GB NAND/ Win8.1/ 2GB Graph/ Touch)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['29']|['Rs. 117,990                ']|['5']|['4.5']|['Asus G750JM-T4018P G Intel Core i7  -  17.3 inch, 1.5 TB HDD, 24 GB DDR3, Windows 8 Pro Laptop']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['5']|['Rs. 39,650                ']|['3']|['4.8']|['Dell Inspiron 5447 Notebook (4th Gen Ci3/ 4GB/ 500GB/ Win8.1/ Touch) (544734500iST)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['4']|['Rs. 22,500                ']|['0']|['3.5']|['HP G4-1312AU Notebook (APU Dual Core A4/ 2GB/ 500GB/ Win7 HB)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['7']|['Rs. 33,990                ']|['5']|['4']|['Asus F200CA-CT192H F Intel Core i3  -  11.6 inch, 500 GB HDD, 4 GB DDR3, Windows 8 Laptop']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['57']|['Rs. 40,300                ']|['26']|['4.3']|['Dell Inspiron 15 Laptop (4th Gen Ci5/ 6GB/ 750GB/ Ubuntu)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['2']|['Rs. 54,450                ']|['1']|['5']|['Dell Vostro 3560 Laptop (3rd Gen Ci7/ 4GB/ 500GB/ Win8 Pro/ 1GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['40']|['Rs. 58,430                ']|['23']|['4.5']|['HP Envy 15-j110TX Laptop (4th Gen Ci5/ 8GB/ 1 TB/ Win8.1/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['7']|['Rs. 43,600                ']|['6']|['4.4']|['Lenovo ThinkPad E431 (62774UQ) Laptop (3rd Gen Ci5/ 2GB/ 500GB/ DOS)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['11']|['Rs. 24,601                ']|['4']|['2.7']|['Lenovo Ideapad Flex 10 (59-403045) Netbook (4th Gen PQC/ 2GB/ 500GB/ Win8/ Touch)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['9']|['Rs. 28,500                ']|['2']|['3.7']|['HP 240-E8D83PA Laptop (3rd Gen Ci3/ 4GB/ 500GB/ DOS)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['7']|['Rs. 35,770                ']|['6']|['4.4']|['Acer V5-572G (NX.MAFSI.002) Laptop (2nd Gen Ci3/ 4GB/ 500GB/ Win8/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['5']|['Rs. 49,660                ']|['3']|['4']|['Dell Inspiron 15R 5537 Laptop (4th Gen Ci5/ 4GB/ 1TB/ Win8/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['26']|['Rs. 77,690                ']|['14']|['4.4']|['Asus G56JR-CN135H G Intel Core i7  -  15.6 inch, 1 TB HDD, 8 GB DDR3, Windows 8 Laptop']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['35']|['Rs. 44,100                ']|['20']|['3.9']|['HP Pavilion 15-n003TX Laptop (4th Gen Ci5/ 4GB/ 1TB/ Win8/ 1GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['18']|['Rs. 68,550                ']|['3']|['4.2']|['Sony VAIO Pro 13 P1321WSN/B Ultrabook (4th Gen Ci5/ 4GB/ 128GB SSD/ Win8/ Touch)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['1']|['Rs. 36,050                ']|['1']|['4']|['Dell Vostro 2520 Laptop (3rd Gen Ci5/ 4GB/ 500GB/ Ubuntu)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['19']|['Rs. 43,350                ']|['10']|['3.8']|['Dell Inspiron 3437 Laptop (4th Gen Ci5/ 4GB/ 500GB/ Win8/ 1 GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['9']|['Rs. 46,000                ']|['3']|['3.1']|['Dell Inspiron 14R 5421 Laptop (3rd Gen Ci3/ 4GB/ 500GB/ Win8/ Touch)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['6']|['Rs. 36,450                ']|['3']|['4']|['HP Pavilion 15-N261TX Notebook (4th Gen Ci3/ 4GB/ 500GB/ Win8.1/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['12']|['Rs. 114,000                ']|['5']|['4.4']|['Apple ME866HN/A Macbook Pro Intel Core i5  -  13.3 inch, 500 GB HDD, 8 GB DDR3, Mac OS Laptop']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['7']|['Rs. 43,990                ']|['5']|['3.3']|['Sony VAIO Fit 15E SVF15318SNB Laptop (4th Gen Ci5/ 4GB/ 500GB/ Win8/ 1GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['29']|['Rs. 35,990                ']|['17']|['4.3']|['Lenovo Essential G500s (59-383016) Laptop (3rd Gen Ci3/ 4GB/ 500GB/ Win8/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['4']|['Rs. 22,300                ']|['3']|['5']|['HP 15-d010TU Notebook (4th Gen CDC/ 2GB/ 500GB/ Ubuntu)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['46']|['Rs. 39,100                ']|['22']|['4.3']|['Lenovo Ideapad S510p (59-411351) Laptop (4th Gen Ci3/ 8GB/ 1TB/ Win8.1/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['4']|['Rs. 32,700                ']|['0']|['3.5']|['Dell Inspiron 14 3421 Laptop (3rd Gen Ci3/ 2GB/ 500GB/ Win8)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['15']|['Rs. 42,000                ']|['9']|['3.5']|['Lenovo Ideapad Flex 14 (59-395516) Laptop (4th Gen Ci3/ 4GB/ 500GB 8GB SSD/ Win8/ Touch)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['3']|['Rs. 21,290                ']|['1']|['4.3']|['Lenovo Essential G500 (59-403742) Laptop (3rd Gen PDC/ 2GB/ 500GB/ DOS)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['21']|['Rs. 39,590                ']|['7']|['4.3']|['Dell Vostro 3560 Laptop (3rd Gen Ci5/ 4GB/ 500GB/ Linux/ 1GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['8']|['Rs. 33,210                ']|['5']|['4']|['HP Pavilion 15-n213TU Laptop (4th Gen Ci3/ 4GB/ 500GB/ Win8.1)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['21']|['Rs. 28,590                ']|['9']|['3.8']|['HP 431 Laptop (2nd Gen Ci3/ 2GB/ 500GB/ DOS/ 1GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['38']|['Rs. 36,900                ']|['17']|['4.8']|['Dell Inspiron 15 3521 Laptop (3rd Gen PDC/ 4GB/ 500GB/ Win8/ Touch)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['4']|['Rs. 47,975                ']|['3']|['4.2']|['Lenovo Thinkpad L Series Laptop (3rd Gen Ci5/ 6 GB/ 500GB/ Dos)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['7']|['Rs. 39,650                ']|['2']|['4.6']|['Dell Inspiron 14 3421 Laptop (3rd Gen Ci3/ 4GB/ 500GB/ Win8/ Touch)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['177']|['Rs. 59,240                ']|['87']|['4.4']|['Lenovo Ideapad Y500 (59-379647) Laptop (3rd Gen Ci7/ 8GB/ 1TB/ Win8/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['36']|['Rs. 32,567                ']|['15']|['4.2']|['Dell Vostro 2420 Laptop (3rd Gen Ci3/ 4GB/ 500GB/ Win8)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|[]|[]|[]|['Ooops! Something went wrong.']|
+[]|['7']|['Rs. 24,450                ']|['3']|['3.9']|['HP E1Q79PA Laptop (PDC 3rd Gen/ 2GB/ 500GB/ DOS)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['10']|['Rs. 55,000                ']|['6']|['3.1']|['Dell Inspiron 3542 Notebook (4th Gen Ci7/ 8GB/ 1TB/ Win8.1/ 2GB Graph) (3542781TB2S1)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['19']|['Rs. 35,050                ']|['8']|['4.5']|['HP Pavilion 15-n206TX Laptop (3rd Gen Ci3/ 4GB/ 500GB/ Win8.1/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['3']|['Rs. 31,100                ']|['1']|['3.7']|['Fujitsu Lifebook A544 Notebook (4th Gen Ci3/ 4GB/ 500GB/ Free DOS)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['12']|['Rs. 30,790                ']|['5']|['3.8']|['HP Pavilion 15-n006AX Laptop (APU Quad Core A4/ 4GB/ 500GB/ Win8/ 1GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['3']|['Rs. 67,090                ']|['1']|['4.3']|['Dell Inspiron 14 7437 Laptop (4th Gen Ci5/ 6GB/ 500GB/ Win8/ Touch)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['42']|['Rs. 44,000                ']|['18']|['4']|['Dell Inspiron 3537 Laptop (4th Gen Ci5/ 6GB/ 750GB/ Win8)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['24']|['Rs. 48,900                ']|['13']|['4.5']|['HP Pavilion 15-n203TX Laptop (4th Gen Ci5/ 4GB/ 1TB/ Win8.1/ 1GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['13']|['Rs. 65,260                ']|['5']|['4.7']|['Dell Inspiron 15 7537 Laptop (4th Gen Ci5/ 6GB/ 500GB/ Win8/ 2GB Graph/ Touch)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['40']|['Rs. 36,000                ']|['25']|['4']|['Lenovo Essential G510 (59-398343) Laptop (4th Gen Ci5/ 4GB/ 500GB/ DOS)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['25']|['Rs. 32,990                ']|['15']|['3.2']|['Sony VAIO Fit 14E F14212SN/W Laptop (3rd Gen Ci3/ 2GB/ 500GB/ Win8)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 24,340                ']|[]|[]|['Dell Vostro 3445 Notebook (APU Quad Core A4/ 2GB/ 500GB/ Ubuntu)']|
+[]|['1']|['Rs. 28,480                ']|['1']|['5']|['Dell Vostro 3445 Notebook (APU Quad Core A6/ 4GB/ 500GB/ Ubuntu/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['29']|['Rs. 33,200                ']|['8']|['3.4']|['HP 450 Laptop (3rd Gen Ci3/ 4GB/ 500GB/ DOS)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['14']|['Rs. 26,070                ']|['6']|['4.4']|['Asus X201E-KX042D Netbook (3rd Gen Ci3/ 4GB/ 500GB/ DOS)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['5']|['Rs. 44,180                ']|['0']|['2.4']|['Dell Inspiron 14 3442 Notebook (4th Gen Ci5/ 4GB/ 1TB/ Win8.1/ Touch/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['2']|['Rs. 40,390                ']|['2']|['3.5']|['Acer Aspire V V5-472P Notebook (3rd Gen Ci3/ 4GB/ 500GB/ Win8/ Touch) (NX.MAVSI.005)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['94']|['Rs. 38,990                ']|['50']|['4.3']|['HP Pavilion 15-e026AX Laptop (APU Quad Core A10/ 8GB/ 1TB/ DOS/ 1.5GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['24']|['Rs. 38,596                ']|['10']|['4.6']|['Dell Vostro 3560 Laptop (3rd Gen Ci5/ 4GB/ 500GB/ Linux)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 31,860                ']|[]|[]|['Dell Vostro 3445 Notebook (APU Quad Core A6/ 4GB/ 500GB/ Win8.1/ 2GB Graph)']|
+[]|['5']|['Rs. 44,600                ']|['3']|['2']|['HP 4441S Probook (3rd Gen Ci3/ 4GB/ 750GB/ Win8/ 1GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['13']|['Rs. 35,900                ']|['5']|['4.3']|['Sony VAIO Fit 15E F15212SN/W Laptop (3rd Gen Ci3/ 2GB/ 500GB/ Win8)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['80']|['Rs. 29,990                ']|['38']|['4.4']|['Dell Vostro 2420 Laptop (3rd Gen Ci3/ 4GB/ 500GB/ Ubuntu)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['11']|['Rs. 40,799                ']|['3']|['3.9']|['Sony VAIO Fit 15E F15215SN/B Laptop (3rd Gen Ci3/ 2GB/ 500GB/ Win8/ Touch)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 21,250                ']|[]|[]|['Acer Aspire E3 Others  -  11.6 inch, 500 GB HDD, 2 GB DDR3, Windows 8 Laptop']|
+[]|['29']|['Rs. 36,360                ']|['12']|['3.8']|['Lenovo Essential G400s (59-383636) Laptop (3rd Gen Ci3/ 4GB/ 500GB/ Win8/ Touch)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 24,800                ']|[]|[]|['Dell Vostro 3445 Notebook (APU Quad Core A4/ 2GB/ 500GB/ Win8.1)']|
+[]|['8']|['Rs. 32,999                ']|['4']|['4.4']|['Toshiba Satellite S50-A I2010 Laptop (3rd Gen Ci3/ 4GB/ 500GB/ No OS/ 1GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['2']|['Rs. 25,200                ']|['1']|['5']|['Lenovo B490(59-382575) B Pentium Dual Core  -  14 inch, 500 GB HDD, 2 GB DDR3, DOS Laptop']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['24']|['Rs. 42,000                ']|['11']|['3.7']|['Asus S56CA-XX056H Ultrabook (3rd Gen Ci5/ 4GB/ 750GB 24GB SSD/ Win8)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['11']|['Rs. 19,000                ']|['3']|['3.7']|['Acer Aspire V5-123 Netbook (APU Dual Core/ 2GB/ 500GB/ Linux) (NX.MFQSI.003)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['21']|['Rs. 22,890                ']|['9']|['3.7']|['HP 455 Laptop (APU Dual Core/ 2GB/ 500GB/ DOS)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['2']|['Rs. 31,500                ']|['0']|['4']|['Acer Aspire V5-572 Laptop (3rd Gen Ci3/ 4GB/ 500GB/ Linux) (NX.M9YSI.010)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['44']|['Rs. 35,739                ']|['28']|['4.2']|['Lenovo Essential G500 (59-370358) Laptop (3rd Gen Ci5/ 4GB/ 500GB/ DOS)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['10']|['Rs. 28,900                ']|['2']|['4.3']|['Dell Vostro 2520 Laptop (3rd Gen Ci3/ 2GB/ 500GB/ Linux)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['4']|['Rs. 24,200                ']|['4']|['4']|['Lenovo Essential G500 (59-380722) Laptop (3rd Gen PDC/ 2GB/ 500GB/ DOS)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['6']|['Rs. 77,290                ']|['0']|['3.3']|['Dell Inspiron 14 7437 Laptop (4th Gen Ci7/ 8GB/ 500GB/ Win8/ Touch)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['28']|['Rs. 34,250                ']|['14']|['3.9']|['Lenovo Ideapad S210 T (59-379334) Netbook (3rd Gen Ci3/ 4GB/ 500GB/ Win8/ Touch)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['1']|['Rs. 30,900                ']|['0']|['5']|['Dell Vostro 2520 Laptop (3rd Gen Ci3/ 2GB/ 500GB/ Win8)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['1']|['Rs. 33,634                ']|['0']|['4']|['HP 4440s Probook Intel Core i3  -  14.1 inch, 750 GB HDD, 4 GB DDR3, DOS Laptop']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['7']|['Rs. 26,800                ']|['5']|['2.1']|['Lenovo Ideapad S210 T (59-379242) Netbook (3rd Gen PDC/ 2GB/ 500GB/ Win8/ Touch)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['10']|['Rs. 43,690                ']|['5']|['3.9']|['Lenovo Ideapad Z510 (59-387057) Laptop (4th Gen Ci5/ 4GB/ 1TB/ Win8/ 1GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['8']|['Rs. 39,200                ']|['3']|['3.4']|['Acer Aspire E1-572 Laptop (4th Gen Ci5/ 4GB/ 500GB/ Win8) (NX.M8ESI.003)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['2']|['Rs. 22,900                ']|['0']|['2']|['Toshiba C50-A E0010 Satellite Pentium Dual Core  -  15.6 inch, 500 GB HDD, 2 GB DDR3, Windows 8 Netbook']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['3']|['Rs. 37,834                ']|['1']|['4.3']|['Toshiba Satellite S50-A X2010 Laptop (4th Gen Ci5/ 4GB/ 500GB/ No OS/ 1GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['41']|['Rs. 41,250                ']|['19']|['4.4']|['Asus X550LC-XX039D Laptop (4th Gen Ci5/ 4GB/ 750GB/ DOS/2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['9']|['Rs. 24,900                ']|['8']|['4.6']|['Toshiba Satellite C50D-A 40010 Laptop (APU Quad Core A4/ 4GB/ 500GB/ No OS/ 512MB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['2']|[]|['0']|['2']|['HP 15-r035TU Notebook (1st Gen CDC/ 4GB/ 500GB/ Free DOS) (J6L68PA)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['27']|['Rs. 44,090                ']|['8']|['3.6']|['Dell Inspiron 14 3421 Laptop (3rd Gen Ci5/ 4GB/ 500GB/ Win8/ 1GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['23']|['Rs. 51,750                ']|['11']|['3.8']|['Dell Inspiron 15R Laptop (4th Gen Ci5/ 6GB/ 1TB/ Win8/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['2']|['Rs. 55,070                ']|['0']|['3']|['Asus S400CA-CA165H Ultrabook (3rd Gen Ci7/ 4GB/ 500GB/ Win8/ Touch) (90NB0051-M04730)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['18']|['Rs. 95,000                ']|['2']|['3.5']|['Lenovo Ideapad Yoga 13 (59-369606) Ultrabook (3rd Gen Ci7/ 8GB/ 256GB SSD/ Win8/ Touch)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['82']|['Rs. 34,500                ']|['34']|['4.3']|['Asus F202E-CT148H VivoBook (3rd Gen Ci3/ 4GB/ 500GB/ Win8/Touch)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['2']|['Rs. 44,762                ']|['2']|['4.5']|['Toshiba Satellite C50-A X3110 Laptop (4th Gen Ci5/ 4GB/ 500GB/ Win8.1/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['30']|['Rs. 56,990                ']|['13']|['4.7']|['Samsung NP550P5C-S06IN Laptop (3rd Gen Ci5/ 6GB/ 1TB/ Win8/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['37']|['Rs. 41,301                ']|['17']|['4.4']|['HP Pavilion 15-n004TX Laptop (4th Gen Ci5/ 4GB/ 500GB/Ubuntu/1 GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['16']|['Rs. 104,800                ']|['6']|['4.4']|['HP Envy Leap Motion Touchsmart SE 17-J102TX Laptop (4th Gen Ci7/ 8GB/ 1TB/ Win8.1/ 4GB Graph/ Touch)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['4']|['Rs. 23,500                ']|['3']|['4.5']|['Asus F200CA-KX071H F Pentium Dual Core  -  11.6 inch, 500 GB HDD, 2 GB DDR3, Windows 8 Laptop']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['46']|['Rs. 49,500                ']|['10']|['4.6']|['Samsung NP550P5C-S04IN Laptop (3rd Gen Ci5/ 6GB/ 1 TB/ Win8/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['23']|['Rs. 41,250                ']|['13']|['4.3']|['Lenovo Essential G510 (59-382843) Laptop (4th Gen Ci5/ 4GB/ 500GB/ DOS/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['6']|['Rs. 26,490                ']|['3']|['2.7']|['HP 14-Q003TU Chromebook (4th Gen CDC/ 4GB/ 16GB SSD/ Chrome OS)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['19']|['Rs. 37,289                ']|['8']|['4.3']|['HP Pavilion 15-n019TU Laptop (3rd Gen Ci3/ 4GB/ 1TB/ Win8)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['1']|['Rs. 34,450                ']|['0']|['1']|['Asus F200CA-CT192H F Intel Core i3  -  11.6 Inch, 500 GB HDD, 4 GB DDR3, Windows 8 Laptop']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['25']|['Rs. 19,800                ']|['11']|['4.2']|['Asus X201E-KX178D Netbook (CDC/ 2GB/ 500GB/DOS)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['6']|['Rs. 42,090                ']|['1']|['4']|['Sony VAIO Fit 14E F14216SN/B Laptop (3rd Gen Ci3/ 2GB/ 500GB/ Win8/ Touch)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['27']|['Rs. 39,966                ']|['10']|['4.2']|['Dell Vostro 2420 Laptop (3rd Gen Ci5/ 4GB/ 500GB/ Win8)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['6']|['Rs. 43,999                ']|['5']|['4.2']|['Dell Inspiron 15R 5521 Laptop (3rd Gen Ci5/ 6GB/ 500GB/ Win8/ Touch)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['9']|['Rs. 53,900                ']|['6']|['3.7']|['Dell Inspiron 15 3537 Laptop (4th Gen Ci5/ 6GB/ 750GB/ Win8/ 2GB Graph/Touch)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 56,880                ']|[]|[]|['Dell 3440 Latitude Intel Core i5  -  14 inch, 500 GB HDD, 4 GB DDR3, Windows 8 Laptop']|
+[]|['2']|['Rs. 38,905                ']|['1']|['5']|['HP Pavilion Touchsmart 15-n201TU Laptop (3rd Gen Ci3/ 4GB/ 500GB/ Win8.1/ Touch)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['53']|['Rs. 42,990                ']|['25']|['4.4']|['Lenovo Ideapad Z500 (59-380480) Laptop (3rd Gen Ci5/ 4GB/ 1TB/ Win8/ 1GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['23']|['Rs. 45,490                ']|['11']|['4']|['Dell Inspiron 5521 Laptop (3rd Gen Ci5/ 4GB/ 500GB/ Ubuntu/ 2 GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['1']|['Rs. 58,500                ']|['1']|['4']|['HP Envy TouchSmart TS 4-1245TU Laptop (3rd Gen Ci5/ 4GB/ 500GB/ Win8)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['152']|['Rs. 64,575                ']|['62']|['4.7']|['Samsung NP550P5C-S05IN Laptop (3rd Gen Ci7/ 8GB/ 1TB/ Win8/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['3']|['Rs. 38,990                ']|['0']|['3.7']|['Dell Inspiron 14R Series Intel Core i5  -  14 inch, 750 GB HDD, 4 GB DDR3, Linux/Ubuntu Laptop']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['27']|['Rs. 42,850                ']|['16']|['3.8']|['HP Pavilion 15-n007AX Laptop (APU Quad Core A10/ 8GB/ 1TB/ Win8/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['5']|['Rs. 30,000                ']|['2']|['4.8']|['HP Pavilion 15-n214TU Laptop (4th Gen Ci3/ 4GB/ 500GB/ Win8.1)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['10']|['Rs. 39,000                ']|['3']|['4.9']|['Lenovo Ideapad Z580 (59-333651) Laptop (2nd Gen Ci3/ 4GB/ 500GB/ Win7 HB)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['4']|['Rs. 21,099                ']|['1']|['5']|['Asus X550CA-XX258D Laptop (CDC/ 2GB/ 500GB/ DOS)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['8']|['Rs. 36,100                ']|['2']|['3.6']|['Lenovo Essential G580 (59-358310) Laptop (3rd Gen Ci3/ 2GB/ 500GB/ Win8)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['4']|['Rs. 40,900                ']|['3']|['2.8']|['Acer Aspire E1-571G Laptop (3rd Gen Corei5/ 4GB/ 500GB/ Win8/ 2GB Graph) (NX.M7CSI.004)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['104']|['Rs. 45,779                ']|['42']|['4.5']|['HP Pavilion 15-E016TX Laptop (3rd Gen Ci5/ 4GB/ 1TB/ Win8/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['6']|['Rs. 62,990                ']|['3']|['4.3']|['Sony VAIO Fit 14 F14A15SN/B Laptop (3rd Gen Ci5/ 4GB/ 750GB/ Win8/ 2GB Graph/ Touch)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['250']|['Rs. 22,010                ']|['111']|['4.2']|['Acer Gateway NE56R Laptop (2nd Gen PDC/ 2GB/ 500GB/ Linux) (NX.Y1USI.010)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['32']|['Rs. 57,000                ']|['12']|['4']|['Lenovo Ideapad Yoga 13 (59-369597) Ultrabook (3rd Gen Ci5/ 4GB/ 128GB SSD/ Win8/ Touch)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['6']|['Rs. 31,200                ']|['3']|['4.8']|['Lenovo Essential G510 (59-398431) Laptop (4th Gen Ci3/ 2GB/ 500GB/ DOS)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['29']|['Rs. 26,380                ']|['14']|['3.9']|['Lenovo Essential G505 (59-387133) Laptop (APU Dual Core/ 4GB/ 500GB/ Win8)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['2']|['Rs. 24,750                ']|['0']|['3']|['Toshiba Satellite B40-A P0010 Laptop (3rd Gen PDC/ 2GB/ 500GB/ DOS)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['9']|['Rs. 18,990                ']|['6']|['3.2']|['Asus X55U SX111D X Others  -  15.6 inch, 500 GB HDD, 2 GB DDR3, DOS Laptop']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|[]|[]|[]|['Dell Vostro 3560 Laptop (3rd Gen Ci3/ 4GB/ 500GB/ Win8.1) (356034500iB1)']|
+[]|[]|['Rs. 25,999                ']|[]|['4.3']|['Lenovo G580(59-398232) G Pentium Dual Core  -  15.6 inch, 500 GB HDD, 2 GB DDR3, DOS Laptop']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['6']|['Rs. 44,900                ']|['1']|['5']|['Samsung NP530U4C-S04IN Ultrabook (3rd Gen Ci3/ 4GB/ 750GB 24GB ExpressCache/ Win8/ 1GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['43']|['Rs. 45,999                ']|['17']|['4.4']|['HP Pavilion Touchsmart 14-B172TX Sleekbook (3rd Gen Ci5/ 4GB/ 500GB/ Win8/ 1GB Graph/ Touch)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['2']|['Rs. 23,774                ']|['1']|['4.5']|['Asus F200CA-KX070H F Pentium Dual Core  -  11.6 inch, 500 GB HDD, 2 GB DDR3, Windows 8 Laptop']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['10']|['Rs. 20,700                ']|['7']|['3.5']|['Asus X501A-XX517D Notebook (CDC/ 2GB/ 500GB/DOS) (White)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['57']|['Rs. 47,449                ']|['28']|['4.7']|['HP Pavilion 15-n013TX Laptop (4th Gen Ci5/ 4GB/ 1TB/ Win8/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['13']|['Rs. 29,990                ']|['2']|['3.6']|['Lenovo Ideapad Yoga 11 (59-345700) Netbook (Tegra Quad-core/ 2GB/ 64GB SSD/ Win RT/Touch)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['84']|['Rs. 47,345                ']|['40']|['4.6']|['HP Pavilion 15-n012TX Laptop (4th Gen Ci5/ 4GB/ 1TB/ Win8/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['2']|['Rs. 35,390                ']|['2']|['2.5']|['Toshiba Satellite C850-I2110 Laptop (3rd Gen Ci3/ 4GB/ 500GB/ Win8/ 1GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['1']|['Rs. 48,530                ']|['1']|['5']|['Dell 3440 Latitude Intel Core i5  -  14 inch, 500 GB HDD, 4 GB DDR3, Linux/Ubuntu Laptop']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['46']|['Rs. 28,050                ']|['17']|['4.2']|['Dell Vostro 2520 Laptop (2nd Gen Ci3/ 2GB/ 500GB/ Linux)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['39']|['Rs. 127,900                ']|['5']|['4.5']|['Dell Alienware 14 Laptop (4th Gen Ci7/ 8GB/ 750GB/ Win8/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['75']|['Rs. 149,999                ']|['24']|['4.8']|['Asus G750JX-CV069P Laptop (4th Gen Ci7/ 24GB/ 1.5TB/ Win8 Pro/ 3GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['2']|['Rs. 31,250                ']|['0']|['3']|['Lenovo B490(59-381813) B Intel Core i3  -  14 inch, 500 GB HDD, 4 GB DDR3, DOS Laptop']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['24']|['Rs. 35,999                ']|['13']|['3.5']|['Sony VAIO Fit 15E F15212SN/B Laptop (3rd Gen Ci3/ 2GB/ 500GB/ Win8)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['17']|['Rs. 40,794                ']|['8']|['4.6']|['Sony VAIO Fit 15E F15215SN/W Laptop (3rd Gen Ci3/ 2GB/ 500GB/ Win8/ Touch)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['54']|['Rs. 68,800                ']|['24']|['4.2']|['HP Envy 15-J048TX Laptop (4th Gen Ci7/ 8GB/ 1TB/ Win8/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['3']|['Rs. 23,770                ']|['1']|['3.3']|['Acer E1-531 E NX.M12SI.024 Pentium Dual Core  -  15.6 inch, 500 GB HDD, 2 GB DDR3, Linux/Ubuntu Laptop']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['23']|['Rs. 43,680                ']|['15']|['4.1']|['Toshiba Satellite Pro S850-X0430 Laptop (3rd Gen Ci5/ 8GB/ 500GB/ Win7 Prof)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['22']|['Rs. 52,500                ']|['7']|['4.5']|['Samsung NP530U4C-S03IN Ultrabook (3rd Gen Ci5/ 6GB/ 1 TB/ Win8/ 1GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 27,990                ']|[]|[]|['Asus X550CA-XX348D X Intel Core i3  -  15.6 inch, 500 GB HDD, 2 GB DDR3, DOS Laptop']|
+[]|[]|['Rs. 31,750                ']|[]|[]|['Toshiba Satellite Pro Intel Core i3  -  14 inch, 500 GB HDD, 4 GB DDR3, No OS/Others Laptop']|
+[]|['43']|['Rs. 195,000                ']|['10']|['4.2']|['Dell Alienware 17 Laptop (4th Gen Ci7/ 16GB/ 750GB/ Win8/ 3GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['5']|['Rs. 60,990                ']|['1']|['4.6']|['HP Envy Touchsmart 4-1113TU Ultrabook (3rd Gen Ci5/ 4GB/ 500GB 32 GB SSD/ Win8)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['30']|['Rs. 53,038                ']|['7']|['4.3']|['HP Pavilion DM4-3022TX Laptop (2nd Gen Ci5/ 6GB/ 640GB/ Win7 HP/ 1GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['2']|['Rs. 21,199                ']|['0']|['3']|['Toshiba Satellite C50-A E0010 Laptop (3rd Gen CDC/ 2GB/ 500GB/ No OS)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['21']|['Rs. 38,990                ']|['7']|['4.6']|['Asus S56CM-XO177H Ultrabook (3rd Gen Ci3/ 4GB/ 500GB 24GB SSD/ Win8/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['24']|['Rs. 43,000                ']|['17']|['4.6']|['HP Pavilion 15-n204tx Laptop (4th Gen Ci5/ 4GB/ 500GB/ Ubuntu/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['4']|['Rs. 43,990                ']|['3']|['2']|['Dell Inspiron 15R 5521 Laptop (3rd Gen Ci3/ 4GB/ 500GB/ Win8/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['7']|['Rs. 34,229                ']|['4']|['3.9']|['HP Pavilion 15-n018TU Laptop (3rd Gen Ci3/ 2GB/ 500GB/ Win8)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['3']|['Rs. 52,800                ']|['2']|['4.3']|['Dell Inspiron 15R 5537 Laptop (4th Gen Ci5/ 6GB/ 1TB/ Ubuntu/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['22']|['Rs. 37,460                ']|['14']|['4.7']|['HP Pavilion 15-n011TX Laptop (3rd Gen Ci3/ 4GB/ 500GB/ Win8/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['8']|['Rs. 30,449                ']|['2']|['4.1']|['Samsung NP300E5E-A03IN Laptop (3rd Gen Ci3/ 2GB/ 500GB/ Win8)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['6']|['Rs. 30,390                ']|['3']|['4.5']|['Lenovo Ideapad Z580 (59-382934) Laptop (3rd Gen Ci3/ 2GB/ 500GB/ DOS)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['389']|['Rs. 38,500                ']|['145']|['4.3']|['Lenovo Essential G580 (59-358263) Laptop (3rd Gen Ci5/ 4GB/ 500GB/ DOS)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['4']|['Rs. 47,990                ']|['2']|['3.8']|['Dell Inspiron 15R 5521 Laptop (3rd Gen Ci5/ 4GB/ 500GB/ Win8/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['13']|['Rs. 51,990                ']|['5']|['4.3']|['HP Pavilion M4-1003TX Laptop (3rd Gen Ci5/ 6GB/ 750GB/ Win8/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['71']|['Rs. 21,000                ']|['27']|['4.2']|['Acer Aspire V5-121 Netbook (APU Dual Core/ 2GB/ 500GB/ Linux/ 256MB Graph) (NX.M83SI.006)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 48,939                ']|[]|[]|['HP ProBook 4440S Laptop (3rd Gen Ci5/ 2GB/ 750GB/ Win8 Pro)']|
+[]|['52']|['Rs. 177,900                ']|['6']|['4']|['Apple ME665HN/A MacBook Pro (3rd Gen Ci7/ 16GB/ 512GB Flash/ Mac OS X Mountain Lion/ 1GB Graph/ Retina Display)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['25']|['Rs. 23,390                ']|['10']|['4.1']|['Lenovo Essential G580 (59-351467) Laptop (2nd Gen PDC/ 2GB/ 500GB/ DOS)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['19']|['Rs. 38,900                ']|['8']|['3.9']|['Dell Inspiron 15 3521 Laptop (3rd Gen Ci3/ 4GB/ 500GB/ Win8/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['31']|['Rs. 36,915                ']|['8']|['4.4']|['Dell Inspiron 15 3521 Laptop (3rd Gen Ci5/ 6GB/ 500GB/ Ubuntu)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 39,500                ']|[]|[]|['Lenovo Essential B490 (59-386769) Laptop (3rd Gen Ci3/ 4GB/ 500GB/ Win 7 Prof)']|
+[]|['25']|['Rs. 24,900                ']|['10']|['4.7']|['Asus X201E-KX259D Netbook (2nd Gen Ci3/ 4GB/ 500GB/ DOS)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 23,000                ']|[]|[]|['Acer Aspire E1-530 Notebook (3rd Gen PDC/ 2GB/ 500GB/ Linux) (NX.MEQSI.003)']|
+[]|['4']|['Rs. 34,745                ']|['2']|['4.2']|['HP Pavilion 15-n208TU Laptop (3rd Gen Ci3/ 4GB/ 500GB/ Win8.1)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['5']|['Rs. 39,990                ']|['2']|['4.2']|['Dell Inspiron 14z 5423 Ultrabook (2nd Gen Ci3/ 2GB/ 500GB/ Win8/ 1GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['3']|['Rs. 54,990                ']|['0']|['4.7']|['Sony VAIO Fit 15E SVF15319SNB Laptop (4th Gen Ci5/ 4GB/ 1TB/ Win8/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['36']|['Rs. 21,990                ']|['13']|['4.1']|['HP 2000-2106TU Laptop (CDC/ 2GB/ 500GB/ DOS)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['8']|['Rs. 55,500                ']|['0']|['4.9']|['Dell Inspiron 15z 5523 Ultrabook (3rd Gen Ci5/ 8GB/ 500GB 32GB SSD/ Win8/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['25']|['Rs. 30,000                ']|['14']|['4']|['HP 2000-2D28TU Laptop (3rd Gen Ci3/ 2GB/ 500 GB/ DOS)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['1']|['Rs. 23,849                ']|['0']|['5']|['Asus F201E-KX233H F Pentium Dual Core  -  11.6 inch, 500 GB HDD, 2 GB DDR3, Windows 8 Laptop']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['2']|['Rs. 36,000                ']|['1']|['4.5']|['Dell Vostro 3560 Laptop (3rd Gen Ci3/ 4GB/ 500GB/ Ubuntu)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 42,015                ']|[]|[]|['HP 4540s Probook Intel Core i3  -  15.6 inch, 320 GB HDD, 2 GB DDR3, Windows 8 Pro Laptop']|
+[]|['2']|['Rs. 49,965                ']|['1']|['4.5']|['Asus X550CC-XO112H X Intel Core i7  -  15.6 inch, 500 GB HDD, 4 GB DDR3, Windows 8 Laptop']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['2']|['Rs. 41,990                ']|['0']|['5']|['Asus X550CC-XO029D X Intel Core i3  -  15.6 inch, 500 GB HDD, 4 GB DDR3, DOS Laptop']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 21,599                ']|[]|[]|['Asus X551MAV-SX262D X Pentium Quad Core  -  15.6 inch, 500 GB HDD, 2 GB DDR3, DOS Laptop']|
+[]|['3']|['Rs. 24,390                ']|['2']|['5']|['Asus F201E-KX261H F Pentium Dual Core  -  11.6 inch, 750 GB HDD, 2 GB DDR3, Windows 8 Laptop']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['1']|['Rs. 53,899                ']|['0']|['5']|['Lenovo Ideapad Z Intel Core i5  -  15.6 inch, 1 TB HDD, 8 GB DDR3, Windows 8 Laptop']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['4']|['Rs. 28,990                ']|['0']|['2.8']|['Lenovo Essential G565 (59-055151) Laptop (Phenom II/ 3GB/ 500GB/ Win7 HB/ 512MB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['6']|['Rs. 25,499                ']|['1']|['4.5']|['Asus X55C-SX026D X Intel Core i3  -  15.6 inch, 500 GB HDD, 2 GB DDR3, DOS Laptop']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['17']|['Rs. 107,985                ']|['0']|['3.6']|['Apple ME662HN/A Macbook Pro ME662HN/A Intel Core i5  -  13 inch, 500 GB HDD, 8 GB DDR3, Mac OS Laptop']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['1']|['Rs. 42,389                ']|['0']|['1']|['HP Pavilion 15-e008TU Laptop (3rd Gen Ci5/ 4GB/ 500GB/ Win8)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 64,990                ']|[]|[]|['HP 6570B Probook Intel Core i5  -  15.6 inch, 500 GB HDD, 4 GB DDR3, Windows 8 Pro Laptop']|
+[]|['1']|['Rs. 22,295                ']|['0']|['3']|['Asus X45C-VX068D X Pentium Dual Core  -  14 inch, 500 GB HDD, 2 GB DDR3, DOS Laptop']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['2']|['Rs. 36,999                ']|['1']|['4.5']|['Dell 3560 Vostro Intel Core i3  -  15.6 inch, 500 GB HDD, 4 GB DDR3, Linux/Ubuntu Laptop']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['1']|['Rs. 24,300                ']|['0']|['1']|['HP 650 Pentium Dual Core  -  15.6 inch, 500 GB HDD, 2 GB DDR3, DOS Laptop']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['1']|['Rs. 26,400                ']|['1']|['4']|['HP Pavilion 15-D006TU Laptop (3rd Gen PDC 2GB/ 500GB/ DOS)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 42,500                ']|[]|[]|['HP ProBook 450 (G0R65PA) Intel Core i3  -  15.6 inch, 640 GB HDD, 4 GB DDR3, Windows 8 Laptop']|
+[]|['12']|['Rs. 99,999                ']|['5']|['4']|['Apple MD103HN/A Macbook Pro MD103HN/A Intel Core i7  -  15 inch, 500 GB HDD, 4 GB DDR3, Mac OS Laptop']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['20']|['Rs. 99,900                ']|['4']|['3.8']|['Apple MD212HN/A MacBook Pro (3rd Gen Ci5/ 8GB/ 128GB Flash/ Mac OS X Mountain Lion/ Retina Display)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['31']|['Rs. 33,650                ']|['10']|['4.5']|['HP Pavilion 15-e002AU Laptop (APU Quad Core A4/ 8GB/ 1TB/ Win8)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['1']|['Rs. 37,990                ']|['0']|['4']|['Sony SVE1413WPNB E Intel Core i3  -  14 inch, 320 GB HDD, 4 GB DDR3, Windows 8 Pro Laptop']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['73']|['Rs. 21,900                ']|['30']|['3.9']|['Samsung NP355E5X-A02IN(APU Dual Core/ 2GB/ 500GB/ DOS) Laptop']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['1']|['Rs. 27,699                ']|['0']|['4']|['Asus X550CA-XO347D X Intel Core i3  -  15.6 inch, 500 GB HDD, 2 GB DDR3, DOS Laptop']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['3']|['Rs. 56,900                ']|['1']|['3']|['Asus S550CB-CJ095H VivoBook (3rd Gen Ci5/ 4GB/ 750GB 24GB SSD/ Win8/ 2GB Graph/ Touch)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['1']|['Rs. 45,000                ']|['0']|['5']|['Lenovo ThinkPad E530 (33661J0) Laptop (3rd Gen Ci5/ 4GB/ 500GB/ DOS)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['25']|['Rs. 34,100                ']|['14']|['4.4']|['HP Pavilion 15-n207TU Laptop (3rd Gen Ci3/ 4GB/ 500GB/ Win8.1)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['2']|['Rs. 23,600                ']|['0']|['4']|['Acer Aspire E1-530 Notebook (3rd Gen PDC/ 2GB/ 500GB/ Linux) (NX.MEQSI.001)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 42,990                ']|[]|[]|['Dell Inspiron 15R 5521 Laptop (3rd Gen Ci3/ 4GB/ 500GB/ Win8)']|
+[]|[]|['Rs. 58,390                ']|[]|[]|['Dell Inspiron 3542 Notebook (4th Gen Ci7/ 8GB/ 1TB/ Win8.1/ 2GB Graph) (3542781TB2BL1)']|
+[]|['1']|['Rs. 50,340                ']|['1']|['5']|['Acer Aspire V5-571P Laptop (3rd Gen Ci5/ 4GB/ 500GB/ Win8/ Touch) (NX.M49SI.003)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 36,070                ']|[]|[]|['Dell Inspirion 3542 Notebook (4th Gen Ci5/ 4GB/ 500GB/ Ubuntu) (354254500iBLU)']|
+[]|['28']|['Rs. 51,250                ']|['9']|['4.2']|['HP Envy 4-1046TX Ultrabook (3rd Gen Ci5/ 4GB/ 500GB 32GB SSD/ Win7 HP/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 45,490                ']|[]|[]|['Dell Inspiron 3542 Notebook (4th Gen Ci5/ 4GB/ 1TB/ Win8.1/ 2GB Graph) (3542541TB2BL1)']|
+[]|[]|[]|[]|[]|['HP 250 G2 Notebook (3rd Gen Ci3/ 4GB/ 500GB/ Win7 Prof) (J7V54PA)']|
+[]|[]|['Rs. 56,600                ']|[]|[]|['Acer Acer P3 P3-171 Netbook (3rd Gen Ci3/ 4GB/ 60GB/ Win8/ Touch) (NX.M8NSI.007)']|
+[]|[]|['Rs. 34,660                ']|[]|[]|['Dell Inspiron 3442 Notebook (4th Gen Ci3/ 4GB/ 500GB/ Win8.1/ 2GB Graph) (3442345002B1)']|
+[]|['2']|['Rs. 19,760                ']|['0']|['3']|['Sony VAIO VPCEB31EN Laptop (1st Gen PDC/ 2GB/ 320GB/ Win7 HB)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|[]|[]|[]|['Dell Inspiron 3442 Notebook (4th Gen Ci5/ 4GB/ 1TB/ Win8.1/ Touch/ 2GB Graph) (3442541TB2BT1)']|
+[]|['1']|['Rs. 27,090                ']|['1']|['1']|['Lenovo Essential G500 (59-370244) Laptop (2nd Gen PDC/ 2GB/ 500GB/ Win8)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['15']|['Rs. 42,379                ']|['7']|['4.4']|['HP Pavilion 14-n009TU Laptop (4th Gen Ci5/ 4GB/ 500GB/ Win8)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|[]|[]|[]|['Dell Inspiron 3542 Notebook (4th Gen Ci3/ 4GB/ 500GB/ Ubuntu/ 2GB Graph) (3542345002BLU)']|
+[]|[]|[]|[]|[]|['Dell Inspiron 3442 Notebook (4th Gen PDC/ 4GB/ 500GB/ Win8.1) (3442P4500iR)']|
+[]|['1']|['Rs. 42,990                ']|['0']|['5']|['Dell Inspiron 15R 5521 Laptop (3rd Gen Ci3/ 4GB/ 500GB/ Win8)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['2']|['Rs. 47,250                ']|['1']|['5']|['Dell Inspiron 15R 5521 Laptop (3rd Gen Ci5/ 6GB/ 500GB/ Win8)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 55,000                ']|[]|[]|['Dell Inspiron 3542 Notebook (4th Gen Ci7/ 8GB/ 1TB/ Win8.1/ 2GB Graph) (3542781TB2B1)']|
+[]|[]|[]|[]|[]|['Dell Alienware AW147161TB2A1 Notebook (4th Gen Ci7/ 16GB/ 1TB/ Win8.1/ 2GB Graph)']|
+[]|[]|[]|[]|[]|['Lenovo X1CARBON 208A Ultrabook (4th Gen Ci7/ 8GB/ Win7) (20A80056IG)']|
+[]|['1']|['Rs. 33,990                ']|['1']|['4']|['HP Pavilion 14-n021TU Laptop (3rd Gen Ci3/ 2GB/ 500GB/ Win8)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|[]|[]|[]|['Lenovo X1CARBON 208A Ultrabook (4th Gen Ci5/ 4GB/ Win8) (X1CARBON)']|
+[]|['1']|[]|['1']|['4']|['Lenovo Ideapad Flex 14 (59-411867) Notebook (4th Gen Ci3/ 4GB/ 500GB 8GB SSD/ Win8/ 2GB Graph/ Touch)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|[]|[]|[]|['Lenovo ThinkPad T440P 20AW Notebook (4th Gen Ci7/ 4GB/ 500GB/ Win8) (20AWA07F00)']|
+[]|[]|['Rs. 31,299                ']|[]|[]|['Acer Aspire E5-571 Notebook (4th Gen Ci3/ 2GB/ 500GB/ Linux) (NX.ML8SI.010)']|
+[]|['5']|['Rs. 21,000                ']|['2']|['3']|['Acer Aspire E1-531 Laptop (3nd Gen CDC/ 2GB/ 500GB/ Linux) (NX.M12SI.040)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|[]|[]|[]|['Lenovo Yoga S1 20CDA02 Ultrabook (4th Gen Ci5/ 4GB/ 500GB/ Win8/ Touch) (20CDA02AIG)']|
+[]|[]|[]|[]|[]|['Lenovo ThinkPad Ultraportable X240 Netbook (4th Gen Ci5/ 4GB/ 1TB/ Win8) (20ALA0KWIG)']|
+[]|[]|[]|[]|[]|['Lenovo ThinkPad T440P 20AW Notebook (4th Gen Ci5/ 4GB/ 500GB/ Win8) (20AWA1DCIG)']|
+[]|[]|[]|[]|[]|['Lenovo ThinkPad Ultraportable X240 Netbook (4th Gen Ci5/ 4GB/ 500GB/ Win8) (20AMA0JXIG)']|
+[]|[]|['Rs. 22,350                ']|[]|[]|['Acer Aspire E1 E1-510 Notebook (1st Gen CDC/ 2GB/ 500GB/ Linux) (NX.MGRSI.002)']|
+[]|[]|[]|[]|[]|['Lenovo ThinkPad Ultraportable X240 Netbook (4th Gen Ci7/ 4GB/ 500GB/ Win8) (20AMA0B2IG)']|
+[]|['3']|['Rs. 40,400                ']|['2']|['5']|['Acer Aspire V5-472P Laptop (3rd Gen Ci3/ 4GB/ 500GB/ Win8/ Touch) (NX.MAWSI.002)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['106']|['Rs. 23,261                ']|['50']|['4.5']|['HP Pavilion G6-1318AX Laptop (APU Dual Core A4/ 2GB/ 320GB/ DOS/ 1.5GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|[]|[]|[]|['Lenovo Yoga S1 20CDA01 Ultrabook (4th Gen Ci5/ 4GB/ 1TB/ Win8/ Touch) (20CDA01-GIG)']|
+[]|[]|['Rs. 46,990                ']|[]|[]|['Dell Inspiron 14 3442 Notebook (4th Gen Ci5/ 4GB/ 1TB/ Win8.1/ 2GB Graph)']|
+[]|['15']|['Rs. 23,990                ']|['4']|['3.9']|['HP 1000-1401AU Laptop (APU Dual Core/ 2GB/ 500GB/ Win8)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['1']|[]|['0']|['5']|['Toshiba Satellite L50D-B 40010 Notebook (APU Quad Core A4/ 4GB/ 500GB/ No OS)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['13']|['Rs. 34,490                ']|['8']|['3.8']|['Samsung NP300E5X-S02IN Laptop (2nd Gen Ci3/ 4GB/ 750GB/ DOS/ 1GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['7']|['Rs. 50,800                ']|['3']|['4.4']|['Dell Inspiron 15 3521 Laptop (3rd Gen Ci5/ 4GB/ 750GB/ Win8/ 2GB Graph/ Touch)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['13']|['Rs. 30,063                ']|['8']|['3.1']|['Sony VAIO SVE1513ACNB Laptop (2nd Gen Ci3/ 2GB/ 500GB/ Win8)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['5']|['Rs. 52,990                ']|['2']|['4.8']|['Sony VAIO E14A25CN/PI Laptop (3rd Gen Ci5/ 4GB/ 750GB/ Win8/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['23']|['Rs. 149,900                ']|['7']|['4']|['Apple ME664HN/A MacBook Pro (3rd Gen Ci7/ 8GB/ 256GB Flash/ Mac OS X Mountain Lion/ 1GB Graph/ Retina Display)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['14']|['Rs. 34,229                ']|['8']|['4.1']|['HP Pavilion 15-e038TX Laptop (3rd Gen Ci3/ 2GB/ 500GB/ DOS/ 1GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['84']|['Rs. 43,860                ']|['38']|['4.4']|['HP Pavilion 15-E015TX Laptop (3rd Gen Ci5/ 4GB/ 1TB/ Win8/ 1GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['17']|['Rs. 99,900                ']|['4']|['4.2']|['Apple MD102HN/A MacBook Pro (3rd Gen Ci7/ 8GB/ 750GB/ Mac OS X Mountain Lion)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['30']|['Rs. 55,900                ']|['8']|['4.2']|['Asus S550CM-CJ054H Ultrabook (3rd Gen Ci5/ 4GB/ 750GB 24GB SSD/ Win8/ 2GB Graph/ Touch)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['15']|['Rs. 54,400                ']|['4']|['3.9']|['Dell Inspiron 15R 5521 Laptop (3rd Gen Ci5/ 6GB/ 750GB/ Win8/ 2GB Graph/ Touch)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['25']|['Rs. 34,905                ']|['14']|['3.8']|['Toshiba Satellite C850-X0011 Laptop (3rd Gen Ci5/ 2GB/ 500GB/ No OS)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['42']|['Rs. 56,990                ']|['13']|['4.3']|['Samsung NP350V5C-S08IN Laptop (3rd Gen Ci7/ 8GB/ 1 TB/ Win8/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['4']|['Rs. 45,390                ']|['3']|['4']|['Sony VAIO Fit 14E F14218SN/B Laptop (3rd Gen Ci5/ 4GB/ 500GB/ Win8/ 1GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['37']|['Rs. 49,469                ']|['12']|['4.3']|['Sony VAIO E15137 Laptop (3rd Gen Ci5/ 4GB/ 750GB/ Win8/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['6']|['Rs. 30,690                ']|['1']|['3']|['HP Pavilion 14-B049TU Sleekbook (2nd Gen Ci3/ 4GB/ 500GB/ Win8)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['246']|['Rs. 56,000                ']|['123']|['4.3']|['Lenovo Essential G500s (59-388254) Laptop (3rd Gen Ci5/ 8GB/ 1TB/ DOS/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['23']|['Rs. 31,900                ']|['9']|['3.7']|['Lenovo Essential G580 (59-358346) Laptop (3rd Gen Ci3/ 2GB/ 1TB/ DOS)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['24']|['Rs. 32,900                ']|['10']|['3.5']|['Sony VAIO E14133 Laptop (3rd Gen Ci3/ 2GB/ 500GB/ Win8)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['18']|['Rs. 59,150                ']|['6']|['4.6']|['HP Pavilion M6-1102TX Laptop (3rd Gen Ci5/ 6GB/ 750GB/ Win8/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['8']|['Rs. 38,980                ']|['5']|['3.4']|['Toshiba Satellite C850-X5214 Laptop (3rd Gen Ci5/ 4GB/ 500GB/ Win7 HB/ 1GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['30']|['Rs. 59,099                ']|['16']|['4.9']|['Sony VAIO Fit 15E F15219SN/B Laptop (3rd Gen Ci5/ 4GB/ 750GB/ Win8/ 2GB Graph/ Touch)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['24']|['Rs. 32,900                ']|['10']|['3.5']|['Sony VAIO E14133 Laptop (3rd Gen Ci3/ 2GB/ 500GB/ Win8)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['18']|['Rs. 45,890                ']|['7']|['4.3']|['Sony VAIO Fit 15E F15218SN/B Laptop (3rd Gen Ci5/ 4GB/ 500GB/ Win8/ 1GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['4']|['Rs. 27,890                ']|['1']|['4.2']|['Sony VAIO E15131 Laptop (2nd Gen PDC/ 2GB/ 320GB/ Win8)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['7']|['Rs. 28,000                ']|['1']|['5']|['Acer V5-431P Laptop (CDC/ 2GB/ 500GB/ Win8/ Touch) (NX.M7LSI.003)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['13']|['Rs. 45,890                ']|['4']|['4.2']|['Sony VAIO Fit 15E F15218SN/W Laptop (3rd Gen Ci5/ 4GB/ 500GB/ Win8/ 1GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['14']|['Rs. 25,599                ']|['4']|['4']|['HP 1000-1204TU Laptop (CDC/ 2GB/ 500GB/ Win8)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['1']|['Rs. 43,090                ']|['1']|['2']|['Sony VAIO Fit 14E F14216SN/P Laptop (3rd Gen Ci3/ 2GB/ 500GB/ Win8/ Touch)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['18']|['Rs. 39,390                ']|['6']|['4.5']|['HP Pavilion 15-e034TX Laptop (3rd Gen Ci5/ 4GB/ 500GB/ DOS/ 1GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['235']|['Rs. 41,000                ']|['102']|['4.3']|['Lenovo Essential G505s (59-379862) Laptop (APU Quad Core A8/ 8GB/ 1TB/ DOS/ 2.5GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 29,200                ']|[]|[]|['Toshiba Satellite C640-X4015 Laptop (2nd Gen Ci5/ 2GB/ 500GB/ No OS)']|
+[]|['49']|['Rs. 29,900                ']|['15']|['4.4']|['Dell Vostro 2420 Laptop (2nd Gen Ci3/ 2GB/ 500GB/ Linux/ 1GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['1']|['Rs. 24,350                ']|['0']|['4']|['Lenovo Essential G500 (59-370250) Laptop (2nd Gen PDC/ 2GB/ 500GB/ DOS)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['29']|['Rs. 49,990                ']|['13']|['4.2']|['HP Envy 6-1002TX Sleekbook (3rd Gen Ci5/ 4GB/ 500GB/ Win7 HB/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['1']|['Rs. 42,990                ']|['0']|['5']|['Dell Inspiron 15R 5521 Laptop (3rd Gen Ci3/ 4GB/500GB/Win8)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['24']|['Rs. 28,099                ']|['8']|['4.4']|['HP 2000-2D03TU Laptop (2nd Gen PDC/ 4GB/ 500GB/ Win8)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['51']|['Rs. 27,409                ']|['21']|['3.9']|['Sony VAIO SVE1513CYNB Laptop (2nd Gen Ci3/ 2GB/ 320GB/ Red Flag Linux)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['7']|['Rs. 68,829                ']|['2']|['3.3']|['Sony VAIO Fit 15 F15A13SN/S Laptop (3rd Gen Ci5/ 4GB/ 750GB/ Win8/ 2GB Graph/ Touch)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['15']|['Rs. 69,990                ']|['4']|['3.7']|['Sony VAIO Pro 11 P11213SN/B Netbook (4th Gen Ci5/ 4GB/ 128GB SSD/ Win8)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['1']|['Rs. 36,499                ']|['0']|['5']|['Toshiba Satellite C850-X5213 Laptop (3rd Gen Ci5/ 2GB/ 500GB/ Win7 HB)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['59']|['Rs. 35,890                ']|['22']|['4.4']|['HP Pavilion G6-2231TX Laptop (3rd Gen Ci3/ 4GB/ 500GB/ Win8/ 1GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 20,400                ']|[]|[]|['Asus XX067D X Series Pentium Quad Core  -  15.6 inch, 500 GB HDD, 2 GB DDR3, DOS Laptop']|
+[]|[]|['Rs. 29,500                ']|[]|[]|['HP Pavilion R Series Intel Core i3  -  15.6 inch, 500 GB HDD, 4 GB DDR3, DOS Laptop']|
+[]|[]|['Rs. 27,699                ']|[]|[]|['Asus Vivobook S Series Others  -  11.6 inch, 500 GB HDD, 2 GB DDR3, Windows 8 Laptop']|
+[]|[]|['Rs. 22,500                ']|[]|[]|['Acer Aspire ES1-512 Notebook (1st Gen CDC/ 2GB/ 500GB/ Win8.1) (NX.MRWSI.002)']|
+[]|['22']|['Rs. 179,610                ']|['4']|['4']|['Dell Alienware 17 Notebook (4th Gen Ci7/ 16GB/ 1TB/ Win8.1/ 8GB Graph) (AW177161TB8A1)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 29,999                ']|[]|[]|['Acer Aspire E5-571 Notebook (4th Gen Ci3/ 4GB/ 500GB/ Linux) (NX.MPSSI.001)']|
+[]|['175']|['Rs. 25,490                ']|['77']|['4']|['HP Compaq 15-s008TU Notebook (4th Gen Ci3/ 4GB/ 500GB/ Free DOS) (J8C07PA)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['52']|['Rs. 62,350                ']|['25']|['4.2']|['Dell Inspiron 15 Laptop (4th Gen Ci7/ 8GB/ 1TB/ Win8/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['24']|['Rs. 65,499                ']|['16']|['4.3']|['Dell Inspiron 15R 5537 Laptop (4th Gen Ci7/ 8GB/ 1TB/ Win8/ 2GB Graph)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['35']|['Rs. 66,000                ']|['18']|['4.2']|['Dell Inspiron 15R Laptop (4th Gen Ci7/ 8GB/ 1TB/ Win8/ 2GB Graph/Touch)']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['63']|['Rs. 1,699                ']|['25']|['3.3']|['Ambrane P-1040 USB Portable Power Bank']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['11']|['Rs. 13,700                ']|['2']|['4.9']|['Asus Z87-A Motherboard']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 19,319                ']|[]|[]|['ASUS Maximus VII Hero Motherboard']|
+[]|['559']|['Rs. 1,999                ']|['213']|['3.5']|['Eveready UM 52 Power Bank for Tablets and Smartphones']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['2']|['Rs. 3,999                ']|['1']|['5']|['Puma Lifestyle Shoes']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 14,350                ']|[]|[]|['ASUS Sabertooth Z97 MARK 2 Motherboard']|
+[]|['118']|['Rs. 1,399                ']|['38']|['3.4']|['Ambrane P-880 Digital Series Power Bank']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['2']|['Rs. 10,700                ']|['1']|['3']|['ASUS H97-PRO GAMER Motherboard']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['18']|['Rs. 19,999                ']|['4']|['4.9']|['Asus Z87 Pro Motherboard']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['75']|['Rs. 1,270                ']|['30']|['3.7']|['Sony CP-V3/B USB Portable Charger']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|['4']|['Rs. 29,450                ']|['2']|['4.5']|['ASUS Maximus VII Formula/Watch Dogs Motherboard']|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+[]|[]|['Rs. 2,393                ']|[]|[]|['Puma Lifestyle Shoes']|

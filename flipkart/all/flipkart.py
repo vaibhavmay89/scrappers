@@ -3,7 +3,7 @@ from lxml import html
 import requests 
 
 
-f = open('urls.txt','r', encoding= 'utf8')
+f = open('urls.txt','r')# encoding= 'utf8')
 urls = f.readlines()
 
 
@@ -24,16 +24,18 @@ dict = {
 }
 
 
-f = open('full_list.txt','a', encoding= 'utf8')
+f = open('full_list.txt','a')# encoding= 'utf8')
 full = []
 l = []
-for i in range(146,len(urls)): 
+for i in range(859,len(urls)): 
 	urls[i] = urls[i].replace("\n","")
 	page  = requests.get(urls[i])
 	tree = html.fromstring(page.text)
 	for key in dict: 
-		
-		l.append(tree.xpath(dict[key]))
+		try:
+			l.append(tree.xpath(dict[key]))
+		except:
+			l.append([str(key) + "  - N/A"])
 		full.append
 	try:
 		
