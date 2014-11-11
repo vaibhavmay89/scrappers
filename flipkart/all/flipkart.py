@@ -6,11 +6,21 @@ import requests
 f = open('urls.txt','r')# encoding= 'utf8')
 urls = f.readlines()
 
+def clean(s):
+	junk = ['\\n','\\t','\t']
+	for k in junk: 
+		s = s.replace(k,'')
+	while("  " in s) :
+		s = s.replace("  "," ")
+	return(s)
+
+
+
 
 
 dict = {
 	'name': '//h1/text()',
-	'ImageURL': "//img[@class='productImage current']/@src",
+	'ImageURL': "//img[@class='productImage  current']/@src",
 	'cost': "//span[@class='selling-price omniture-field']/text()",
 	# 'phone' : "//div[@id='phoneNoString']/div/span/span/span/text()",
 	# 'highlight': "//div[@class='res-info-feature-text']/text()",
@@ -22,24 +32,32 @@ dict = {
 	"speckey": "//td[@class='specsKey']/text()",
 	"specvalue": "//td[@class='specsValue']/text()"
 }
-
-
-f = open('full_list.txt','a')# encoding= 'utf8')
+keys = []
+rec = []
+for key in dict: 
+	rec.append(dict[key])
+	keys.append(key)
+print(keys)
+f = open('full_list.py','a')# encoding= 'utf8')
+f.write('#'+str(keys))
+f.write('\nfull = []\n')
 full = []
 l = []
-for i in range(859,len(urls)): 
+for i in range(0,len(urls)): 
 	urls[i] = urls[i].replace("\n","")
 	page  = requests.get(urls[i])
 	tree = html.fromstring(page.text)
-	for key in dict: 
+	for key in range(0,len(rec)): 
 		try:
-			l.append(tree.xpath(dict[key]))
+			l.append(tree.xpath(rec[key]))
 		except:
 			l.append([str(key) + "  - N/A"])
 		full.append
 	try:
-		
-		f.write("'"+str(i)+"',"+str(l)+'\n||||')
+		s = str(l)
+		s = clean(s)
+		#print (s)
+		f.write("\nfull.append("+s+")")
 	except:
 		print ("Decode error")
 	l = []
