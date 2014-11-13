@@ -28,7 +28,7 @@ dict = {
 	# "address": '//h2[@itemprop="address"]/text()',
 	"discount": "//span[@class='discount fk-green']/text()",
 	"originalPrice": "//span[@class='price list']/text()",
-,	"ratings":"//div[@class='bigStar']/text()",
+	"ratings":"//div[@class='bigStar']/text()",
 	"votes":"//div[@class='ratings']/div[@class='count']/span/text()",
 	"noReviews": "//div[@class='reviews']/a[@class='review']/span/text()",
 	"speckey": "//td[@class='specsKey']/text()",
@@ -36,16 +36,16 @@ dict = {
 }
 keys = []
 rec = []
-rec[0] = dict['name']
-rec[1] = dict['cost']
-rec[2] = dict["discount"]
-rec[3] = dict["originalPrice"]
-rec[4] = dict["ratings"]
-rec[4] = dict["noReviews"]
-rec[5] = dict["votes"]
-rec[6] = dict["speckey"]
-rec[7] = dict["specvalue"]
-rec[8] = dict['ImageURL']
+rec.append(dict['name'])
+rec.append(dict['cost'])
+rec.append(dict["discount"])
+rec.append(dict["originalPrice"])
+rec.append(dict["ratings"])
+rec.append(dict["noReviews"])
+rec.append(dict["votes"])
+rec.append(dict["speckey"])
+rec.append(dict["specvalue"])
+rec.append(dict['ImageURL'])
 
 f = open('full_list.py','a')# encoding= 'utf8')
 f.write('#'+str(keys))
@@ -72,8 +72,7 @@ for i in range(0,7):
 	l = []
 	print (i)
 
-s = 
-
+s = """
 
 #[ 'name',  'cost',  "discount",  "originalPrice",  "ratings",  "noReviews",  "votes",  "speckey",  "specvalue",  'ImageURL' ]
 
@@ -85,7 +84,7 @@ for i in range (0,len(full)):
 			filter +=1
 			continue
 			
-		else:.
+		else:
 
 			specs.append(full[i][7][j])
 
@@ -119,16 +118,16 @@ for s in specs:
 	t += s+ "|"
 
 f = open("final.txt","a")
-f.write("name|"+"Price|"+"Raiting|"+"Votes|"+"5|"+"3|"+ t)
+f.write('"name"|"cost"|"discount"|"originalPrice"|"ratings"|"noReviews"|"votes"|"speckey"|"specvalue"|"ImageURL"')
 
 
 for i in range(0,len(new)):
-	f.write("\n")
+	f.write("\\n")
 	for j in new[i]:
 		#print(j)
 		f.write(str(j)+"|")
 # for row in new: 
-# 	f.write("\n"+ str(row))
+# 	f.write("\\n"+ str(row))
 
 
 
@@ -137,3 +136,4 @@ print("Hmmm... Got the data! .. digestion required. Autowriting the code")
 
 f.write(s)
 
+import full_list.py
