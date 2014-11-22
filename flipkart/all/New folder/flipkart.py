@@ -47,12 +47,12 @@ rec.append(dict["speckey"])
 rec.append(dict["specvalue"])
 rec.append(dict['ImageURL'])
 
-f = open('full_list.py','a')# encoding= 'utf8')
+f = open('full_list.py','w')# encoding= 'utf8')
 f.write('#'+str(keys))
 f.write('\nfull = []\n')
 full = []
 l = []
-for i in range(0,7): 
+for i in range(0,len(urls)): 
 	urls[i] = urls[i].replace("\n","")
 	page  = requests.get(urls[i])
 	tree = html.fromstring(page.text)
@@ -75,7 +75,6 @@ for i in range(0,7):
 s = """
 
 #[ 'name',  'cost',  "discount",  "originalPrice",  "ratings",  "noReviews",  "votes",  "speckey",  "specvalue",  'ImageURL' ]
-
 specs = []
 filter = 0 
 for i in range (0,len(full)):
@@ -101,24 +100,24 @@ new = []
 
 for i in range (0,len(full)):
 	new.append([full[i][0], full[i][1], full[i][2], full[i][3], full[i][4], full[i][5], full[i][6]])
-	for j in range(0,len(full[i][7])):
-		for k in range(0,len(specs)) :
-			try:
-				#print("found one")
-				index = full[i][7].index(specs[k])
-				new[i].append(full[i][8][index])
-				#print(str(i)+ ":   "+ full[i][8][index])
-			except:
-				new[i].append("N/A")
+	#for j in range(0,len(full[i][7])):
+	for k in range(0,len(specs)) :
+		try:
+			#print("found one")
+			index = full[i][7].index(specs[k])
+			new[i].append(full[i][8][index])
+			#print(str(i)+ ":   "+ full[i][8][index])
+		except:
+			new[i].append("N/A")
 
 
 # building header
 t = ''
 for s in specs: 
-	t += s+ "|"
+	t += s+ '"|"'
 
-f = open("final.csv","a")
-f.write('"name"|"cost"|"discount"|"originalPrice"|"ratings"|"noReviews"|"votes"|"speckey"|"specvalue"|"ImageURL"')
+f = open("final.csv","w")
+f.write('"name"|"cost"|"discount"|"originalPrice"|"ratings"|"noReviews"|"votes"|"'+ t+'"|ImageURL"')
 
 
 for i in range(0,len(new)):
@@ -128,6 +127,9 @@ for i in range(0,len(new)):
 		f.write(str(j)+"|")
 # for row in new: 
 # 	f.write("\\n"+ str(row))
+
+f.close()
+
 
 
 
