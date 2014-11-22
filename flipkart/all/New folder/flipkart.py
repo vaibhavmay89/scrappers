@@ -117,7 +117,7 @@ t = ''
 for s in specs: 
 	t += s+ "|"
 
-f = open("final.txt","a")
+f = open("final.csv","a")
 f.write('"name"|"cost"|"discount"|"originalPrice"|"ratings"|"noReviews"|"votes"|"speckey"|"specvalue"|"ImageURL"')
 
 
@@ -136,4 +136,4 @@ print("Hmmm... Got the data! .. digestion required. Autowriting the code")
 
 f.write(s)
 
-import full_list.py
+import full_list
