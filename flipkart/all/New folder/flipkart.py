@@ -74,6 +74,30 @@ for i in range(0,len(urls)):
 
 s = """
 
+def filterst(st,j):
+	
+	######### ALL ###########
+	remove = ['[',']','"',"'"]
+	#print(type(st))
+	for r in remove:
+		st = st.replace(r,"")
+
+	#print (st)
+	if ((j == 1) or (j==3)): 
+		remove = ["Rs.",","," "]
+		for r in remove:
+			st = st.replace(r,'')
+	if (j == 2): 
+		remove = ["OFF",","," "]
+		for r in remove:
+			st = st.replace(r,'')
+
+	
+
+
+	return st
+
+
 #[ 'name',  'cost',  "discount",  "originalPrice",  "ratings",  "noReviews",  "votes",  "speckey",  "specvalue",  'ImageURL' ]
 specs = []
 filter = 0 
@@ -122,9 +146,9 @@ f.write('"name"|"cost"|"discount"|"originalPrice"|"ratings"|"noReviews"|"votes"|
 
 for i in range(0,len(new)):
 	f.write("\\n")
-	for j in new[i]:
+	for j in range(0,len(new[i])):
 		#print(j)
-		f.write(str(j)+"|")
+		f.write(filterst(str(new[i][j]),j)+"|")
 # for row in new: 
 # 	f.write("\\n"+ str(row))
 
