@@ -2,43 +2,81 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 import time
 
-url = "http://www.flipkart.com/laptops/pr?p%5B%5D=facets.availability%255B%255D%3DExclude%2BOut%2Bof%2BStock&sid=6bo%2Cb5g&ref=8e05e452-7208-4feb-8c69-c3390b1bb5c3"
+url = "http://www.flipkart.com/mobiles/pr?p%5B%5D=facets.availability%255B%255D%3DExclude%2BOut%2Bof%2BStock&sid=tyy%2C4io&ref=dc51ee0b-3309-40ab-8c0f-4e7fcd11620d"
 #url = "http://www.flipkart.com/sports-fitness/fitness-accessories/ab-exercisers/pr?p[]=sort=popularity&sid=dep,xnh,abo&otracker=nmenu_sub_more-stores_0_Ab%20Exercisers"
 driver = webdriver.Chrome()
 driver.get(url)
 
-f = open("laptops.txt","w")
+f = open("mobiles.txt","w")
+
+def scrollToAction():
+	load = """$("#load-more-results").animate({scrollTop: $("#load-more-results").offset().top - 300}, 5000);"""
+	show = """$("body").animate({scrollTop: $("#show-more-results").offset().top - 300}, 5000);"""
+	seo = '''$("body").animate({scrollTop: $(".fk-footer-ssa").offset().top - 800}, 100);'''
+	print("Scroller called")
+	
+
+	try:
+		driver.execute_script(seo)
+	except:
+		try:
+			print("load didnt work trying show")
+			driver.execute_script(show)
+		except:
+			try:
+				print("SHOW didnt work trying SEO")
+				driver.execute_script(seo)
+			except:
+				print("Ain't scrolling nowhere")
+	time.sleep(2)
+
 
 
 #driver.save_screenshot('screenshot.png')
-driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-loadMore = driver.find_elements_by_xpath("//div[@id='no-more-results']")
-while (loadMore[0].get_attribute("style") != "display: block;"):
-	driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+# driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+# seeMore = driver.findElement(By.id("show-more-results"))
+
+# driver.execute_script("$('html, body').animate({scrollTop: $('#show-more-results').offset().top - 100}, 2000);")
+# try:
+# 	driver.execute_script("$('html, body').animate({scrollTop: $('#load-more-results').offset().top - 100}, 2000);")
+# except:
+# 	driver.execute_script("$('html, body').animate({scrollTop: $('#show-more-results').offset().top - 100}, 2000);")
+noMore = driver.find_elements_by_xpath("//div[@id='no-more-results']")
+scrollToAction()
+while (noMore[0].get_attribute("style") != "display: block;"):
+	print("1:")
+	scrollToAction()
 	if(driver.find_elements_by_xpath("//div[@id='show-more-results']")[0].get_attribute("style") != "display: block;"):
+		print("3:")
+		scrollToAction()
 		time.sleep(2)
 	else:
-		print('hghg')
+		scrollToAction()
+		print('found show more')
 		element = driver.find_elements_by_xpath("//div[@id='show-more-results']")[0]
-		element.click()
+		time.sleep(2)
 		try:
-			element.click()
+			driver.execute_script('$("#show-more-results").click()')
+			scrollToAction()
 		except:
-			print("first attempt worked")
-		try:
-			element.click()
-		except:
-			print("2nd attempt worked")
+			print("js Didnt work")
+			try:
+				element.click()
+				scrollToAction()
+			except:
+				print("Sel didnt work")
 
 
-	loadMore = driver.find_elements_by_xpath("//div[@id='no-more-results']")
-	time.sleep(2)
+	noMore = driver.find_elements_by_xpath("//div[@id='no-more-results']")
+	print("2:")
+	scrollToAction()
+	# time.sleep(2)
 urls = []
 
 items = driver.find_elements_by_xpath("//div[@class='pu-title fk-font-13']/a[@class='fk-display-block']")
 for i in items: 
 	j = i.get_attribute("href")
-	k = ("http://wwww.flipkart.com"+ str(j))
+	k = ("\n"+str(j))
 	urls.append(k)
 	f.write(k)
 
