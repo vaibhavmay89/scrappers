@@ -1,21 +1,22 @@
-from docx import *
+import zipfile
 import os
-doc = Document("sample.docx")
-#docbody = doc.xpath('/w:document/w:body', namespaces=wordnamespaces)[0]
-# print (search(doc,'your search string'))
+import shutil
 
-def doc_to_text_catdoc(filename):
-    (fi, fo, fe) = os.popen3('catdoc -w "%s"' % filename)
-    fi.close()
-    retval = fo.read()
-    erroroutput = fe.read()
-    fo.close()
-    fe.close()
-    if not erroroutput:
-        return retval
-    else:
-        raise OSError("Executing the command caused an error: %s" % erroroutput)
+print (os.listdir())
+docxfiles = []
+for filename in os.listdir():
+    if ".docx" in filename:
+       docxfiles.append(filename)
+        
+for k in docxfiles:
+    shutil.copy( k, os.getcwd()+'/rough/'+k)
+
+os.chdir((str(os.getcwd())+'\\rough'))
+print (os.listdir())
+for filename in os.listdir():
+    if ".docx" in filename:
+       os.rename(filename,filename.replace('.docx','.zip'))
+
+print (os.listdir())
 
 
-
-print(doc_to_text_catdoc("sample.doc"))
