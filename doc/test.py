@@ -23,7 +23,7 @@ def readdocfile(filename):
 		        now += 1
 		return(now)
 	except:
-		# print('not a zip file')
+		print(filename+'   :not a zip file')
 		return('NULL')
 
 		
@@ -47,9 +47,10 @@ def scavenger(add):
 		else:
 			try:
 				scavenger(str(add)+'\\'+filename)
+				print(str(add)+'\\'+filename)
 			except:
 				continue
-				# print("cant identify: '"+ filename+"'")
+				print("cant identify: '"+ filename+"'")
 			
 
 
