@@ -168,3 +168,12 @@ full.append([['Play N Pets Sit Bear with Hat and Scarf - 9.84 inch'], [' Rs. 549
 full.append([['Disney Pluto Playtime Romper - 10 inch'], [' Rs. 599 '], ['25% OFF'], [' Rs. 799 '], ['5'], [], [], ['Product Weight', 'Product Height', 'Age Group', 'Type', 'Ideal For', 'Character', 'Size', 'Powered by', ' '], ['95 g', '10 inch', '0 - 5 Years', 'Cartoon Characters', 'Girls, Boys', 'Pluto', '10 inch', 'Non Battery', '1 Stuff Toy', 'Soft Boa Material'], ['http://img1a.flixcart.com/img/thumb-default.jpg']])
 full.append([['Tickles Elephant Pillow Cum Toy Jungle Animal Pillow'], [' Rs. 499 '], ['44% OFF'], [' Rs. 899 '], ['4.5'], [], [], ['External Material', 'Machine Washable', 'Brand', 'With Pillow Cover', 'Type', 'Ideal Usage', 'Model Name', 'Filling Material', 'Model ID', 'Color', 'Width', 'Sales Package'], ['Pile Cloth', 'Yes', 'Tickles', 'No', 'Decorative Cushion', 'Back, Head, neck', 'Elephant Pillow Cum Toy', 'Polyfill', 'AT-C022', 'Grey', '43 cm', 'Pillow'], ['http://img1a.flixcart.com/img/thumb-default.jpg']])
 full.append([['Angry Birds Plush'], [' Rs. 299 '], ['14% OFF'], [' Rs. 349 '], ['4.1'], [], [], ['Product Weight', 'Country of Manufacture', 'Age Group', 'Type', 'Ideal For', 'Number of Contents', 'Size'], ['40 g', 'China', '1 - 10 Years', 'Cartoon Characters', 'Girls, Boys', '1', '5 inch'], ['http://img1a.flixcart.com/img/thumb-default.jpg']])
+
+
+j =0
+for i in range(0,len(full)):
+	if len(full[i][7]) != len(full[i][8]):
+		print(full[i][0][0]+ ":			"+ str((len(full[i][7]))-(len(full[i][8]))))
+		j += 1
+
+print("j =" + str(j))
