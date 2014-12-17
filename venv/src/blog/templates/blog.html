@@ -1,0 +1,48 @@
+{% extends "base.html" %}
+{% block content %}
+
+{% for post in object_list %}
+<h3><a href='/blog/{{post.id}}'>{{ post.title }}</a></h3>
+<div class="post_meta" style="color:#ccc;font-size:10px">	
+	on {{ post.date }}		
+<div>
+
+<div class = "post_body"style="color:#000;font-size:17px">
+	{{ post.body|safe|linebreaks}}
+</div>
+
+<table>
+	<tr>
+		<td>
+			{{ post.title }}
+		</td>
+		<td>
+			{{ post.date }}
+		</td>
+		<td>
+			{{ post.body|safe|linebreaks}}
+		</td>
+	</tr>
+
+</table>
+
+{% endfor %}
+{% for post in object_list %}
+
+<table>
+	<tr>
+		<td>
+			{{ post.title }}
+		</td>
+		<td>
+			{{ post.date }}
+		</td>
+		<td>
+			{{ post.body|safe|linebreaks}}
+		</td>
+	</tr>
+
+</table>
+
+{% endfor %}
+{% endblock %}

@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+{% block content %}
+
+
+<h3><a href='/blog/{{post.id}}'>{{ post.title }}</a></h3>
+<div class="post_meta" style="color:#ccc;font-size:10px">	
+	on {{ post.date }}		
+<div>
+
+<div class = "post_body"style="color:#000;font-size:17px">
+	{{ post.body|safe|linebreaks}}
+</div>
+
+
+
+{% endblock %}
