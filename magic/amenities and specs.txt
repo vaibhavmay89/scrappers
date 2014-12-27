@@ -41,7 +41,6 @@ Possession Status
 Floor Number
 Total Floors
 Units on the Floor 
-Covered Area 
 Carpet/Builtup Area 
 Additional Rooms 
 Facing 

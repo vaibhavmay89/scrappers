@@ -198,6 +198,12 @@ full.append([['4 BHK, 220 Sq-yrd Builder Floor Apartment For Sale'], ['', '1.95 
 full.append([['3 BHK, 1500 Sq-ft Flat For Sale'], ['', '2.75 Crore(s)(Negotiable)', '', ''], [" Dec 27, '14 ", ' ', ' 15250349 ', '', '', '', '', ''], [], ['Piped Gas', 'Banquet Hall', 'Cafeteria/Food Court'], ['Address', 'Bedrooms', 'Bathrooms', 'Balconies', 'Furnished', 'Possession Status', 'Floor Number', 'Total Floors', 'Units on the Floor ', 'Covered Area ', 'Additional Rooms ', 'Facing ', 'Overlooking ', 'Age of Construction ', 'Transaction Type ', 'Type of Ownership '], ['c block sfs flats sheikh sarai, Sheikh Sarai Phase 1, New Delhi - South - 110017', '3', '3', '3', 'Semi-Furnished', 'Ready to Move', '2 ', '4 ', '1 ', 'Store', 'East ', 'Main Road ', 'Above 20 years', 'Resale', 'Freehold']])
 full.append([['3 BHK, 1953 Sq-ft Builder Floor Apartment For Sale'], ['', '3.80 Crore(s)', '', '', ''], [" Dec 27, '14 ", ' ', ' 15465609 ', '', '', '', '', ''], [], ['RO Water System', 'Internet/Wi-Fi Connectivity', 'Private Terrace/Garden', 'Vaastu Compliant', 'Piped Gas', 'Air Conditioned', 'Intercom Facility', 'Maintenance Staff', 'Waste Disposal', 'Jogging and Strolling Track', 'Banquet Hall', 'Water Storage', 'DTH Television Facility', 'Conference Room', 'Service/Goods Lift', 'Bar/Lounge', 'Visitor Parking', 'Reserved Parking', 'Park', 'Security', 'Laundry Service', 'Lift', 'Rain Water Harvesting', 'Gymnasium'], ['Address', 'Bedrooms', 'Bathrooms', 'Balconies', 'Furnished', 'Possession Status', 'Floor Number', 'Total Floors', 'Covered Area ', 'Plot Area ', 'Additional Rooms ', 'Facing ', 'Overlooking ', 'Age of Construction ', 'Transaction Type ', 'Type of Ownership '], ['Sarvodaya Enclave, New Delhi - South', '3', '3', '2', 'Semi-Furnished', 'Ready to Move', '2 ', '4 ', '', '', '', '', 'Puja Room, Servant Room', 'North - East ', 'Garden/Park ', 'New Construction', 'New Property', 'Freehold']])
 
+for i in range(0,len(full)):
+	full[i][5].pop(full[i][5].index('Covered Area '))
+
+
+
+
 def filterst(st,j):
 	
 	######### ALL ###########
@@ -208,13 +214,15 @@ def filterst(st,j):
 
 	#print (st)
 	if ((j == 1) or (j==3)): 
-		remove = ["Rs.",","," "]
+		remove = ["Rs.",","," ","(s)"]
 		for r in remove:
 			st = st.replace(r,'')
 	if (j == 2): 
 		remove = ["OFF",","," "]
 		for r in remove:
 			st = st.replace(r,'')
+	if (j == 4): 
+		return(st)
 
 	
 
@@ -232,7 +240,6 @@ for i in range (0,len(full)):
 			continue
 			
 		else:
-
 			specs.append(full[i][5][j])
 
 for i in specs: 
@@ -293,15 +300,15 @@ for i in range (0,len(full)):
 # building header
 t = ''
 for s in specs: 
-	t += s+ '"|"'
+	t += s+ '","'
 
 f = open("final.csv","w")
-f.write('"Listing"|"cost"|"date"|"blank"|"amenities"|"'+ t+'"')
+f.write('"Listing","cost","date","blank","amenities","'+ t +'"')
 for i in range(0,len(new)):
 	f.write("\n")
 	for j in range(0,len(new[i])):
 		#print(j)
-		f.write(filterst(str(new[i][j]),j)+"|")
+		f.write(filterst(str(new[i][j]),j)+'","')
 # for row in new: 
 # 	f.write("\n"+ str(row))
 

@@ -30,7 +30,8 @@ dict = {
 	"trends":"//div[@class='currentSalesPrice']/ul/li/span/text()",
 	"amenities": "//div[@class='animList']/ul/li/text()",
 	"speckey": "//div[@class='listBlock']/div[@class='fieldLabel']/text()",
-	"specvalue": "//div[@class='listBlock']/div[@class='fieldVal']/text()"
+	"specvalue": "//div[@class='listBlock']/div[@class='fieldVal']/text()",
+	"specvalue2": "//div[@class='listBlock']/div[@class='fieldVal']/span/text()"
 }
 keys = []
 rec = []
@@ -38,14 +39,14 @@ rec.append(dict['name'])
 rec.append(dict['cost'])
 rec.append(dict["date"])
 rec.append(dict["trends"])
-# rec.append(dict["ratings"])
 rec.append(dict["amenities"])
-# rec.append(dict["votes"])
 rec.append(dict["speckey"])
 rec.append(dict["specvalue"])
-# rec.append(dict['ImageURL'])
+rec.append(dict["specvalue2"])
 
-f = open('full_list4f.py','w')# encoding= 'utf8')
+
+
+f = open('full_list56f.py','w')# encoding= 'utf8')
 f.write('#'+str(keys))
 f.write('\n\n\n\n\n\n\nfull = []\n')
 full = []
