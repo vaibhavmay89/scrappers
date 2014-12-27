@@ -1,0 +1,54 @@
+RO Water System
+Vaastu Compliant
+Intercom Facility
+Reserved Parking
+Waste Disposal
+Park
+Security
+Water Storage
+Lift
+Power Back Up
+Rain Water Harvesting
+Piped Gas
+Air Conditioned
+Maintenance Staff
+Laundry Service
+Visitor Parking
+Internet/Wi-Fi Connectivity
+Private Terrace/Garden
+Jogging and Strolling Track
+Banquet Hall
+DTH Television Facility
+Conference Room
+Service/Goods Lift
+Bar/Lounge
+Cafeteria/Food Court
+Outdoor Tennis Courts
+Club House
+Gymnasium
+Swimming Pool
+===========================
+
+
+
+===========================
+Address
+Bedrooms
+Bathrooms
+Balconies
+Furnished
+Possession Status
+Floor Number
+Total Floors
+Units on the Floor 
+Covered Area 
+Carpet/Builtup Area 
+Additional Rooms 
+Facing 
+Overlooking 
+Age of Construction 
+Transaction Type 
+Type of Ownership 
+Units Available 
+Plot Area 
+Possession By
