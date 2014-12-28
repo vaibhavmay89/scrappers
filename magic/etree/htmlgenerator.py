@@ -1,0 +1,31 @@
+html = """"
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title> MagicBricks assignment by Vaibhav</title>
+<style>
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 5px;
+}
+</style>
+</head>
+<body>
+<table border = "1" style="width:100%">
+	<tr style= "text-weight:bold">
+		<th>MB Rank</th> <th>Listing Name</th><th>Value For Money</th><th>Listing Characterstics</th><th>Facilities</th><th>Overall</th>
+	</tr>"""+
+	<tr><td>MB Rank</td> <td><a href="#" target="_blank">Listing Name</a></td><td>Value For Money</td><td>Listing Characterstics</td><td>Facilities</td><td>Overall</td></tr>
+
+
+
+
+</table>
+</body>
+</html>
+
+"""

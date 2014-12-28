@@ -20,12 +20,7 @@ def clean(s):
 
 dict = {
 	'name': "//div[@class='propPriceBrief']/div[@class='fHeading']/text()",
-	# 'ImageURL': "//img[@class='productImage current']/@src",
 	'cost': '//*[@id="propDPaage"]/div[2]/div[2]/div[1]/div/div[4]/text()',
-	# 'phone' : "//div[@id='phoneNoString']/div/span/span/span/text()",
-	# 'highlight': "//div[@class='res-info-feature-text']/text()",
-	# "locality":'//span[@itemprop="addressLocality"]/text()',
-	# "address": '//h2[@itemprop="address"]/text()',
 	"date":"//div[@class='propertyBrief']/div[@class='briefRight']/div[@class='propDenId']/text()",
 	"trends":"//div[@class='currentSalesPrice']/ul/li/span/text()",
 	"amenities": "//div[@class='animList']/ul/li/text()",
