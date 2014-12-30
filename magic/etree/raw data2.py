@@ -198,23 +198,24 @@ full.append([190, 'http://magicbricks.com/propertyDetails/3-BHK-1953-Sq-ft-Build
 
 
 
-def filterst(st,j):
+def filterst(st):
 	
 	######### ALL ###########
 	remove = ['[',']','"',"'"]
 	#print(type(st))
 	for r in remove:
-		st = st.replace(r,"")
+		while r in st:
+			st = st.replace(r,"")
 
 	#print (st)
-	if ((j == 1) or (j==3)): 
-		remove = ["Rs.",","," "]
-		for r in remove:
-			st = st.replace(r,'')
-	if (j == 2): 
-		remove = ["OFF",","," "]
-		for r in remove:
-			st = st.replace(r,'')
+	# if ((j == 1) or (j==3)): 
+	# 	remove = ["Rs.",","," "]
+	# 	for r in remove:
+	# 		st = st.replace(r,'')
+	# if (j == 2): 
+	# 	remove = ["OFF",","," "]
+	# 	for r in remove:
+	# 		st = st.replace(r,'')
 
 	
 
@@ -249,6 +250,7 @@ def tester(st,j):
 
 		if split != None: 
 			st = st.split(split)
+			st[0] = st[0]+"|"
 	return(st)
 
 
@@ -256,7 +258,7 @@ def tester(st,j):
 for one in full:
 	for j in range(0,len(one)):
 		one[j] = tester(one[j],j)
-	print ("fll.append("+str(one)+")\n")
+	# print ("fll.append("+str(one)+")\n")
 
 specs = []
 filter = 0 
@@ -307,7 +309,7 @@ for i in range(0,len(new)):
 	f.write("\n")
 	for j in range(0,len(new[i])):
 		#print(j)
-		f.write(str(new[i][j])+"|")
+		f.write(filterst(str(new[i][j]))+"|")
 # for row in new: 
 # 	f.write("\n"+ str(row))
 
