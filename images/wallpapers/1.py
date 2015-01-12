@@ -21,6 +21,6 @@ for i in range(0,len(j)):
 	# j[i]= j[i].replace('//','http://')
 	j[i]= j[i].replace('\n','')
 	final.append(j[i].split('|',1))
-for i in range(695,len(final)):
+for i in range(8000,len(final)):
 	print(i)
 	getimage(final[i][1],str(i)+'-- Page'+str(final[i][0]))
