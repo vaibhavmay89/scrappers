@@ -23,17 +23,18 @@ def list2string(st,removal = 0,regexConv = 0):
 			# print(n)
 			n = n.replace(spl,("\\"+spl))
 		# print(len(n))
+		print(n)
 		return(n)
 
 	return(p)
 
 
 current = os.getcwd()
-
+# print(current)
 # Acquiring  Source Files 
 
 new = os.chdir(current+'\\source-css')
-source_list = os.listdir()
+source_list = os.listdir(current+'\\source-css')
 sfiles = []
 
 for i in source_list:
@@ -45,7 +46,7 @@ for i in source_list:
 # Acquiring Target Files 
 
 new = os.chdir(current+'\\target-css')
-target_list = os.listdir()
+target_list = os.listdir(current+'\\target-css')
 tfiles = []
 
 for i in target_list:
@@ -102,7 +103,7 @@ def list2string(st,removal = 0,regexConv = 0):
 
 current = os.getcwd()
 new = os.chdir(current+'\\\\target-css')
-target_list = os.listdir()
+target_list = os.listdir(current+'\\target-css')
 tfiles = []
 
 for i in target_list:
@@ -116,9 +117,9 @@ for i in target_list:
 for i in replace:
 	for j in range(0,len(target_list)):
 		rep = ('/* this has been auto-removed vide ref: enum='+ str(i[0])+'|targetcss='+target_list[j]+'*/')
-		new = tfiles[j].replace(rep,'/* this has been recovered vide ref: enum='+ str(i[0])+'|targetcss='+target_list[j]+'*/'+i[3])
+		tfiles[j] = tfiles[j].replace(rep,'/* this has been recovered vide ref: enum='+ str(i[0])+'|targetcss='+target_list[j]+'*/'+i[3])
 		f= open(target_list[j],'w')
-		f.write(new)
+		f.write(tfiles[j])
 		f.close()
 
 """
