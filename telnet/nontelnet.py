@@ -1,13 +1,29 @@
 import subprocess
 import socket
 import re
-from django.core.exceptions import ValidationError
-from django.core.validators import validate_email
+import smtplib
+# from django.core.exceptions import ValidationError
+# from django.core.validators import validate_email
 reg = r'^[_a-z0-9-]+(\.[_a-z0-9-]+)*@[a-z0-9-]+(\.[a-z0-9-]+)*(\.[a-z]{2,4})$'
 rec= re.compile(reg)
 
 good_domains = set([])
 bad_domains = set([])
+
+responsive_domains =set([])
+blocked_domains = set([])
+
+def smtp_check(email,mxserver):
+	smtp = smtplib.SMTP(timeout=10)
+	smtp.connect(mxserver)
+	try:
+		status = smtp.helo()
+		mail_to = smtp.mail('vaibhav.singhal@askiitians.com')
+		rcpt = smtp.rcpt(email)
+	except:
+		return('No handshake')
+	return([status[0],mail_to[0],rcpt])
+
 
 def validate_server(domain): 
 	print(domain)
@@ -21,7 +37,7 @@ def validate_server(domain):
 		print (1)
 		return([1,'Valid Mail Server'])
 	else:
-		print([0,'Mail Server not Found')
+		print([0,'Mail Server not Found'])
 
 
 def fn_check_mx(domain):
