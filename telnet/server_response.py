@@ -306,10 +306,10 @@ for i in range(6,len(serverlist)):
 	    # session.write("helo local.domain.name\r\n".encode('ascii') + b"\r")
 	    # print("Reading...")
 	    initiate= session.read_until(b"/r/n/r/n#>", timeout-18 )
-	    session.write(('MAIL FROM:vaibhavmay89@gmail.com'+'\r\n').encode('ascii') + b"\r")
-	    session.write(('MAIL FROM:vaibhavmay89@gmail.com'+'\r\n').encode('ascii') + b"\r")
+	    session.write(('MAIL FROM:vaibhavmay89@gmail.com').encode('ascii') + b"\r")
+	    # session.write(('MAIL FROM:vaibhavmay89@gmail.com'+'b'\n').encode('ascii') + b"\r")
 	    frommail= session.read_until(b"/r/n/r/n#>", timeout-18 )
-	    session.write(('RCPT TO:info@'+serverlist[i][0]+'\r\n').encode('ascii') + b"\r")
+	    session.write(('RCPT TO:info@'+serverlist[i][0]).encode('ascii') + b"\r")
 	    check= session.read_until(b"/r/n/r/n#>", timeout-18 )
 
 	    print(str(i)+'--' + initiate+'--'+frommail +'--'+check)
