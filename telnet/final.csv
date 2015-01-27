@@ -1,0 +1,682 @@
+Email, Reg Status, Reg Message, SMTP Exists ? , SMTP EXsist message, HELO, FROM, RCPT, RCPT MESSAGE
+ashokjs123@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK j9si8401379pdn.241 - gsmtp
+sathyasaaru81@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK fn9si15257178pab.229 - gsmtp
+gphukela@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ki10si15539410pdb.1 - gsmtp
+softysaarudarshini86@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ko2si15250491pdb.230 - gsmtp
+Sanskriti970@gmail.com, -1, regex not formed
+emrsghansore2014@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK de3si15366262pdb.148 - gsmtp
+ssejal942@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ke10si15210290pbc.235 - gsmtp
+ASHUIKR@GMAIL.COM, -1, regex not formed
+krhimanshu1996@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK i9si15482772pdn.55 - gsmtp
+rajusheikh56789@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK 2si15385256pdg.135 - gsmtp
+yg.gemini@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK r16si15516269pdi.27 - gsmtp
+amarammu047@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK tf7si15295801pab.202 - gsmtp
+aditidhwal03.ad@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK n8si15529505pdi.14 - gsmtp
+mital.tyagi89@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 550, "5.1.1 The email account that you tried to reach does not exist. Please try\n5.1.1 double-checking the recipients email address for typos or\n5.1.1 unnecessary spaces. Learn more at\n5.1.1 http://support.google.com/mail/bin/answer.py?answer=6596 or10si8670220pbb.113 - gsmtp"
+femoba2000@yahoo.com, 1, regex matches, 1, Has a valid smtp server, No handshake
+ismailmd186@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK x2si15249483pas.236 - gsmtp
+pari7k@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ph5si10857269pdb.167 - gsmtp
+amitranjan51298@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ug10si15304628pab.193 - gsmtp
+gupta.kundan674@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK nm14si15527744pdb.12 - gsmtp
+pranshumishrangd@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK wh9si15224046pbc.227 - gsmtp
+vipinko123@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK im8si15217945pbc.229 - gsmtp
+priya.dohare111@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK os8si13976632pbb.209 - gsmtp
+JASWANIKAPIL742@gmail.com, -1, regex not formed
+svdrozd@hotmail.com, 1, regex matches, 1, Has a valid smtp server, No handshake
+kkumarsharma1968@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ur10si14641581pbc.225 - gsmtp
+kaushik.prakash123@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ua8si15237539pbc.215 - gsmtp
+ANKITJOON97@GMAIL.COM, -1, regex not formed
+rj@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 550, "5.1.1 The email account that you tried to reach does not exist. Please try\n5.1.1 double-checking the recipients email address for typos or\n5.1.1 unnecessary spaces. Learn more at\n5.1.1 http://support.google.com/mail/bin/answer.py?answer=6596 kq6si15440191pdb.87 - gsmtp"
+gamesbond709@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK fm4si15322194pac.172 - gsmtp
+coolravichaurasia@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK np10si15328619pbc.145 - gsmtp
+spattonx@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK wz2si15444706pab.87 - gsmtp
+drvenkat.chegg@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK fu9si15529580pac.13 - gsmtp
+sagarmistry554@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ob9si15440391pbb.57 - gsmtp
+yrknidhi@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK bv6si15408729pdb.114 - gsmtp
+aksmownetharan@yahoo.in, 1, regex matches, 0, No smtp found, 
+akhileshipsau@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK s12si15412771pdl.116 - gsmtp
+sahu.abhishek15@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK v8si15264307pdm.232 - gsmtp
+unikita75@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK j9si8409908pdn.241 - gsmtp
+jk.jindal90@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ln9si15235753pbc.222 - gsmtp
+adi.asd@live.com, 1, regex matches, 1, Has a valid smtp server, No handshake
+atul001.2011@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK tw10si15319240pab.190 - gsmtp
+aryant211296@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK wm4si15350789pbc.131 - gsmtp
+jvn216@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ah8si15283146pad.214 - gsmtp
+sarkarsubhadip6@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK v10si15324836pdo.185 - gsmtp
+g2gpatel@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK os5si15289461pab.197 - gsmtp
+gopalgupte1995@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK sa10si4538730pbb.172 - gsmtp
+pandey.akhilesh87@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK rg10si15245837pbc.217 - gsmtp
+vskoushik123@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ha1si15213446pbd.232 - gsmtp
+adityasingh4@yahoo.com, 1, regex matches, 1, Has a valid smtp server, No handshake
+claxmi64@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK zq10si15287840pac.216 - gsmtp
+amittheawesome@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK xm9si15294396pab.209 - gsmtp
+manunoms@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ph9si15223353pbb.236 - gsmtp
+basuagrahari1990@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ne7si15456147pbc.49 - gsmtp
+ashutoshkumar.singh11325@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK w3si15315470pdl.196 - gsmtp
+un.arya1999@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ok5si15436526pbb.60 - gsmtp
+sudh98@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK xe5si15328557pab.185 - gsmtp
+j.saisharanya@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ww10si15324579pab.186 - gsmtp
+askjsp@hotmail.com, 1, regex matches, 1, Has a valid smtp server, No handshake
+rajorarachana393@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK rg10si15249468pbc.217 - gsmtp
+gaurav8.nasa@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK w9si14974583pds.48 - gsmtp
+meghraj.roy.16@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK kr9si15443726pdb.94 - gsmtp
+meghraj.roy.33@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK up2si15339452pac.178 - gsmtp
+iamaashray@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK r13si8018368pdj.140 - gsmtp
+poonamsingh1272@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK b16si15323480pdj.189 - gsmtp
+sharmas2930@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK cb7si15437347pdb.102 - gsmtp
+tharunphilip9898@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK uv4si15377466pbc.110 - gsmtp
+jajala.sudhavivek@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK wg4si15489650pab.58 - gsmtp
+gmoorthyr@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK md10si15378387pdb.146 - gsmtp
+chaitu.chaitanya910@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK x6si15288429pdp.220 - gsmtp
+mjanveja@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK vp1si15304189pbc.177 - gsmtp
+rishikesai@rediffmail.com, 1, regex matches, 1, Has a valid smtp server, No handshake
+sivakalyan91@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ur7si15501908pac.51 - gsmtp
+suny8539@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK yq1si15543478pac.12 - gsmtp
+nazar2k4@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK h5si15534399pdn.26 - gsmtp
+k.rahul019@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK a8si15262868pdp.244 - gsmtp
+harry_kool111@hotmail.com, 1, regex matches, 1, Has a valid smtp server, No handshake
+loneahsan0@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ff10si7329996pab.241 - gsmtp
+yrudatkas@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK og16si15506567pdb.46 - gsmtp
+farseenabdulsalam@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK lu17si15371309pab.157 - gsmtp
+priyankahunda@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK d7si15267459pdf.238 - gsmtp
+mrnimesh@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK bt4si9516892pad.91 - gsmtp
+adityasomani11@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK au1si15379393pbc.117 - gsmtp
+marutin827@gmail.co, 1, regex matches, 0, No smtp found, 
+sksharivignesh@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK qq9si15397126pbb.102 - gsmtp
+poojaskathuria@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK cp3si15339133pdb.184 - gsmtp
+Kumar.amit@gmail.com, -1, regex not formed
+Chanduastha@gmail.com, -1, regex not formed
+binisara22@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ss1si15339407pab.184 - gsmtp
+noorbini22@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ol12si15496205pab.53 - gsmtp
+guptakomal095@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK xi3si15423356pab.118 - gsmtp
+ashuranjan2008@yahoo.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, recipient <ashuranjan2008@yahoo.com> ok
+surajgoelbbl@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK l1si1063195pdj.98 - gsmtp
+gsone04@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK u4si8424578pdp.186 - gsmtp
+ravi.manukonda@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK 12si5724658pda.13 - gsmtp
+mashooque96125@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK j1si15378460pdf.156 - gsmtp
+saurabh80060.sk@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK nz12si15418739pab.114 - gsmtp
+payal8526@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK cd8si15438218pdb.107 - gsmtp
+gaurav_webdeveloper@yahoo.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, recipient <gaurav_webdeveloper@yahoo.com> ok
+soham.sarkar30@yahoo.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, recipient <soham.sarkar30@yahoo.com> ok
+basantdwivedi2014@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK bf10si15409429pdb.130 - gsmtp
+sarmistha.das07@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ln9si15251751pbc.222 - gsmtp
+d.s.devanandsingh@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK y11si10710192pdk.110 - gsmtp
+kadarsh835@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK uk5si15316997pbc.168 - gsmtp
+findsaima@yahoo.co.uk, 1, regex matches, 1, Has a valid smtp server, No handshake
+rajatlakhera048@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ln9si15252617pbc.222 - gsmtp
+kartikbhardwaj20march@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK la3si15414704pab.123 - gsmtp
+bibasharma1999@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK fk13si15389491pdb.144 - gsmtp
+runforsat@rediffmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, ok
+sumit.mtnt13@iitp.ac.in, 1, regex matches, 1, Has a valid smtp server, No handshake
+Faizanrocky80@gmail.com, -1, regex not formed
+ramyadevib97@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK l1si1068408pdj.98 - gsmtp
+raesurrizwan@gmil.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, recipient <raesurrizwan@gmil.com> OK
+aditicpatade16@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK uq4si15326864pbc.165 - gsmtp
+shivam.sinha05@hotmail.com, 1, regex matches, 1, Has a valid smtp server, No handshake
+smtbond007@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK cp3si15346741pdb.184 - gsmtp
+tej.kushwaha@outlook.com, 1, regex matches, 1, Has a valid smtp server, No handshake
+betumath@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK bs2si15490882pad.67 - gsmtp
+angad125999@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK p14si15388826pdj.152 - gsmtp
+apurvyashwardhan@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ds15si15290624pdb.225 - gsmtp
+jobin4ever_nilamel@yahoo.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, recipient <jobin4ever_nilamel@yahoo.com> ok
+antonyshrutip@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK kk4si15480290pbc.40 - gsmtp
+rishav166@gamil.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 550, 5.1.1 <rishav166@gamil.com>: Recipient address rejected: User unknown in virtual alias table
+ishucoolman@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK fc3si15553297pad.15 - gsmtp
+selwyn.kola@yahoo.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, recipient <selwyn.kola@yahoo.com> ok
+ravijakhar1111@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK in4si15494147pbc.32 - gsmtp
+ps27092000@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK pr2si15429324pbb.88 - gsmtp
+hit.jatin1234@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK z3si15433572pas.111 - gsmtp
+snehakumarijamshedpur@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK j15si15518971pdl.50 - gsmtp
+akhilsrivastava79@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ua8si15264231pbc.215 - gsmtp
+callingaditya98@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK pm10si15344634pbb.150 - gsmtp
+raiimukherjee7@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 550, "5.1.1 The email account that you tried to reach does not exist. Please try\n5.1.1 double-checking the recipients email address for typos or\n5.1.1 unnecessary spaces. Learn more at\n5.1.1 http://support.google.com/mail/bin/answer.py?answer=6596 re10si13322261pdb.149 - gsmtp"
+watchme_ppl@hotmail.com, 1, regex matches, 1, Has a valid smtp server, No handshake
+satishkumar6000@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ie5si15304186pbc.186 - gsmtp
+dranksh.care2024@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 550, "5.1.1 The email account that you tried to reach does not exist. Please try\n5.1.1 double-checking the recipients email address for typos or\n5.1.1 unnecessary spaces. Learn more at\n5.1.1 http://support.google.com/mail/bin/answer.py?answer=6596 he4si15305569pbc.187 - gsmtp"
+rohan.5kohli@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK kx2si15255391pbc.226 - gsmtp
+vrshyam96@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK nk10si15223426pbc.253 - gsmtp
+vusirikalaharikiran@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK gw4si15239284pbc.240 - gsmtp
+devanshu2213@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ks7si15478531pab.82 - gsmtp
+mohanteja.17@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK zq10si15310748pac.216 - gsmtp
+spabhijith1997@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK cp3si15352923pdb.184 - gsmtp
+archanasingh413@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK xj5si2419966pab.152 - gsmtp
+riteshphogat11@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK v10si15350659pdo.185 - gsmtp
+m.nazeer@nour.com.sa, 1, regex matches, 1, Has a valid smtp server, No handshake
+raorvm@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK an4si15547777pad.25 - gsmtp
+rohtashsaharan061@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK 16si15271082pdf.254 - gsmtp
+lnimish0@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK xr7si15372332pab.168 - gsmtp
+ramrajni98@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK bd4si15526626pad.46 - gsmtp
+nandukrishna828@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ew2si15340766pdb.190 - gsmtp
+akshayb312@yahoo.com, 1, regex matches, 1, Has a valid smtp server, No handshake
+kmjothiprasanth@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ez8si15381593pdb.164 - gsmtp
+arvindpatidar031@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK im8si15251421pbc.229 - gsmtp
+hiteshsoni2507@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK sw2si14335077pab.121 - gsmtp
+aadarshlove30@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK x4si15524957pdh.43 - gsmtp
+vs00799@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ps7si5123571pdb.209 - gsmtp
+vini1983@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 550, "5.1.1 The email account that you tried to reach does not exist. Please try\n5.1.1 double-checking the recipients email address for typos or\n5.1.1 unnecessary spaces. Learn more at\n5.1.1 http://support.google.com/mail/bin/answer.py?answer=6596 q3si15416692pdr.132 - gsmtp"
+rohitthecyrus@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK k3si15546045pdj.35 - gsmtp
+rishabhbourdon8@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 550, "5.1.1 The email account that you tried to reach does not exist. Please try\n5.1.1 double-checking the recipients email address for typos or\n5.1.1 unnecessary spaces. Learn more at\n5.1.1 http://support.google.com/mail/bin/answer.py?answer=6596 ci12si15265297pdb.255 - gsmtp"
+mobileidea.works@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK rn1si15448646pbc.76 - gsmtp
+Niyati.mehta1999@gmail.com, -1, regex not formed
+harmeetsingh1630@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK y2si15532965pbw.6 - gsmtp
+Surajsharma3369@gmail.com, -1, regex not formed
+shuvam.upadhyay@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ah8si15314059pad.214 - gsmtp
+Mainmoinkhan.24@gmail.com, -1, regex not formed
+pratulpratul@rediff.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, ok
+raord@albayroni.sabic.com, 1, regex matches, 1, Has a valid smtp server, No handshake
+thamimhome@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK qg3si15538033pdb.36 - gsmtp
+puneetsparsh.849@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK xx8si15431766pac.124 - gsmtp
+verma.shravya.7@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK z3si15440257pdd.121 - gsmtp
+asamansingh16@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK qd7si15437120pdb.124 - gsmtp
+jayvijay24@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK fs12si15511453pdb.56 - gsmtp
+ananya.mahajan22@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK rl7si15403749pab.145 - gsmtp
+purveshcooldude33@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ye4si15511444pab.61 - gsmtp
+dado_121995@yahoo.com, 1, regex matches, 1, Has a valid smtp server, No handshake
+brittogeorge@mail.com, 1, regex matches, 1, Has a valid smtp server, No handshake
+brittogeorge888@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 550, "5.1.1 The email account that you tried to reach does not exist. Please try\n5.1.1 double-checking the recipients email address for typos or\n5.1.1 unnecessary spaces. Learn more at\n5.1.1 http://support.google.com/mail/bin/answer.py?answer=6596 ci12si15268685pdb.255 - gsmtp"
+myousfwagay@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ie5si15314434pbc.186 - gsmtp
+sawhneyraghav1@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK rh4si15450002pdb.115 - gsmtp
+princeyash46@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ou2si15280626pbb.214 - gsmtp
+divyakat24@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ie5si15315206pbc.186 - gsmtp
+princetansa@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK mt1si15391881pbb.128 - gsmtp
+durfishan.angel@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK yr7si15575351pac.4 - gsmtp
+dkm5780@GMAIL.COM, -1, regex not formed
+parwezamir@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK je7si15526806pbd.15 - gsmtp
+satyenders238@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK mr6si15295364pdb.236 - gsmtp
+thrillingnisha@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK gy1si15497646pbd.34 - gsmtp
+tushkister@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK y3si15476400pdo.91 - gsmtp
+murariindoria@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK sj1si15463629pbc.68 - gsmtp
+venkatakrishnavinay@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ch4si15506323pdb.68 - gsmtp
+dtayal1999@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK qa8si15346490pdb.195 - gsmtp
+MEJAYU96@GMAI.COM, -1, regex not formed
+SarkarPK@sharq.sabic.com, -1, regex not formed
+garimagupta2907@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ye4si15515870pab.61 - gsmtp
+rajesh98529@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ko10si15335200pbd.171 - gsmtp
+sathwikchowdary1216@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK a5si15505954pdf.71 - gsmtp
+cheeragsarda1305@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK m4si15514535pdb.61 - gsmtp
+shuchith@yahoo.co.in, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, recipient <shuchith@yahoo.co.in> ok
+zunaidsorathiya9@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK w5si15334778pdp.207 - gsmtp
+kalyankollepara@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK mv9si4833601pdb.151 - gsmtp
+shantiagrotech@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ow1si15405713pbb.118 - gsmtp
+coolsmartankit10@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK o3si15286026pdi.249 - gsmtp
+viveknimmagadda@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK 12si15423752pde.142 - gsmtp
+chandanmshr271@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK fc3si15572557pad.15 - gsmtp
+aditya.3497@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ck1si15584866pdb.2 - gsmtp
+asrafulkamal383@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK fp16si4495380pdb.215 - gsmtp
+mittalankesh1997@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK h10si1603136pdl.88 - gsmtp
+nalmasuanirudh@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ag17si15456048pac.113 - gsmtp
+mailparik@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 550, "5.1.1 The email account that you tried to reach does not exist. Please try\n5.1.1 double-checking the recipients email address for typos or\n5.1.1 unnecessary spaces. Learn more at\n5.1.1 http://support.google.com/mail/bin/answer.py?answer=6596 y13si15494696pde.84 - gsmtp"
+rajesh.sandheer@hotmail.com, 1, regex matches, 1, Has a valid smtp server, No handshake
+santosh.ijardar@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK pv10si2967447pdb.223 - gsmtp
+mrkmenon92@gmail.com, 1, regex matches, 1, Has a valid smtp server, No handshake
+vivekmishra1969@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK dt7si15499202pdb.77 - gsmtp
+aspine@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK fu9si15576983pac.13 - gsmtp
+vandanaks99@rediffmail.com, 1, regex matches, 1, Has a valid smtp server, No handshake
+mustafafakhruddin22@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK q7si15301500pap.235 - gsmtp
+rakeshsachin200@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ov9si15389656pbb.138 - gsmtp
+makinenidharmendra@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK k3si15562661pdj.35 - gsmtp
+sarojpareek51@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ah8si15330011pad.214 - gsmtp
+nagpal.harry11@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK mp2si15451145pbc.85 - gsmtp
+vyshnavibasude@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ag7si12048137pad.228 - gsmtp
+sirilteja2012@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK 12si15431465pde.142 - gsmtp
+msah321@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK zn6si15451077pac.126 - gsmtp
+aman.aggarwal1641@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK yv4si15456265pac.119 - gsmtp
+aishwarya1925@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK vr2si15398549pbc.134 - gsmtp
+mohammadghaziraza@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK qm9si15350192pbb.170 - gsmtp
+mayank.kishore@yahoo.co.in, 1, regex matches, 1, Has a valid smtp server, No handshake
+manashboro19@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 550, "5.1.1 The email account that you tried to reach does not exist. Please try\n5.1.1 double-checking the recipients email address for typos or\n5.1.1 unnecessary spaces. Learn more at\n5.1.1 http://support.google.com/mail/bin/answer.py?answer=6596 bs2si15520623pad.67 - gsmtp"
+dikshanjain@yahoo.co.in, 1, regex matches, 1, Has a valid smtp server, No handshake
+naresh102011@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK wr6si15456943pbc.82 - gsmtp
+sainani990@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK uq10si15430365pac.140 - gsmtp
+rajumar25@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK qr3si15464004pbb.78 - gsmtp
+mahmoodul222@yahoo.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, recipient <mahmoodul222@yahoo.com> ok
+alfiyalatheef17@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK nn2si13829929pbc.25 - gsmtp
+rasaindane@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ko2si15310687pdb.230 - gsmtp
+sruthibharath@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK qn8si15480940pab.101 - gsmtp
+avanik@live.com, 1, regex matches, 1, Has a valid smtp server, No handshake
+drsuraj3012@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK v8si15313809pdq.235 - gsmtp
+sanghvianurag2602@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK lu17si15413203pab.157 - gsmtp
+ansh2frnds@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK qs6si15441719pbc.100 - gsmtp
+arorakeshav502@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK xr7si15398334pab.168 - gsmtp
+vishalkumar970931@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK nr8si15600055pdb.5 - gsmtp
+vgupta628@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK fe2si5888661pab.97 - gsmtp
+puneetsingh71@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK m4si15371720pby.149 - gsmtp
+chintamanimane97@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 550, "5.1.1 The email account that you tried to reach does not exist. Please try\n5.1.1 double-checking the recipients email address for typos or\n5.1.1 unnecessary spaces. Learn more at\n5.1.1 http://support.google.com/mail/bin/answer.py?answer=6596 gj9si6147657pbc.35 - gsmtp"
+ajaynkatte@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK z4si15409917pdm.161 - gsmtp
+nanduvidya.nandu123@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK qg3si15561033pdb.36 - gsmtp
+ravnit71@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK fm4si15380808pac.172 - gsmtp
+manilkumarmlb@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ql8si15403075pac.165 - gsmtp
+dahiyashubham218@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK tb5si15512664pbc.46 - gsmtp
+Mridulbhatia28@gmail.com, -1, regex not formed
+suyashjain09@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK y13si15508293pde.84 - gsmtp
+123arunarju@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK cl2si11276091pad.133 - gsmtp
+vishalmohant@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 550, "5.1.1 The email account that you tried to reach does not exist. Please try\n5.1.1 double-checking the recipients email address for typos or\n5.1.1 unnecessary spaces. Learn more at\n5.1.1 http://support.google.com/mail/bin/answer.py?answer=6596 pf6si7153395pdb.92 - gsmtp"
+divyanshu.7000@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK yl3si15531436pac.62 - gsmtp
+gv@yahoo.in, 1, regex matches, 0, No smtp found, 
+sritimegha123@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK no12si15343224pdb.214 - gsmtp
+ymohan120@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK q1si15595557pap.8 - gsmtp
+itskrishanu@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK nt3si15388608pdb.180 - gsmtp
+santhoshsrinivasan99@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK an4si15579132pad.25 - gsmtp
+umararshad@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK gv11si15499010pbd.52 - gsmtp
+ojalkumar16327@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ln9si15295084pbc.222 - gsmtp
+abhiitk888@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK u1si2562827pdi.60 - gsmtp
+pragnaviperumalla@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK xv8si15427833pab.150 - gsmtp
+paro9432@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ow1si15426252pbb.118 - gsmtp
+anandjohnabraham@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ot2si15509309pbb.53 - gsmtp
+ajithavctr@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK k7si15404010pdn.173 - gsmtp
+vishal.mishra@outlook.in, 1, regex matches, 1, Has a valid smtp server, No handshake
+abhinavcowkur@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK wp3si15614259pab.1 - gsmtp
+jayti.saumya@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK nb8si15559890pbc.9 - gsmtp
+Deepdesai76@gmail.com, -1, regex not formed
+amal.m.siby@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK qa8si15321430pbb.201 - gsmtp
+r.saisuryamadhav@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK bq14si15408571pdb.169 - gsmtp
+pghanshyam95@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK kd3si15287828pbc.233 - gsmtp
+shubham.shinde1248@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK gl1si15357372pbd.174 - gsmtp
+aditya.adi561@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK tw10si15382498pab.190 - gsmtp
+Muskaanagr22@gmail.com, -1, regex not formed
+nikki123naveena@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ra3si8535410pab.49 - gsmtp
+narang_monica@yahoo.in, 1, regex matches, 0, No smtp found, 
+sk6316208@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK e12si15562182pat.39 - gsmtp
+sayanpaul6797@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK jf9si15394338pbd.143 - gsmtp
+AYUSHGOYAL14@GMAIL.COM, -1, regex not formed
+vimalpramod637@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK fu9si15596210pac.13 - gsmtp
+vidyadharmech@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK iu6si15352918pbc.180 - gsmtp
+ave.aman@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK yt1si15539149pab.64 - gsmtp
+pshkr.shukla@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ry9si15395472pbc.147 - gsmtp
+ajaydua1181@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK kf15si15467182pbb.74 - gsmtp
+zack7z@hotmail.com, 1, regex matches, 1, Has a valid smtp server, No handshake
+sumansaurav789@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK no7si15537195pbc.31 - gsmtp
+Dobariya_ankit@live.com, -1, regex not formed
+dghds@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 550, "5.1.1 The email account that you tried to reach does not exist. Please try\n5.1.1 double-checking the recipients email address for typos or\n5.1.1 unnecessary spaces. Learn more at\n5.1.1 http://support.google.com/mail/bin/answer.py?answer=6596 sz8si15470246pbc.86 - gsmtp"
+bpatil12389@yahoo.com, 1, regex matches, 1, Has a valid smtp server, No handshake
+shakimails@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ys1si15396224pab.181 - gsmtp
+slathiags@rediffmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, ok
+saiprakash2910@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK t5si15533454pdh.70 - gsmtp
+gadiyanj@hotmail.com, 1, regex matches, 1, Has a valid smtp server, No handshake
+perla.akhil@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ql8si15414992pac.165 - gsmtp
+prashanth1994@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK e15si15251484pdl.240 - gsmtp
+shubhamsinghstu@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK oq6si15363239pdb.203 - gsmtp
+putluru.deshikreddy@facebook.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, RCPT TO accepted
+shaurya.singh083@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK pk3si15413110pdb.166 - gsmtp
+shivammaheshwari1987@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK kq9si15460994pbc.98 - gsmtp
+adityamu@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK w1si15352782pdj.216 - gsmtp
+vishalmohanty@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK rl4si15352206pbc.183 - gsmtp
+sehabaz1996@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK v3si14373548pdd.245 - gsmtp
+abhinav_padmawar@yahoo.in, 1, regex matches, 0, No smtp found, 
+786saxenayash@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ob9si15512138pbb.57 - gsmtp
+tekuruyogesh@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ai1si15427385pad.158 - gsmtp
+avinash.aacharya@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK xr7si15415338pab.168 - gsmtp
+shrutipatil1996@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK zv7si15601539pac.17 - gsmtp
+vltsharma@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK bl9si15563538pdb.47 - gsmtp
+avinashgunturu@yahoo.in, 1, regex matches, 0, No smtp found, 
+rajavinaash@yahoo.com, 1, regex matches, 1, Has a valid smtp server, No handshake
+moheet.maurya@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ur7si15564733pac.51 - gsmtp
+tathi44u@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 550, "5.1.1 The email account that you tried to reach does not exist. Please try\n5.1.1 double-checking the recipients email address for typos or\n5.1.1 unnecessary spaces. Learn more at\n5.1.1 http://support.google.com/mail/bin/answer.py?answer=6596 ps7si5165410pdb.209 - gsmtp"
+akashbera111213@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ny10si2996208pdb.105 - gsmtp
+HARSHIT.SHARMA011@GMAIL.COM, -1, regex not formed
+mithileshrai.mithi@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK z1si15495616pas.104 - gsmtp
+aps75@rediffmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, ok
+damodharpalreddy@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK kf15si15475038pbb.74 - gsmtp
+me14b027@smail.iitm.ac.in, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 Ok
+fazalshaik985@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK di1si15429464pbc.126 - gsmtp
+rnt1998nikita@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK p14si15442467pdj.152 - gsmtp
+dhairya.vayada.1@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK lp6si15409676pab.176 - gsmtp
+ballanavya211@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK nm9si15304131pbc.221 - gsmtp
+dianachkraborty@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK wo6si8319704pab.35 - gsmtp
+sbshreeks@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ln9si15311086pbc.222 - gsmtp
+twinklingstarlubna@yahoo.com, 1, regex matches, 1, Has a valid smtp server, No handshake
+abhishek.fmath@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ow1si15441109pbb.118 - gsmtp
+ahammedafrin@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK gr3si15325679pbc.207 - gsmtp
+gchand10@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 550, "5.1.1 The email account that you tried to reach does not exist. Please try\n5.1.1 double-checking the recipients email address for typos or\n5.1.1 unnecessary spaces. Learn more at\n5.1.1 http://support.google.com/mail/bin/answer.py?answer=6596 to5si15422632pbc.133 - gsmtp"
+pola_sekhar@yahoo.co.in, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, recipient <pola_sekhar@yahoo.co.in> ok
+abhisheksinghdoremon152@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ph9si15296431pbb.236 - gsmtp
+adityapopuri98@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ph9si15296725pbb.236 - gsmtp
+kpmnerdy@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK zr1si15520098pac.90 - gsmtp
+VAGHELAAVI111@GMAIL.COM, -1, regex not formed
+98749rick@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK y5si15481066pdj.119 - gsmtp
+adityapopuri@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK xc6si15270048pbc.255 - gsmtp
+dhrumilfichadiya@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ss3si15400805pbc.155 - gsmtp
+dharani56525@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ro9si15394052pab.183 - gsmtp
+arshadghouse1@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ok17si15505002pab.100 - gsmtp
+dr.mutluru@yahoo.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, recipient <dr.mutluru@yahoo.com> ok
+jasminnisam@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK jf9si15409252pbd.143 - gsmtp
+SAHILCOMPUTERS@GMAIL.COM, -1, regex not formed
+gauri172002@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ff10si7399153pab.241 - gsmtp
+malvika_110@yahoo.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, recipient <malvika_110@yahoo.com> ok
+charms1990@yahoo.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, recipient <charms1990@yahoo.com> ok
+dishashroff21@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK j15si15576698pdl.50 - gsmtp
+manojkumark4u@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK h9si15564811pat.57 - gsmtp
+mannusingh855@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK kv14si15600484pab.28 - gsmtp
+pavankatta11198@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK be3si15517524pdb.96 - gsmtp
+harshitsharma321205@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK oq4si15579577pbb.10 - gsmtp
+shoaib_khan567@yahoo.com, 1, regex matches, 1, Has a valid smtp server, No handshake
+abhimanyu906sona@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK d7si15338374pdf.238 - gsmtp
+subashchandra500boses@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 550, "5.1.1 The email account that you tried to reach does not exist. Please try\n5.1.1 double-checking the recipients email address for typos or\n5.1.1 unnecessary spaces. Learn more at\n5.1.1 http://support.google.com/mail/bin/answer.py?answer=6596 od7si847797pdb.99 - gsmtp"
+gouthamchandra25bose@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK rb1si15432811pab.164 - gsmtp
+sdsaitej406@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK 4si15539375pdx.78 - gsmtp
+surajit.sarkar65@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK x14si15330654pdl.239 - gsmtp
+hemsainaidu@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ut9si15563067pac.59 - gsmtp
+pavanswaroop.l@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK wz2si15530988pab.87 - gsmtp
+rhdevina@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK pv10si3008391pdb.223 - gsmtp
+manubaby0013@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK yh8si15591676pab.33 - gsmtp
+zyanglb@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK hv5si15586835pad.40 - gsmtp
+saqibshafi44@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ph9si15305033pbb.236 - gsmtp
+kalesanjay12345@yahoo.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, recipient <kalesanjay12345@yahoo.com> ok
+kirthi099@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK dw7si15585390pab.43 - gsmtp
+a.brindasrisahithi@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK rh8si15525051pbc.56 - gsmtp
+shadanandsingh007@rediffmail.com, 1, regex matches, 1, Has a valid smtp server, No handshake
+gowtham.m81197@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK kj4si15607135pdb.21 - gsmtp
+krrishchampn@rediffmail.com, 1, regex matches, 1, Has a valid smtp server, No handshake
+shahzeb6295@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ri6si15543775pdb.75 - gsmtp
+loksairockz.123@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK sz8si15492355pbc.86 - gsmtp
+lalitha0516@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ql8si15435761pac.165 - gsmtp
+fantasticpcgames@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK fn13si15353661pdb.228 - gsmtp
+nitish76168@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 550, "5.1.1 The email account that you tried to reach does not exist. Please try\n5.1.1 double-checking the recipients email address for typos or\n5.1.1 unnecessary spaces. Learn more at\n5.1.1 http://support.google.com/mail/bin/answer.py?answer=6596 uf4si15493409pab.122 - gsmtp"
+nihals355@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK hr7si15284630pbc.257 - gsmtp
+srivanicuty@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK rg9si4616411pdb.133 - gsmtp
+blaazerboy@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK nj7si13388261pdb.171 - gsmtp
+noumanhumayun99@yahoo.in, 1, regex matches, 0, No smtp found, 
+pramodek19@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK yh8si15597457pab.33 - gsmtp
+k.v.appajee@gsk.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 550, 5.7.1 Service unavailable; Client host 122.160.99.86 blocked using FBLW15; To request removal from this list please forward this message to delist@messaging.microsoft.com
+snikhat30@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK d7si15347689pdf.238 - gsmtp
+wahid011997@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK or10si15405786pdb.192 - gsmtp
+aastikm8@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK pv10si3016325pdb.223 - gsmtp
+yerrapragadakashyap@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK cd8si15515847pdb.107 - gsmtp
+shefali.shekhar@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ln9si15328594pbc.222 - gsmtp
+ajaygoel1976@hotmail.com, 1, regex matches, 1, Has a valid smtp server, No handshake
+viralshah66@yahoo.com, 1, regex matches, 1, Has a valid smtp server, No handshake
+Ataurrehman987@yahoo.com, -1, regex not formed
+dudi4202@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK v10si15417363pdo.185 - gsmtp
+indrajeetsingh9242@outlook.com, 1, regex matches, 1, Has a valid smtp server, No handshake
+inmaamdu@yahoo.com, 1, regex matches, 1, Has a valid smtp server, No handshake
+rupa.wwxx@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK j9si8504365pdn.241 - gsmtp
+ekta2498@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK nn8si15546541pdb.79 - gsmtp
+maitreyee1916@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK rr7si15348707pab.233 - gsmtp
+vijayganpatraochandekar@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK tw10si15413932pab.190 - gsmtp
+muraliswetha42@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK a8si15348209pdp.244 - gsmtp
+vishnuvardhanreddy@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK rh4si15510710pdb.115 - gsmtp
+rajan_cbe@yahoo.com, 1, regex matches, 1, Has a valid smtp server, No handshake
+sunilkumardahiya@yahoo.com, 1, regex matches, 1, Has a valid smtp server, No handshake
+aruna_1294@yahoo.in, 1, regex matches, 0, No smtp found, 
+ssbulusu43@yahoo.com, 1, regex matches, 1, Has a valid smtp server, No handshake
+anmolkumar1596@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 550, "5.1.1 The email account that you tried to reach does not exist. Please try\n5.1.1 double-checking the recipients email address for typos or\n5.1.1 unnecessary spaces. Learn more at\n5.1.1 http://support.google.com/mail/bin/answer.py?answer=6596 os5si15384766pab.197 - gsmtp"
+parimalasiripurapu@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK pl10si15549643pbb.48 - gsmtp
+gfjfj@gmail.in, 1, regex matches, 0, No smtp found, 
+sipun45@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK wi6si15529448pbc.66 - gsmtp
+vdosaya@outlook.com, 1, regex matches, 1, Has a valid smtp server, No handshake
+krishnakumaric26@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK h4si549801pdk.18 - gsmtp
+achyuthbalaji97@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK qy3si15314338pbc.234 - gsmtp
+venky2398@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ie5si15377930pbc.186 - gsmtp
+bestking916@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK la3si15496492pab.123 - gsmtp
+yandavasomesh@yahoo.com, 1, regex matches, 1, Has a valid smtp server, No handshake
+mathew.renjith63@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK md10si15469431pdb.146 - gsmtp
+harikrishnakadali98@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK q5si15603086pdl.41 - gsmtp
+shashu97@live.in, 1, regex matches, 1, Has a valid smtp server, No handshake
+navalsinghal123@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK no12si15385469pdb.214 - gsmtp
+rocky.shekhawat.18@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK p5si15512107pdr.117 - gsmtp
+ak35623@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK y3si15529680pdi.101 - gsmtp
+piyuhtailor4@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 550, "5.1.1 The email account that you tried to reach does not exist. Please try\n5.1.1 double-checking the recipients email address for typos or\n5.1.1 unnecessary spaces. Learn more at\n5.1.1 http://support.google.com/mail/bin/answer.py?answer=6596 qd7si15504684pdb.124 - gsmtp"
+shivanshucool6@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ai1si15457800pad.158 - gsmtp
+manilkumarips@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ia10si15436103pbc.140 - gsmtp
+karthikrajapkt1994@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK wr6si15507554pbc.82 - gsmtp
+reggiigold@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK wa6si15545625pab.88 - gsmtp
+arunsingh_mgs@yahoo.com, 1, regex matches, 1, Has a valid smtp server, No handshake
+manjusha.muthinti@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ut9si15581338pac.59 - gsmtp
+bvrao4all@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK to5si15403112pab.203 - gsmtp
+nikhildavid@email.com, 1, regex matches, 1, Has a valid smtp server, No handshake
+shubhamnikam220@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK xi3si15513137pab.118 - gsmtp
+manish4mishra@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ub6si15392393pab.213 - gsmtp
+anujtripathi997@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 550, "5.1.1 The email account that you tried to reach does not exist. Please try\n5.1.1 double-checking the recipients email address for typos or\n5.1.1 unnecessary spaces. Learn more at\n5.1.1 http://support.google.com/mail/bin/answer.py?answer=6596 e8si15402560pas.199 - gsmtp"
+kushal.mit16@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK nu13si12747989pdb.40 - gsmtp
+puneetkansal125@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ne7si15555843pbc.49 - gsmtp
+me.mkjain@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK tv6si6189685pab.83 - gsmtp
+lalitkansal.kansal@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 550, "5.1.1 The email account that you tried to reach does not exist. Please try\n5.1.1 double-checking the recipients email address for typos or\n5.1.1 unnecessary spaces. Learn more at\n5.1.1 http://support.google.com/mail/bin/answer.py?answer=6596 ea2si15647270pad.6 - gsmtp"
+lko.abha@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK oi7si15405765pbb.169 - gsmtp
+coolmahi98mj@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK wo6si8349234pab.35 - gsmtp
+suryaips@yahoo.co.in, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, recipient <suryaips@yahoo.co.in> ok
+satvikranjan1988@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK pz3si15344656pbb.212 - gsmtp
+padmajakvk@yahoo.co.in, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, recipient <padmajakvk@yahoo.co.in> ok
+navneet1997gupta@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK y3si15534700pdi.101 - gsmtp
+beeresh200013vision@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK cz4si15441511pdb.172 - gsmtp
+shiva_upes@rediffmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, ok
+Rkaif007@gmail.com, -1, regex not formed
+talhamanzoor27197@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK sa5si15426209pbc.154 - gsmtp
+RJVKMR98@GMAIL.COM, -1, regex not formed
+www.farada@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK rg9si4633718pdb.133 - gsmtp
+leninislenin@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK a10si15612044pat.37 - gsmtp
+pranabmondal1000@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK tw8si15611088pbc.2 - gsmtp
+pratibhasharma1@hotmail.com, 1, regex matches, 1, Has a valid smtp server, No handshake
+aroy98366@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK pt2si15363389pbb.199 - gsmtp
+kamraj65@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK lu17si15468128pab.157 - gsmtp
+kabitagr4@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK tn3si15656431pab.3 - gsmtp
+aspcheruvadi@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 550, "5.1.1 The email account that you tried to reach does not exist. Please try\n5.1.1 double-checking the recipients email address for typos or\n5.1.1 unnecessary spaces. Learn more at\n5.1.1 http://support.google.com/mail/bin/answer.py?answer=6596 ok17si15535001pab.100 - gsmtp"
+fanindranathc@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK d2si15361024pat.238 - gsmtp
+jchitturi1@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK 12si15491913pde.142 - gsmtp
+srsuguru.phy@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK nq15si15388267pdb.212 - gsmtp
+swapnilmandloi46@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 550, "5.1.1 The email account that you tried to reach does not exist. Please try\n5.1.1 double-checking the recipients email address for typos or\n5.1.1 unnecessary spaces. Learn more at\n5.1.1 http://support.google.com/mail/bin/answer.py?answer=6596 rw1si15479036pbc.114 - gsmtp"
+madhu2u4u@rediffmail.com, 1, regex matches, 1, Has a valid smtp server, No handshake
+hi.pranavchand.t@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK w1si15393272pdj.216 - gsmtp
+akhileshsarodaya192@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK cp3si15436808pdb.184 - gsmtp
+narsid6@rediffmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, ok
+gowthami.koravi@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK hz4si15614827pbb.8 - gsmtp
+licbabita@yahoo.com, 1, regex matches, 1, Has a valid smtp server, No handshake
+akshay.kamboj.31508@facebook.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 550, 5.1.1 RCP-P1 http://postmaster.facebook.com/response_codes?ip=203.122.8.234#rcp Recipient address does not exist
+sonamkhadka98@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK xc6si15303408pbc.255 - gsmtp
+burmanmoloy@yahoo.co.in, 1, regex matches, 1, Has a valid smtp server, No handshake
+nazeerauh@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK pp4si15621876pbb.0 - gsmtp
+kusum2858@rediff.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, ok
+satpathy.mamata2@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ll8si15392747pab.217 - gsmtp
+vraj1000@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK vp9si15608762pab.47 - gsmtp
+phatakyashraj@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK yk1si15533330pab.107 - gsmtp
+shrutig30@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK qa8si15371658pbb.201 - gsmtp
+hellow240@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK xm9si15404565pab.209 - gsmtp
+adusaji8@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK rm3si15450719pbc.142 - gsmtp
+ninad613@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK pz1si15464411pdb.159 - gsmtp
+gagan_chinnu@yahoo.com.sg, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, recipient <gagan_chinnu@yahoo.com.sg> ok
+munishdiwan@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK x10si15646592pdk.16 - gsmtp
+venktakubera@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK pp4si15624805pbb.0 - gsmtp
+sha.dpa@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK a10si15619600pat.37 - gsmtp
+1998ashutoshms@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK i8si15543701pdm.106 - gsmtp
+rohitkakanoor@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK z1si15593057pdj.64 - gsmtp
+bishalkumar810@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK b1si15660046pdh.9 - gsmtp
+bishalkumar890@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK r16si15638724pdi.27 - gsmtp
+arvindkumar2342@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK gi4si15322446pbc.243 - gsmtp
+panditfrnds@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK l1si15643607pdo.19 - gsmtp
+mink_aich@yahoo.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, recipient <mink_aich@yahoo.com> ok
+bsnair1988@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK yr7si15656008pac.4 - gsmtp
+umavythi@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK zv7si15647532pac.17 - gsmtp
+srikanthvemula777@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK h10si15420873pat.194 - gsmtp
+www.prathyuchandras@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 550, "5.1.1 The email account that you tried to reach does not exist. Please try\n5.1.1 double-checking the recipients email address for typos or\n5.1.1 unnecessary spaces. Learn more at\n5.1.1 http://support.google.com/mail/bin/answer.py?answer=6596 wm10si15626085pab.36 - gsmtp"
+sahumayank371@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK gl1si15411782pbd.174 - gsmtp
+antimob23@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK wp13si15377660pac.230 - gsmtp
+sankalpnainwal@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK io10si15322160pbc.246 - gsmtp
+naseemsumayya@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK yp6si15511862pab.129 - gsmtp
+Ikhtiaralom555@gmail.com, -1, regex not formed
+shreyas.aiyar04@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ok3si15377218pdb.234 - gsmtp
+jaibhargava200@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 550, "5.1.1 The email account that you tried to reach does not exist. Please try\n5.1.1 double-checking the recipients email address for typos or\n5.1.1 unnecessary spaces. Learn more at\n5.1.1 http://support.google.com/mail/bin/answer.py?answer=6596 vv1si15493710pbc.109 - gsmtp"
+anvyat19@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK iu6si15407236pbc.180 - gsmtp
+acchugh08@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK pu1si15414952pbb.173 - gsmtp
+kumardeepesh123@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ty9si15485957pbc.120 - gsmtp
+muhammadbashir809@yahoo.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, recipient <muhammadbashir809@yahoo.com> ok
+Priencekumarjha@nokiamail.com, -1, regex not formed
+lightpankajevol@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ag7si12120226pad.228 - gsmtp
+rav.raj84@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK on8si15373713pdb.242 - gsmtp
+aries.ajay1@outlook.com, 1, regex matches, 1, Has a valid smtp server, No handshake
+nkumar_navy@mailcity.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 Ok
+amitoct30@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK fs12si15599629pdb.56 - gsmtp
+omaditya123@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ot4si8579830pab.22 - gsmtp
+rishabhmehra82@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK qn10si14766780pdb.256 - gsmtp
+pragdgjdh@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 550, "5.1.1 The email account that you tried to reach does not exist. Please try\n5.1.1 double-checking the recipients email address for typos or\n5.1.1 unnecessary spaces. Learn more at\n5.1.1 http://support.google.com/mail/bin/answer.py?answer=6596 qs1si15426869pbb.167 - gsmtp"
+rajatparashar2910@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ta9si15334675pbc.241 - gsmtp
+tharejameenakshi@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ue3si15519152pab.125 - gsmtp
+yashjain9365@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK 4si15592779pdj.69 - gsmtp
+Macme1374@gmail.com, -1, regex not formed
+imthakuravinash@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK fw3si15632673pdb.30 - gsmtp
+madanm.aarnav@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK yr7si15663069pac.4 - gsmtp
+kachu97@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK mz3si15436706pbc.162 - gsmtp
+kmchariiiit@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK oy3si15627806pdb.34 - gsmtp
+saurav.co.in.com@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK j1si3235586pdm.39 - gsmtp
+sonipalkesh.rock@yahoo.in, 1, regex matches, 0, No smtp found, 
+rajprnsg7@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ew2si15437190pdb.190 - gsmtp
+darshilkarani@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK nt3si15455661pdb.180 - gsmtp
+akanshaverma1999@outlook.com, 1, regex matches, 1, Has a valid smtp server, No handshake
+krishna.saradha@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK hu1si15531233pdb.118 - gsmtp
+praveen.gupta1734@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK je7si15616081pbd.15 - gsmtp
+manoranjan990@yahoo.co.in, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, recipient <manoranjan990@yahoo.co.in> ok
+radhikarele99@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK no12si15412063pdb.214 - gsmtp
+priyanka.gusainn@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK b5si15673678pdc.8 - gsmtp
+salmanasif35@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ry9si15456778pbc.147 - gsmtp
+JHUHU@gmail.com, -1, regex not formed
+bhagatsinghdatick40@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK tn3si15675228pab.3 - gsmtp
+styl_avi@ymail.com, 1, regex matches, 1, Has a valid smtp server, No handshake
+nitinkamalsood1983@yahoo.in, 1, regex matches, 0, No smtp found, 
+sabareesh_dharan@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 550, "5.1.1 The email account that you tried to reach does not exist. Please try\n5.1.1 double-checking the recipients email address for typos or\n5.1.1 unnecessary spaces. Learn more at\n5.1.1 http://support.google.com/mail/bin/answer.py?answer=6596 m4si15444517pby.149 - gsmtp"
+sinhakamli@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK oq4si15625058pbb.10 - gsmtp
+sunilkumarindia@yahoo.com, 1, regex matches, 1, Has a valid smtp server, No handshake
+sakshibalunig@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 550, "5.1.1 The email account that you tried to reach does not exist. Please try\n5.1.1 double-checking the recipients email address for typos or\n5.1.1 unnecessary spaces. Learn more at\n5.1.1 http://support.google.com/mail/bin/answer.py?answer=6596 e9si15662328pas.9 - gsmtp"
+mounika_gona@yahoo.com, 1, regex matches, 1, Has a valid smtp server, No handshake
+deepikarachapudi10@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK rr7si15382943pab.233 - gsmtp
+pardeep.agarwal4@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK nn8si15581452pdb.79 - gsmtp
+adarshmishrarocker@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK wg4si15611419pab.58 - gsmtp
+meetugirdhar4@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK pl10si15582408pbb.48 - gsmtp
+shrivastavasmriti93@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK g2si15496859pdj.155 - gsmtp
+saikrishna767@rocketmail.com, 1, regex matches, 1, Has a valid smtp server, No handshake
+shahidsiraj06@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK nx10si15473340pbb.132 - gsmtp
+yogenderahlawat1991@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK qy3si15346858pbc.234 - gsmtp
+dipak.bhatt2@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK fw3si15416893pbb.182 - gsmtp
+swarnabd311@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK g8si15678811pdf.6 - gsmtp
+sauravkaushik01@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK oc17si15565386pdb.97 - gsmtp
+malhotraraktima@yahoo.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, recipient <malhotraraktima@yahoo.com> ok
+mfuzail98@yahoo.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, recipient <mfuzail98@yahoo.com> ok
+sureshraoyadav09@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK fn9si15398089pab.229 - gsmtp
+shashikumarkushwaha3@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK yg1si15490284pbb.119 - gsmtp
+ritesh77777reddy@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK f2si15499892pas.147 - gsmtp
+ashok.sravanthi5@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK lm2si15430022pab.198 - gsmtp
+solankiumesh@rocketmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, recipient <solankiumesh@rocketmail.com> ok
+rohitbwb@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK qn8si15562035pab.101 - gsmtp
+sanjaysingh_19@yahoo.com, 1, regex matches, 1, Has a valid smtp server, No handshake
+r.manjubhargavi@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK nl8si15329928pbc.250 - gsmtp
+aryavaayush.pandey28@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ny4si15335339pbb.247 - gsmtp
+kajimuddin74@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK qc5si15501868pdb.147 - gsmtp
+anshikakulshrestha@yahoo.co.in, 1, regex matches, 1, Has a valid smtp server, No handshake
+pandeyaryav@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK xt17si15417060pac.212 - gsmtp
+balodikanu124@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK mz9si15430513pdb.205 - gsmtp
+1221prajwalsk@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 550, "5.1.1 The email account that you tried to reach does not exist. Please try\n5.1.1 double-checking the recipients email address for typos or\n5.1.1 unnecessary spaces. Learn more at\n5.1.1 http://support.google.com/mail/bin/answer.py?answer=6596 v8si15631905pdn.49 - gsmtp"
+ramanidas01@yahoo.co.in, 1, regex matches, 1, Has a valid smtp server, No handshake
+nmscolachal@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK if2si15531568pbc.95 - gsmtp
+ashish.rock844@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK qz10si14473096pab.54 - gsmtp
+katyaldeepanshu24@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK z9si15405927par.226 - gsmtp
+guruveshgarg@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 550, "5.1.1 The email account that you tried to reach does not exist. Please try\n5.1.1 double-checking the recipients email address for typos or\n5.1.1 unnecessary spaces. Learn more at\n5.1.1 http://support.google.com/mail/bin/answer.py?answer=6596 tw10si15455375pab.190 - gsmtp"
+Kushagra.Agarwal.19@gmail.com, -1, regex not formed
+mandeepchauhan144@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK de3si10753186pbb.50 - gsmtp
+chandanrajkumar420@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK pf6si7233463pdb.92 - gsmtp
+ideal.rewari@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK aj3si11170383pad.31 - gsmtp
+zeelpatel2500@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ly7si15581348pdb.85 - gsmtp
+agarwal.niyati99@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ea2si15681043pad.6 - gsmtp
+preethimallikarjun4@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK e4si15653313pdk.32 - gsmtp
+likisahu@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ui5si15529946pab.130 - gsmtp
+pradyumnajalan@yahoo.in, 1, regex matches, 0, No smtp found, 
+isaac@kimani.com, 1, regex matches, 1, Has a valid smtp server, 250, 553, 503, MAIL first #5.5.1
+krishna.manmohan08@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK rd7si15393612pab.231 - gsmtp
+anireji1676@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 550, "5.1.1 The email account that you tried to reach does not exist. Please try\n5.1.1 double-checking the recipients email address for typos or\n5.1.1 unnecessary spaces. Learn more at\n5.1.1 http://support.google.com/mail/bin/answer.py?answer=6596 ue3si15535512pab.125 - gsmtp"
+sachin.paul124@rediffmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, ok
+amitdctm.csc@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK kn1si15204347pdb.154 - gsmtp
+vinayrawat4739@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK g6si15652608pat.30 - gsmtp
+qualitylaminators.12@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK gu10si15532556pbc.92 - gsmtp
+gshivam2011@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK d2si15547413pdn.120 - gsmtp
+netneeds09@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK pz3si15380278pbb.212 - gsmtp
+vinayakvinit2@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK i1si15613630pdk.67 - gsmtp
+Purplick86@gmail.com, -1, regex not formed
+simrangade@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK fq10si15529663pdb.137 - gsmtp
+manvendra4n@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK e17si15559778pdm.112 - gsmtp
+jagshir1971@yahoo.com, 1, regex matches, 1, Has a valid smtp server, No handshake
+chanduk@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK fn10si15614449pab.65 - gsmtp
+garigoyal22@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK mk4si15585438pab.89 - gsmtp
+anurag10214@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK bs8si15527115pdb.136 - gsmtp
+rashmil@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 550, "5.1.1 The email account that you tried to reach does not exist. Please try\n5.1.1 double-checking the recipients email address for typos or\n5.1.1 unnecessary spaces. Learn more at\n5.1.1 http://support.google.com/mail/bin/answer.py?answer=6596 nl8si15338889pbc.250 - gsmtp"
+preethimallikarjun@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK uq10si15522594pac.140 - gsmtp
+getme_prat2020@rediffmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, ok
+kavishjadon9@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK k10si15592609pdo.86 - gsmtp
+praveen4606@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ns5si15434749pbc.178 - gsmtp
+chandanaochandu@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK sl7si15499307pab.159 - gsmtp
+azam.hussainn@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK sy4si15479807pab.175 - gsmtp
+yonouskhan@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK hp6si15636282pbc.11 - gsmtp
+nsnaitikpcm@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK dx4si15544263pbb.90 - gsmtp
+vanitharravichandran@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ez8si15497205pdb.164 - gsmtp
+likhit9kangokar@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK fa9si15483453pab.171 - gsmtp
+priyanshsinghvi@yahoo.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, recipient <priyanshsinghvi@yahoo.com> ok
+Jhawarg241@gmail.com, -1, regex not formed
+kaushik099@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK d2si15552340pdn.120 - gsmtp
+sitikantha.sen@rediffmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, ok
+rameshvadla72@yahoo.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, recipient <rameshvadla72@yahoo.com> ok
+athult3@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK nm14si15678866pdb.12 - gsmtp
+raghavjindal74@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK gf1si15553348pbc.79 - gsmtp
+veeraraju9948@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK 3si15504069pdd.158 - gsmtp
+anilaramnath1551999@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 550, "5.1.1 The email account that you tried to reach does not exist. Please try\n5.1.1 double-checking the recipients email address for typos or\n5.1.1 unnecessary spaces. Learn more at\n5.1.1 http://support.google.com/mail/bin/answer.py?answer=6596 bn9si15632500pdb.54 - gsmtp"
+hemanthgogulla@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK l9si15596124pdp.89 - gsmtp
+krishvr40@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK kf9si15569219pbc.70 - gsmtp
+ahammedaafrin@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 550, "5.1.1 The email account that you tried to reach does not exist. Please try\n5.1.1 double-checking the recipients email address for typos or\n5.1.1 unnecessary spaces. Learn more at\n5.1.1 http://support.google.com/mail/bin/answer.py?answer=6596 kz17si15623482pab.60 - gsmtp"
+rampersonalid@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK mt1si15504290pbb.128 - gsmtp
+pratham@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK xw3si4877114pab.26 - gsmtp
+vcsreddy333@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK lq5si15644496pab.45 - gsmtp
+divyancheeverma4@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK h8si3409378pde.210 - gsmtp
+manisha2908.ms.ms@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK j1si15514026pdf.156 - gsmtp
+amit.budhwan@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK z8si15642262pdp.51 - gsmtp
+davisbenny3@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK gm1si3450261pbb.164 - gsmtp
+subhrajoychatterjee98@yahoo.com, 1, regex matches, 1, Has a valid smtp server, No handshake
+suvam.thakura@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK bl9si15642923pdb.47 - gsmtp
+sgtmsybaig@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK zd8si15673069pac.24 - gsmtp
+shivangi.512.137@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ig5si15606394pbc.39 - gsmtp
+shreymani@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK qu3si15592758pbc.58 - gsmtp
+SNEHCHAUHAN17@yahoo.com, -1, regex not formed
+sharma.anant1234@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK dx3si15462191pab.189 - gsmtp
+ashutoshkrishan.9@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK x14si15399179pdl.239 - gsmtp
+milapbrar5@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK oe1si15110604pbb.20 - gsmtp
+sandhya.empresscity@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK uk5si15452948pbc.168 - gsmtp
+patlolamadhukarreddy@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ny4si15354150pbb.247 - gsmtp
+satyanshu.singh512@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ai1si15510041pad.158 - gsmtp
+arundkumars57@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK uo3si1040371pac.48 - gsmtp
+chakrabortysumalya10@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK z9si15522193par.149 - gsmtp
+mayank123meeta@mail.com, 1, regex matches, 1, Has a valid smtp server, No handshake
+VARIANTGAMING1235@GMAIL.COM, -1, regex not formed
+pardhuchandra@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK k7si15496699pdn.173 - gsmtp
+bharath.rajeevan@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK jq3si15461382pbc.166 - gsmtp
+ssiddharth03@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK n8si15690670pdi.14 - gsmtp
+jahnavireddycnu@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK o7si15461725pds.200 - gsmtp
+repark16@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK qt4si15574962pbb.75 - gsmtp
+anwarrabia786@Gmail.com, -1, regex not formed
+samish2018@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 550, "5.1.1 The email account that you tried to reach does not exist. Please try\n5.1.1 double-checking the recipients email address for typos or\n5.1.1 unnecessary spaces. Learn more at\n5.1.1 http://support.google.com/mail/bin/answer.py?answer=6596 m2si15479937pdo.181 - gsmtp"
+firebirdcrime@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK hu6si15564793pac.115 - gsmtp
+voruganti.shashi@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK x6si15436139pdp.220 - gsmtp
+aaa@gmail.in, 1, regex matches, 0, No smtp found, 
+yashwanthreddy.sr@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK pv10si3080506pdb.223 - gsmtp
+gundukasatya@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK nu13si12800977pdb.40 - gsmtp
+rawatraj5590@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK mu1si15444811pdb.211 - gsmtp
+singhadarsh2012@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ty9si15523115pbc.120 - gsmtp
+vinayak.m.kusabi@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK os6si15396459pdb.248 - gsmtp
+anup5mukhe@yahoo.co.in, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, recipient <anup5mukhe@yahoo.co.in> ok
+chyaswanth5@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK fi4si15615076pbb.44 - gsmtp
+adarsh61@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK l1si15411381pdh.243 - gsmtp
+meenapune@yahoo.com, 1, regex matches, 1, Has a valid smtp server, No handshake
+vidhyamk88@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK jd10si15566365pbd.81 - gsmtp
+meghanalla3@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ir10si15591651pbc.62 - gsmtp
+suvam.sekhar@gmaiil.com, 1, regex matches, 0, No smtp found, 
+sandhya123pihu@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ny4si15360685pbb.247 - gsmtp
+vinnidaram@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ew2si15472035pdb.190 - gsmtp
+binduseema@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK g3si15594169pat.95 - gsmtp
+arjunravi98@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ub6si15449777pab.213 - gsmtp
+sandeepdubey44@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK np10si15491298pbc.145 - gsmtp
+aman.shah008@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK xu7si15687277pab.18 - gsmtp
+maggi20183@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK vw2si15638141pbc.27 - gsmtp
+ISHAJAIN365@YAHOO.COM, -1, regex not formed
+sjdrgh@skdrgh.com, 1, regex matches, 0, No smtp found, 
+tainp321@yahoo.in, 1, regex matches, 0, No smtp found, 
+sanuradharaghu@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK dt7si15615496pdb.77 - gsmtp
+test@sadlkhflkjsadlfj.com, 1, regex matches, 0, No smtp found, 
+ratuldas@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK cl8si15397845pdb.257 - gsmtp
+hemant832@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK xe5si15485949pab.185 - gsmtp
+amritpal307@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK ng1si15453416pbc.176 - gsmtp
+nabiulla.prince@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK nn2si13940226pbc.25 - gsmtp
+bhavpande@gmail.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, 2.1.5 OK i8si15591266pdm.106 - gsmtp
+sachin.sachin1987@yahoo.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 250, recipient <sachin.sachin1987@yahoo.com> ok
+testingakhil@askiitians.com, 1, regex matches, 1, Has a valid smtp server, 250, 250, 550, "5.1.1 The email account that you tried to reach does not exist. Please try\n5.1.1 double-checking the recipients email address for typos or\n5.1.1 unnecessary spaces. Learn more at\n5.1.1 http://support.google.com/mail/bin/answer.py?answer=6596 a9si15621642pas.76 - gsmtp"
