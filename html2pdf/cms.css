@@ -16,7 +16,7 @@ a:hover, a:act{outline:0;}
 sub, sup {position:relative;font-size:75%;line-height:0;vertical-align:baseline;}
 sup {top:-0.5em;}
 sub {bottom:-0.25em;}
-img {width:auto\9;height:auto;vertical-align:middle;border:0;-ms-interpolation-mode:bicubic;}
+img {width:auto\9;height:auto;vertical-align:middle;border:0;-ms-interpolation-mode:bicubic;margin-right:10px !important;margin-left:10px !important;}
 button, input, select, textarea {margin:0;font-size:100%;vertical-align:middle;}wid
 button, input {*overflow:visible;line-height:normal; outline:none;}
 button::-moz-focus-inner, input::-moz-focus-inner {padding:0;border:0;}
