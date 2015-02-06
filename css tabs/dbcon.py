@@ -15,8 +15,8 @@ home = os.getcwd()
 os.chdir('C:/Users/vaibhav.singhal')
 print(os.getcwd())
 
-f=open('credentials','r')
-f = f.readlines()
+f=open('credentials','r'
+)f = f.readlines()
 credentials = []
 for i in f:
 	i = i.replace('\n','')
