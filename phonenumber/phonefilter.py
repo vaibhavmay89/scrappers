@@ -1,6 +1,9 @@
 import re,os
 os.chdir('C:/Users/vaibhav.singhal/secrets')
 
+fname = 'grade 12	'
+
+
 def checkseq(number):
 	lis = []
 	for i in number: 
@@ -53,13 +56,13 @@ def similarity(number):
 			pass 
 
 	return(ratio) 
-f = open('mobilefiltering.csv','r')
+f = open(fname+'.csv','r')
 reject= []
 data = f.readlines()
 reRemoval = [r'[a-zA-Z]+']#,r]
 for i in range(0,len(reRemoval)):
 	reRemoval[i] = re.compile(reRemoval[i]) 
-f = open('reject2.txt','w')
+f = open(fname+'--reject.txt','w')
 # data = data[0].split('\n')
 removal = ['+91','-','\n','91+','91 ',' ','+undefined',"+",'"','n']
 
@@ -103,11 +106,11 @@ print len(data)
 print len(reject)
 rem = ['[',']',"'",'"']
 f.close()
-f=open('reject2.txt','r')
-print(f.read())
-f.close()
+# f=open(fname+'--reject.txt','r')
+# print(f.read())
+# f.close()
 
-f = open('accepted.txt','w')
+f = open(fname+'--acc.txt','w')
 for i in data:
 	if i in reject:
 		pass
