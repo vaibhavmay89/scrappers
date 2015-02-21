@@ -15,8 +15,8 @@ home = os.getcwd()
 os.chdir('C:/Users/vaibhav.singhal')
 print(os.getcwd())
 
-f=open('credentials','r'
-)f = f.readlines()
+f=open('credentials','r')
+f = f.readlines()
 credentials = []
 for i in f:
 	i = i.replace('\n','')
@@ -24,16 +24,14 @@ for i in f:
 
 conn = pymssql.connect(server=credentials[0],user=credentials[1],password=credentials[2],database=credentials[3])
 
-root_list = ['~/aieee/aieee-past-papers/',
-			'~/iit-jee-solutions/reverse-osmosis/']
+root_list = ['~/aieee/aieee-past-papers/','~/iit-jee-solutions/reverse-osmosis/']
 
 for url in root_list:
 	cursor=conn.cursor()
 	cursor.execute("""
 		SELECT TOP 10 VirtualURL
-FROM askiiti_askiitians.CMS_PageMaster
-WHERE VirtualURL LIKE ('%?%') AND VirtualURL <> '?'""",(url,url))
+FROM askiiti_askiitians.CMS_PageMaster""")
 
 
 	new = cursor2list(cursor)
-	print(len(new))
+print new
