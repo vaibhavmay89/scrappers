@@ -1,6 +1,7 @@
 import pymssql
 import os
 
+current = os.getcwd()
 
 def cursor2list(cursor):
 	cursor = list(cursor)
@@ -53,7 +54,7 @@ for i in range(0,len(data)) :
 home = os.getcwd()
 os.chdir('C:/Users/vaibhav.singhal')
 print(os.getcwd())
-
+# credentials[3]
 f=open('credentials','r')
 f = f.readlines()
 credentials = []
@@ -61,38 +62,25 @@ for i in f:
 	i = i.replace('\n','')
 	credentials.append(i)
 
-conn = pymssql.connect(server=credentials[0],user=credentials[1],password=credentials[2],database=credentials[3])
+conn = pymssql.connect(server=credentials[0],user=credentials[1],password=credentials[2],database="AskIITians_PD_7.4")
 
 
 ###########################################################################
+os.chdir(home)
+cursor=conn.cursor()
+cursor.execute("""
+ 	SELECT TOP 10 PackageID
+FROM askiiti_askiitians.PackageDetail where isactive = 1""")
+new = cursor2list(cursor)
+cursor.close()
 
-
-
+print new
 
 for i in range(0,len(data)):
- 	cursor=conn.cursor()
- 	cursor.execute("""
- 	SELECT TOP 10 PackageID ,
-        PackageName ,
-       
-        Price ,
-        IsCustomize ,
-       
-        PackageCode ,
-        IsActive ,
-        DateCreated ,
-        CourseDuration ,
-        Duration ,
-        Title ,
+	j = open(data[i][0]+".html",'r')
+	j = j.read()
+	print """
+	 UPDATE askiiti_askiitians.PackageDetail
+SET Description = '"""+j+"""'
+Where PackageName Like '%"""+str(data[i][0])+"""%';"""
 
-        Syllabus ,
-        TestCount ,
-        BatchStrength ,
-        Timings ,
-        USDPrice ,
-        MetaTitle ,
-
-        HeaderText
-FROM askiiti_askiitians.PackageDetail""")
-	new = cursor2list(cursor)
-print new
