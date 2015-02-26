@@ -30,7 +30,7 @@ for url in root_list:
 	cursor=conn.cursor()
 	cursor.execute("""
 		SELECT TOP 10 VirtualURL
-FROM askiiti_askiitians.CMS_PageMaster""")
+FROM askiiti_askiitians.CMS_PageMaster where pagecontent like '%<img%'""")
 
 
 	new = cursor2list(cursor)
