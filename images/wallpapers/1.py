@@ -3,7 +3,7 @@ import requests
 
 import shutil
 
-def getimage(url,fname):
+def getimage(url):
 	f = url.split("/")
 	fname = f[len(f)-1]
 	print(url)
