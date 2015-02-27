@@ -2,12 +2,15 @@ import re
 from lxml import etree
 import os 
 import PIL
-
+import requests
+import shutil
+width = 0 
 widthRe = re.compile(r'(width:\s*)(\d*)(px)',re.I)
 heightRe = re.compile(r'(height:\s*)(\d*)(px)')
-
+e1 = 0 
 def parser(row): 
-	global imageStats,widthRe,heightRe
+	global imageStats,widthRe,heightRe,width
+	e1 = row
 	text = imageStats[row][4][0]
 	print (text)
 	width = int((re.findall(pattern = widthRe,string = text))[0][1])
@@ -30,12 +33,16 @@ def handler (case,row):
 	
 
 
-imageStats = [] #[[src,height,width,style],[src,height,width,style]... ]
+imageStats = [] #[[src,width,height,style],[src,width,height,style]... ]
 htmlList = (os.listdir(os.getcwd()+'\\htmls'))
 os.chdir(os.getcwd()+'\\htmls')
 for i in range(0,len(htmlList)):
 	f = open(htmlList[i],'r')
-	tree = etree.HTML(f.read())
+	try:
+		tree = etree.HTML(f.read())
+	except:
+		print("ERROR IN: "+htmlList[i])
+		continue;
 	totalImages =  len(tree.xpath('//img'))
 	print(totalImages)
 	for j in range(0,totalImages): 
@@ -43,11 +50,11 @@ for i in range(0,len(htmlList)):
 		temp.append(htmlList[i])
 		temp.append(tree.xpath('//img['+str(j+1)+']/@src')[0])
 		if len(tree.xpath('//img['+str(j+1)+']/@width')) != 0 : 
-			temp.append(tree.xpath('//img['+str(j+1)+']/@width'))
+			temp.append(int(tree.xpath('//img['+str(j+1)+']/@width')[0]))
 		else:
 			temp.append('NA')
 		if len(tree.xpath('//img['+str(j+1)+']/@height')) != 0 : 
-			temp.append(tree.xpath('//img['+str(j+1)+']/@height'))
+			temp.append(int(tree.xpath('//img['+str(j+1)+']/@height')[0]))
 		else:
 			temp.append('NA')
 		
@@ -78,9 +85,24 @@ for i in range(0,len(imageStats)):
 	elif(imageStats[i][2] == 'NA' and imageStats[i][3] == 'NA' and imageStats[4] == 'NA'): 
 		handler(8,i)
 	
+import random 
+
+def getimage(url):
+	f = url.split("/")
+	fname = str(random.randrange(454534,786885856,3))+"_"+f[len(f)-1]
+	q = open('image.csv','w')
+	q.write(str(fname)+"|"+str(url)+"\n")
+	q.close()
+
+	response = requests.get(url, stream=True)
+	with open(fname, 'wb') as out_file:
+	    shutil.copyfileobj(response.raw, out_file)
+	del response
 
 
 
+os.chdir('D:\scrappers\imagecompression\images')
 
 for i in imageStats: 
-	print (i[2:4])
+	print (i)
+	getimage(i[1])
