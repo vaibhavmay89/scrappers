@@ -26,7 +26,10 @@ def getimage(url,fullpath):
 	# q = open('image.csv','w')
 	# q.write(str(fname)+"|"+str(url)+"\n")
 	# q.close()
-	response = requests.get(url, stream=True)
+	try: 
+		response = requests.get(url, stream=True)
+	except: 
+		print("FAILED: "+ url)
 	with open(fullpath, 'wb') as outfile:
 		# print fullpath
 		shutil.copyfileobj(response.raw, outfile)
@@ -39,33 +42,41 @@ def getActualDim(image):
 
 def convertThumbnail(row,original,oldpath):
 	global f,home
+	# print ('-------------------------------------')
+	# print f[row]
+	# print original
+	# print oldpath
 	t = os.path.split(f[row][1])
 	directory = path(t[0],'Optimized Images')
 	im = Image.open(oldpath)
-	s = im.size
+	# s = im.size
 	ts = [f[row][2],f[row][3]]
 	if ts[0] !='NA' and ts[1] != 'NA': 
-		compression = [(int(ts[0])*1.0)/s[0],(int(ts[0])*1.0)/s[1]]
+		compression = [(int(ts[0])*1.0)/originalDimentions[0],(int(ts[1])*1.0)/originalDimentions[1]]
 		if compression[0]< compression[1]: 
-			size = (1000000,ts[1])
+			size = (1000,int(ts[1]))
 		else:
-			size = (ts[0],1000000)
-	elif ts[0] == 'NA': 
-		size = ((1000000,ts[1])) 
-	elif ts[1] == 'NA': 
-		size = (ts[0],1000000)
+			size = (int(ts[0]),1000)
+	elif (ts[0]) == 'NA': 
+		size = ((1000,int(ts[1]))) 
+	elif (ts[1]) == 'NA': 
+		size = (int(ts[0]),1000)
 	else: 
-		size = (ts[0],ts[1])
+		size = (int(ts[0]),int(ts[1]))
+	
 	im = im.convert('RGB')
-	im.thumbnail(size,Image.ANTIALIAS)
-	print directory
+	im.thumbnail(size)
+	# print ( f[row][1],original, size,im.size)
+	# print directory
+	# print directory, t[1]
 	try: 
 		# home = os.getcwd()
 		os.chdir(directory)
-		im.save(t[1], "JPEG",quality=50, optimize=True, progressive=True)
+		# im.save(t[1], option='optimize')
+		im.save(t[1], "JPEG",quality=60, optimize=True, progressive=True)
 		os.chdir(home)
-		print 'success: '+ f[row][1]
-		return(directory+'\\'+t[1])
+		print (str(row)+'of '+str(len(f))+'|| f: '+ f[row][1])
+		return(directory+t[1])
 		
 	except: 
 		print 'failed: '+ f[row][1]
@@ -95,9 +106,12 @@ home = os.getcwd()
 finalData = []
 qq = open('finalstatus.csv','w')
 for i in range(0,len(f)): 
+	# print str(f[i])
 	t = os.path.split(f[i][1])
-	directory = path(t[0])
-	if f[i][2] != 'NA' or f[i][3] != 'NA': 
+	
+	if ((f[i][2] != 'NA' or f[i][3] != 'NA') and ((os.path.splitext(t[1])[1]).lower()== '.jpg' or (os.path.splitext(t[1])[1]).lower() == '.jpeg')) and ('data:image' not in str(f[i])): 
+		directory = path(t[0])
+		# print'dfgsfg'
 		getimage(original[i][1],directory+t[1])
 		originalDimentions= getActualDim(directory+t[1])
 		originalSize = os.path.getsize(directory+t[1])

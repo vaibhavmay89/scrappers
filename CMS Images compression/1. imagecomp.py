@@ -5,7 +5,7 @@ import PIL
 import requests
 import shutil
 import random 
-
+home = os.getcwd()
 def getimage(url):
 	f = url.split("/")
 	fname = str(random.randrange(454534,786885856,3))+"_"+f[len(f)-1]
@@ -77,6 +77,8 @@ htmlList = (os.listdir(os.getcwd()+'\\htmls'))
 os.chdir(os.getcwd()+'\\htmls')
 for i in range(0,len(htmlList)):
 	f = open(htmlList[i],'r')
+	if i % 10 == 0 : 
+			print str(i)+' of '+str(len(htmlList))
 	try:
 		tree = etree.HTML(f.read())
 	except:
@@ -86,6 +88,7 @@ for i in range(0,len(htmlList)):
 	# print(totalImages)
 	for j in range(0,totalImages): 
 		temp = [] 
+
 		temp.append(htmlList[i])
 		temp.append(tree.xpath('//img['+str(j+1)+']/@src')[0])
 		if len(tree.xpath('//img['+str(j+1)+']/@width')) != 0 : 
@@ -132,7 +135,7 @@ for i in range(0,len(imageStats)):
 		handler(8,i)
 
 
-
+os.chdir(home)
 f = open('images.csv','w')
 for i in imageStats: 
 	for j in range(0,4):

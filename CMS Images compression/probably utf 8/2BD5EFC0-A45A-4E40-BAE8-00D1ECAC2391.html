@@ -1,0 +1,131 @@
+<h1><span style="color:#000000;"><strong>Permutations (Arrangements of Objects):</strong></span></h1>
+
+<p><span style="color:#000000;"><span style="font-size: 10pt;">The number of permutations of n objects, taken r at a time, is the total number of arrangements of n objects, in groups of r where the order of the arrangement is important.</span></span></p>
+
+<p><a href="http://www.askiitians.com/online-study-packages.aspx?topicid=8&amp;utm_source=promo_on_site&amp;utm_medium=study_material&amp;utm_campaign=ecom&amp;utm_term=permutation_&amp;_combination&amp;utm_content=buy_now" target="_blank"><img src="http://cdn1.askiitians.com/Images/20141120-17341139-4206-PERMUTATION-&amp;-Combination-(1).jpg" style="height: 100%; width: 100%;"></a></p>
+
+<h3><span style="color:#000000;"><strong><span style="font-size: 10pt;">(i) Without repetition</span></strong></span></h3>
+
+<p><span style="color:#000000;"><span style="font-size: 10pt;">(a) Arranging n objects, taking r at a time in every arrangement, is equivalent to filling r places from n things.</span></span></p>
+
+<h3><span style="color:#000000;"><span style="font-size: 10pt;">&nbsp;</span><strong><span style="font-size: 10pt;">r-Places &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<img alt="without-repetition" src="http://cdn1.askiitians.com/cms-content/common/www.askiitians.comiit-jee-algebrapermutations-and-combinationsimageswithout-repetition.jpg.jpg"></span></strong></span></h3>
+
+<h3><span style="color:#000000;"><strong>&nbsp;</strong><span style="font-size: 10pt;"> <strong>Number of Choices:</strong> &nbsp; &nbsp; &nbsp; n &nbsp; &nbsp; n-1 &nbsp;&nbsp; n-2 &nbsp; &nbsp; n-3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; n - (r - 1)</span></span></h3>
+
+<p><span style="color:#000000;"><span style="font-size: 10pt;">Number of ways of arranging = Number of ways of filling r places</span></span></p>
+
+<p><span style="color:#000000;"><span style="font-size: 10pt;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; = n(n - 1)(n - 2) ... (n - r + 1)</span></span></p>
+
+<p><span style="color:#000000;"><span style="font-size: 10pt;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; = (n(n - 1)(n - 2) ... (n - r + 1)((n-r)!))/((n-r)!) = n!/((n-r)!) = <sup>n</sup>P<sub>r</sub>.</span></span></p>
+
+<p><span style="color:#000000;"><span style="font-size: 10pt;">(b) &nbsp;&nbsp; Number of arrangements of n different objects taken all at a time = <sup>n</sup>p<sub>n</sub> = n!</span></span></p>
+
+<h3><span style="color:#000000;"><strong><span style="font-size: 10pt;">(ii) &nbsp;&nbsp; With repetition</span></strong></span></h3>
+
+<p><span style="color:#000000;"><span style="font-size: 10pt;">(a) &nbsp;&nbsp; Number of permutations (arrangements) of n different objects, taken r at a time, when each object may occur once, twice, thrice ...... up to r times in any arrangements</span></span></p>
+
+<p><span style="color:#000000;"><span style="font-size: 10pt;">&nbsp; &nbsp; &nbsp; &nbsp; = Number of ways of filling r places, each out of n objects.</span></span></p>
+
+<h3><span style="color:#000000;"><strong><span style="font-size: 10pt;">r-Places: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img alt="with-repetition" src="http://cdn1.askiitians.com/cms-content/common/www.askiitians.comiit-jee-algebrapermutations-and-combinationsimageswith-repetition.jpg.jpg"></span></strong></span></h3>
+
+<h3><span style="color:#000000;">&nbsp;<span style="font-size: 10pt;"><strong>Number of Choices :</strong> &nbsp; &nbsp; &nbsp;n &nbsp; &nbsp;&nbsp; n &nbsp; &nbsp; &nbsp; n &nbsp; &nbsp; &nbsp; n &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; n</span></span></h3>
+
+<p><span style="color:#000000;"><span style="font-size: 10pt;">Number of ways to arrange = Number of ways to fill r places = (n)<sup>r</sup>.</span></span></p>
+
+<p><span style="color:#000000;"><span style="font-size: 10pt;">(iii) Number of arrangements that can be formed using n objects out of which p are identical (and of one kind), q are identical (and of one kind) and rest are different = n!/p!q!r!.</span></span></p>
+
+<h3><span style="color:#000000;"><strong><span style="font-size: 10pt;">Illustration:</span></strong></span></h3>
+
+<p><span style="color:#000000;"><span style="font-size: 10pt;">How many 7 - letter words can be formed using the letters of the words:</span></span></p>
+
+<p><span style="color:#000000;"><span style="font-size: 10pt;">&nbsp; &nbsp; &nbsp; &nbsp; (a) BELFAST, &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (b) ALABAMA</span></span></p>
+
+<h3><span style="color:#000000;"><strong><span style="font-size: 10pt;">Solution:</span></strong></span></h3>
+
+<p><span style="color:#000000;"><span style="font-size: 10pt;">&nbsp; &nbsp; &nbsp; &nbsp; (a) BELFAST has all different letters.</span></span></p>
+
+<p><span style="color:#000000;"><span style="font-size: 10pt;">Hence, the number of words</span></span></p>
+
+<p><span style="color:#000000;"><span style="font-size: 10pt;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <sup>7</sup>P<sub>7</sub> = 7! = 5040.</span></span></p>
+
+<p><span style="color:#000000;"><span style="font-size: 10pt;">(b) ALABAMA has 4 A&#39;s but the rest are all different. Hence the number of words formed is 7!/4! = 7 &times; 6 &times; 5 = 210.</span></span></p>
+
+<h3><span style="color:#000000;"><strong><span style="font-size: 10pt;">Illustration:</span></strong></span></h3>
+
+<p><span style="color:#000000;"><span style="font-size: 10pt;">(a) How many anagrams can be made by using the letters of the word HINDUSTAN?</span></span></p>
+
+<p><span style="color:#000000;"><span style="font-size: 10pt;">(b) How many of these anagrams begin and end with a vowel.</span></span></p>
+
+<p><span style="color:#000000;"><span style="font-size: 10pt;">(c) In how many of these anagrams all the vowels come together.</span></span></p>
+
+<p><span style="color:#000000;"><span style="font-size: 10pt;">(d) In how many of these anagrams none of the vowels come together.</span></span></p>
+
+<p><span style="color:#000000;"><span style="font-size: 10pt;">(e) In how many of these anagrams do the vowels and the consonants occupy the same relative positions as in HINDUSTAN?</span></span></p>
+
+<h3><span style="color:#000000;"><strong><span style="font-size: 10pt;">Solution:</span></strong></span></h3>
+
+<p><span style="color:#000000;"><span style="font-size: 10pt;">(a) The total number of anagrams</span></span></p>
+
+<p><span style="color:#000000;"><span style="font-size: 10pt;">&nbsp;</span><span style="font-size: 10pt;">&nbsp;&nbsp; = Arrangements of nine letters taken all at a time = 9!/2! = 181440.</span></span></p>
+
+<p><span style="color:#000000;"><span style="font-size: 10pt;">(b) We have 3 vowels and 6 consonants, in which 2 consonants are alike. The first place can </span><span style="font-size: 10pt;"> be filled in 3 ways and the last in 2 ways.&nbsp;</span><span style="font-size: 10pt;">The rest of the places can be filled in 7!/2! ways. Hence the total number anagrams = 3 </span><span style="font-size: 10pt;">&times; 2 &times; 7!/2! = 15210.</span></span></p>
+
+<p><span style="color:#000000;"><span style="font-size: 10pt;">(c) Assume the vowels (IUA) as a single letter. The letters (IUA) H, D, S, T, N, N can </span><span style="font-size: 10pt;"> arranged in 7!/2! ways. Also IUA can be </span><span style="font-size: 10pt;">arranged, among themselves, in 3! = 6 ways.</span></span></p>
+
+<p><span style="color:#000000;"><span style="font-size: 10pt;">Hence the total number of anagram = 7!/2! &times; 6 = 15120.</span></span></p>
+
+<p><span style="color:#000000;"><span style="font-size: 10pt;">(d) Let us divide the task in two parts. In the first, we arrange the 6 consonants as shown in </span><span style="font-size: 10pt;"> 6!/2! ways.</span></span></p>
+
+<p><span style="color:#000000;"><span style="font-size: 10pt;">&times; C &times; C &times; C &times; C &times; C &times; C &times; (C stands for consonants and &times; stand for blank spaces</span><span style="font-size: 10pt;"> between them)</span></span></p>
+
+<p><span style="color:#000000;"><span style="font-size: 10pt;">3 vowels can be arranged in 7 places (between the consonants) in 7p<sub>3</sub> = 7!/2! =210.</span></span></p>
+
+<p><span style="color:#000000;"><span style="font-size: 10pt;">(e) In this case the vowels are arranged among themselves in 3! = 6 ways.</span><span style="font-size: 10pt;"> Also the consonants are arranged among themselves in 6!/2! ways.</span></span></p>
+
+<p><span style="color:#000000;"><span style="font-size: 10pt;">Hence the total number of anagrams = 6!/2! &times; 6 = 2160.</span></span></p>
+
+<h3><span style="color:#000000;"><strong><span style="font-size: 10pt;">Illustration:</span></strong></span></h3>
+
+<p><span style="color:#000000;"><span style="font-size: 10pt;">How many 3 digit numbers can be formed using the digits 0, 1, 2, 3, 4, 5 where</span></span></p>
+
+<p><span style="color:#000000;"><span style="font-size: 10pt;">(a) Digits may not be repeated,</span></span></p>
+
+<p><span style="color:#000000;"><span style="font-size: 10pt;">(b) Digits may be repeated</span></span></p>
+
+<h3><span style="color:#000000;"><strong><span style="font-size: 10pt;">Solution:</span></strong></span></h3>
+
+<p><span style="color:#000000;"><span style="font-size: 10pt;">(a) Let the 3 digit number by XYZ.</span></span></p>
+
+<p><span style="color:#000000;"><span style="font-size: 10pt;">Position (X) can be filled by 1, 2, 3, 4, 5 but not 0, so it can be filled in 5 ways.</span></span></p>
+
+<p><span style="color:#000000;"><span style="font-size: 10pt;">Position (Y) can be filled in 5 ways again. Since 0 can be placed in this position.</span></span></p>
+
+<p><span style="color:#000000;"><span style="font-size: 10pt;">Position (Z) can be filled in 4 ways.</span></span></p>
+
+<p><span style="color:#000000;"><span style="font-size: 10pt;">Hence, by the fundamental principal of counting, total number of ways is 5 &times; 5 &times; 4 = 100 ways.</span></span></p>
+
+<p><span style="color:#000000;"><span style="font-size: 10pt;">(b) Let the 3 digit number be XYZ.</span></span></p>
+
+<p><span style="color:#000000;"><span style="font-size: 10pt;">Position (X) can be filled in 5 ways.</span></span></p>
+
+<p><span style="color:#000000;"><span style="font-size: 10pt;">Position (Y) can be filled in 6 ways</span></span></p>
+
+<p><span style="color:#000000;"><span style="font-size: 10pt;">Position (Z) can be filled in 6 ways.</span></span></p>
+
+<p><span style="color:#000000;"><span style="font-size: 10pt;">Hence, by the fundamental principle of counting, total number of ways is 5 &times; 6 &times; 6 = 180.</span></span></p>
+
+<h3><span style="color:#000000;"><strong><span style="font-size: 10pt;">Illustration:</span></strong></span></h3>
+
+<p><span style="color:#000000;"><span style="font-size: 10pt;">Find the number of ways in which 6 letters can be posted in 10 letterboxes.</span></span></p>
+
+<h3><span style="color:#000000;"><strong><span style="font-size: 10pt;">Solution:</span></strong></span></h3>
+
+<p><span style="color:#000000;"><span style="font-size: 10pt;">For every letter, we have 10 choices (i.e. 10 letterboxes).</span></span></p>
+
+<p><span style="color:#000000;"><span style="font-size: 10pt;">Hence the total number of ways = 10<sup>6</sup> = 1,000,000.</span></span></p>
+
+<h3><span style="color:#000000;"><span style="font-size: 10pt;">At askIITians we provide you free study material on Permutations and Combinations. Apart from this you get all the professional help needed to get through IIT JEE and AIEEE easily. AskIITians also provides live online IIT JEE preparation and coaching where you can attend our live online classes from your home!</span></span></h3>
+
+<p>&nbsp;</p>
+
+<h3><span style="color:#000000;"><strong>To know more about the study material of engineering and medical exams, please fill up the form given below:</strong></span></h3>
