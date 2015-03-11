@@ -22,7 +22,10 @@ def cursor2list(cursor):
 ##########################################################
 f = open('template.html','r')
 
-template = f.read()
+template1 = f.read()
+f = open('templatewc.html','r')
+template2 = f.read()
+
 
 f = open('data.csv','r')
 temp = f.readlines()
@@ -41,7 +44,13 @@ for i in range(0,len(data)):
 	data[i] = data[i].split(',')
 
 for i in range(0,len(data)) : 
-	t= template
+	if 'NA' in data[i]:
+		t= template2
+		# print i
+	else: 
+		t = template1 
+
+
 	for j in range(0,len(data[1])):
 		t = t.replace('{{'+headers[j]+'}}',data[i][j])
 	f = open(str(data[i][0])+".html",'w')
@@ -53,7 +62,7 @@ for i in range(0,len(data)) :
 
 home = os.getcwd()
 os.chdir('C:/Users/vaibhav.singhal')
-print(os.getcwd())
+# print(os.getcwd())
 # credentials[3]
 f=open('credentials','r')
 f = f.readlines()
@@ -74,7 +83,7 @@ FROM askiiti_askiitians.PackageDetail where isactive = 1""")
 new = cursor2list(cursor)
 cursor.close()
 
-print new
+# print new
 
 for i in range(0,len(data)):
 	j = open(data[i][0]+".html",'r')
