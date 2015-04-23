@@ -36,7 +36,7 @@ def html2pd(filename):
 	# print 'done'
 
 home = os.getcwd()
-os.chdir(os.getcwd()+r'\htmls')
+os.chdir(os.getcwd()+r'\test')
 
 extraHead = """
 <html>
@@ -66,8 +66,8 @@ for i in allFiles:
 			f=open(i,'w')
 			f.write((extraHead+ body + extraTail))
 		f.close()
-		# try:
-		html2pd(i)
-		print ("Success: "+i)
-		# except: 
-		#  	print ("Failed: "+i)
+		try:
+			html2pd(i)
+			print ("Success: "+i)
+		except: 
+		 	print ("Failed: "+i)

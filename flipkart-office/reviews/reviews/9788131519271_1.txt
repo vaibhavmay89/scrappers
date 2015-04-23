@@ -1,0 +1,7 @@
+
+ the book is precise in terms of information and has less (around 20)subjective problems
+but not in terms of illustrative solved examples and objective problems,
+it has around 7 concept application exercises;
+it has previous years iitjee problems and has around 55 solved examples,
+100 objective problems(single correct), 20 (multi correct),20 assertion & reasoning,
+20 comprehension type, 20 integer type and 10 match type in each chapter. 

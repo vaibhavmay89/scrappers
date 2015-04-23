@@ -1,0 +1,1 @@
+If you want yourself quickly get acquainted with the best practices & know-how of using different patterns around JavaScript, this is the book for you. It assumes certain level of familiarity with JavaScript and goes on exploring fine art of coding with JavaScript. Highly recommended if you want to unleash the power of JavaScript.

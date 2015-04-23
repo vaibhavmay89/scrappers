@@ -1,0 +1,14 @@
+this book is good only if you are appearing for Jee Mains and your target is just to solve problems based on formulae 
+this book have many conceptual blunders or there are many formulae given coming from no where 
+here are some points. which are worthy to read, and you will understand if you are very good student or a teacher for jee and please forgive for bad english :) 
+1. in chapter highest power of a number in n! author has explained by taking some examples...but there exist more elegant way to do this (refer bernald child s HIgher algebra 
+2. in chapter2. factor theory ...author didnt explain concept of getting odd factors of various type which leaves different type of remainder .for example factor of type 2m+1 , 4m+1 , 4m+3 ...... 
+3.in chapter geometrical construction author again didnt explain how to find number of any specific size of rectangle on a random sized rectangle board? he only explained about square board...and that only on chess board . 
+4.in chapter circular arrangements author is only limited on basic concepts which are just formulae based 
+5.in chapter word formation author gave rank method to count from start no explanation what if a specific word has very large rank, isn t there a short method ? :) 
+6.in chapter sum of all number formed no questions on ... what is sum of all numbers when they have 0 and repeated digits?? why?? 
+7. in chapter distribution 
+(a)for distribution of distinct objects in identical boxes ...there is a formulae given...but that formulae doesn t hold when number of distinct elements are eqaul in atleast 2 identical boxes ? :) 
+(b)for distribution of distinct objects in different boxes only direct formulae given no focus on concept of inclusion exclusion coz no one is supposed to remember formuales in PnC 
+8 . in chapter number of integral solutions 
+ no concept on adding dummy like what a+b+c

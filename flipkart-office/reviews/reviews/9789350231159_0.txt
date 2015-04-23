@@ -1,0 +1,3 @@
+I found this book quiet helpful to understand modern javascripting coding style. 
+Last javascript book I read was HTML, DHTML, JavaScript and perl by Ivan Bayross almost 10 years ago and since then a lot of things have been changing. 
+This book helps you to brush-up your javascript skills if you haven t read javascript books since long.

@@ -1,0 +1,4 @@
+
+ Book resembles Javascript the Good Parts by Douglas Crockford at several places which is again by Yahoo Press.Its better to have either of these. 
+Apart from that the book is very comprehensive in covering all scenarios of patterns that can be applied using Javascript as a programming language. 
+Book covers extensive use cases if imbibed results in clean coding practice. 

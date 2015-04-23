@@ -1,4 +1,20 @@
-
- A good book for last month revision.
-omitting one star for some mistakes 
-verdict you can go for it :) 
+Introduction: 
+I happened to first see this book in a local book fair when I was a plus two student more than a decade ago. Seniors and my teacher used to recommend this book for the most challenging problems one could find. I immediately picked up a copy. In those days, it was the favourite book for students who used to take the IIT JEE. 
+More than a decade later, I am a Physics teacher. The format of the IIT-JEE has changed a lot, and these days, the book isn t that much of a favourite among plus two students as it does not contain any MCQs. However, to me, the book has come even closer to me and I still get a high when I happen to solve a few cool problems. 
+Whom is this book for: 
+This book is primarily meant for plus two students. However, judging the level of difficulty of the problems, any Physics lover at any level should fall in love with it. Ideally, you should start with the problems in plus two and by the time you finish your Bachelors, you should have completed it. 
+Organization of the book: 
+The book is divided into six parts: 
+1. Mechanics: Kinematics, Dynamics, Conservation Laws, Gravitation, Rigid Body Dynamics, Elasticity, Hydrodynamics, Relativistic Mechanics 
+2. Thermodynamics and Molecular Physics: Equations of state and Processes, First law and heat Capacity, Kinetic Theory and Maxwell Boltzman distribution, Entropy and the Second law, Surface tension, Phase Transitions, Transport Phenomena 
+3. Electrodynamics: Constant Electric Field in Vacuum, Conductors and Dielectrics, Capacitance and Energy in an Electric Field, Current Electricity, Magnetostatics, EM Induction and Maxwell s Equations, Motion of Charged Particles in Electric and Magnetic Fields. 
+4. Oscillations and Waves: Mechanical Oscillations, Electric Oscillations, Elastic waves: Acoustics, EM waves and radiation 
+5. Optics: Photometry and Geometrical Optics, Interference, Diffraction, Polarization, Dispersion and Absorption, Optics of Moving Sources, Thermal Radiation and Quantum nature of Light. 
+6. Atomic and Nuclear Physics: Scattering of Particles: Bohr-Rutherford atom, Wave properties of particles: Schrodinger Equation, Properties of atoms and Atomic Spectra, Molecules and Crystals, Radioactivity, Nuclear Reactions, Elementary Particles. 
+In my opinion, the organization of the book is very logical. 
+About the quality of the problems: Most of the problems require very clear thinking. You will hardly get any plug and chug problem. Some problems are indeed very demanding and require you to use several concepts. This was the reason why this book was so popular for IIT-JEE and is still a favourite for Physics Olympiads. Some reviewer has called this book a good workout for the brain. I couldn t agree more with him/her. 
+How to use this book: First be very clear about the theory that you need for solving these problems. You should get that from any standard book. Choose your favourite: HC Verma, Resnick and Halliday or Sears and Zemansky. 
+Irodov has also written two other tiny books on Mechanics and Electrodynamics. You can get these. They are excellent too. You can take help from them. 
+After this, you should be able to do at least many of the problems, but maybe not all. The second stage is to put on your thinking caps and yes, don t forget to consult with your friends or teachers. With hard work, you should be able to do a substantial number of problems. Good luck! 
+This book deserves nothing short of 5 stars! However, as you may have noticed, this book is available from many publishers like CBS, GK and maybe others too. The quality of the printing, the pages and the binding varies. I have noticed, the one from GK is a bit weak on the printing side. However, they offer it at the cheapest price (Rs 58 at the time of writing from flipkart, though the MRP was Rs 100). This book was originally published by Mir Publishers, Moscow which I guess has vanished after the dissolution of the Soviet Union. This publisher has given us many many quality books starting from the school level. India has benefited enormously from the close association we had with the erstwhile USSR till the eighties and early nineties. This book is a product of love from a country which has produced marvellous physicists for the world. 
+About the author: Not much is known about him unfortunately. But I gather he spent years if not decades to make a course of theoretical Physics. He has written 4 books on Nuclear Physics, Mechanics and Electrodynamics and the present one. All of them except the Nuclear Physics one are available even now. You can search on google for a pdf of the Nuclear Physics book. All the books are of excellent quality. Let us pay our tributes to this great man by at least solving the problems in this book! Happy studying everyone! :)

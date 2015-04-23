@@ -26,12 +26,20 @@ f.close()
 for i in range(0,len(urls)) : 
 	items = [20,90]
 	ii = 1
+	print '1: '
 	while(len(items)*ii) > 0:
+		# print '2: '
 		url = urls[i].split('{{NUM}}')
 		page = requests.get(url[0]+str(ii*20)+url[1])
+		print url[0]+str(ii*20)+url[1]
+		ii +=1
 		# print '\n\n\n'+url[0]+str(ii*20)+url[1]+'\n\n\n'
-		tree = etree.HTML(page.text)
-		# items =  tree.xpath(key)
+		try:
+			tree = etree.HTML(page.text)
+		except: 
+			ii=0
+
+			# items =  tree.xpath(key)
 		# f=open('urls.txt','a')
 		items = tree.xpath(ini)
 		# print '\n\n\n\n\n\n\n\n\n'+ str(len(items))+'\n-----\n\n'
@@ -39,7 +47,7 @@ for i in range(0,len(urls)) :
 		temp = 1
 		for item in range(0,len(items)):
 			tempRow=[]
-			print '\n\n-----\n\n'
+			# print '\n\n-----\n\n'
 			for key in dictionary: 				
 				xpath = ini + "["+str(item+1)+"]"+dictionary[key]
 				out = str(tree.xpath(xpath))
@@ -48,10 +56,10 @@ for i in range(0,len(urls)) :
 						out = out.replace(rem,'')
 				tempRow.append(out)
 			f = open('urls.txt','a')
-			f.write("var.append(")
+			f.write("var.append([")
 			for iii in tempRow: 
 				f.write('"'+iii.strip()+'",')
-			f.write(')\n')
+			f.write('])\n')
 			f.close()
 				
 
