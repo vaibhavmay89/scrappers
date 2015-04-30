@@ -17,10 +17,11 @@ def getimage(url,fname):
 #home sweet home
 current = os.getcwd()
 # switching to the source 
-os.chdir(current+r'\htmls')
+os.chdir(current+r'\htmls-new-all')
 
 fileList = os.listdir(os.getcwd())
 htmlList = []
+
 for i in range(0,len(fileList)):
 	if ".html"  in fileList[i]:
 		htmlList.append(fileList[i])
@@ -35,7 +36,7 @@ for i in htmlList:
 
 
 #Downloading all the images
-os.chdir(current+r'\htmls-new'+r'\images')
+os.chdir(current+r'\htmls-new-allf'+r'\images')
 imageList = []
 for i in hlmlFiles:
 	tree = etree.HTML(i[1])
@@ -46,18 +47,21 @@ for i in hlmlFiles:
 			## List and download to images folder 
 			## Repalce the name in text 
 			fname = j.split('/')[-1]
-			i[1]=i[1].replace(j,"images/"+fname)
+			i[1]=i[1].replace(j,"file:///D:/scrappers/html2pdf/htmls-new-all/images/"+fname)
 			getimage(j,fname)
 		# writing the updated html file ... 
 
-		os.chdir(current+r'\htmls-new')
+		os.chdir(current+r'\htmls-new-allf')
 		newHtml = i[1]
 		f = open(i[0],'w')
 		f.write(i[1])
 		f.close()
-		os.chdir(current+r'\htmls-new'+r'\images')
+		os.chdir(current+r'\htmls-new-allf'+r'\images')
 	except: 
 		print 'Skipping file: '+ i[0]
+	
+
+
 	
 
 
